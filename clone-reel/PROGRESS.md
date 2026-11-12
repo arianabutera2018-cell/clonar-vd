@@ -10,3 +10,10 @@
 - [ ] Transcrever a narração (pt) com tempos por palavra.
 - [ ] ANALYSIS.md / TIMELINE.md.
 - [ ] Reescrever o roteiro com o mesmo sentido; escolher voz no ElevenLabs; separar música da voz.
+
+## Transcrição (ElevenLabs)
+- Fluxo ElevenLabs: `eOTvTmu05SV6P5cPYtXQ` ("Clone Reel GTA – dublagem").
+- Nó de áudio: `dU41zn986so8WOG9SbHR` (reel-original-audio.mp3). Nó Scribe: `mjMuMuFMFiZR4ymPBCt5`.
+- Custo estimado: ~523 créditos. 1ª tentativa recusada ("gerações gratuitas ocupadas"), nada cobrado.
+- Próximo: rodar o Scribe de novo; salvar a transcrição em `references/reel/transcript.json`.
+- Também existe uma versão 1080p (DASH vp9) para usar na exportação final.
