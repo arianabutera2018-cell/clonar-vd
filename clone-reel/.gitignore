@@ -2,3 +2,7 @@
 references/**/*.mp4
 references/**/*.mp3
 .hypit/
+assets/voice/*.mp3
+preview/
+references/**/*.wav
+exports/
