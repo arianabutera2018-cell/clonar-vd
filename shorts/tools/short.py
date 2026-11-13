@@ -75,8 +75,12 @@ fc.append(''.join(vlabels[nh:]) + f'concat=n={nb}:v=1:a=0,fade=t=in:st=0:d={FADE
 fc.append(''.join(alabels[nh:]) + f'concat=n={nb}:v=0:a=1,afade=t=in:st=0:d={FADE}[ab0]')
 fc.append('[vh][vb]concat=n=2:v=1:a=0,fps=30,split=2[vx][vy]')
 fc.append(f'[vx]scale=-2:{H},crop={W}:{H},boxblur=28:2,eq=brightness=-0.18:saturation=1.2[bg]')
-fc.append(f'[vy]scale=-2:{VH},crop={W}:{VH}[fg]')
-fc.append(f'[bg][fg]overlay=0:{VY}[base]')
+if spec.get('fit') == 'contain':
+    fc.append(f'[vy]scale={W}:-2[fg]')
+    fc.append(f'[bg][fg]overlay=0:{VY + (VH - 608) // 2}[base]')
+else:
+    fc.append(f'[vy]scale=-2:{VH},crop={W}:{VH}[fg]')
+    fc.append(f'[bg][fg]overlay=0:{VY}[base]')
 vchain = f'[base]ass={ovl}'
 if spec['body'].get('captions'):
     vchain += f",ass={spec['body']['captions']}"

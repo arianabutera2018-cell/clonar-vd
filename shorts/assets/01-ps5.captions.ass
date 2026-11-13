@@ -1,0 +1,89 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Fala,Inter Display Black,72,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,7,4,8,70,70,1420,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.05,0:00:03.23,Fala,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H00A25FFF}TUDO{\c&H00FFFFFF} ISSO QUE
+Dialogue: 0,0:00:03.23,0:00:03.39,Fala,,0,0,0,,TUDO {\c&H00A25FFF}ISSO{\c&H00FFFFFF} QUE
+Dialogue: 0,0:00:03.39,0:00:03.49,Fala,,0,0,0,,TUDO ISSO {\c&H00A25FFF}QUE{\c&H00FFFFFF}
+Dialogue: 0,0:00:03.49,0:00:03.69,Fala,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H00A25FFF}VOCÊ{\c&H00FFFFFF} ESTÁ VENDO
+Dialogue: 0,0:00:03.69,0:00:03.89,Fala,,0,0,0,,VOCÊ {\c&H00A25FFF}ESTÁ{\c&H00FFFFFF} VENDO
+Dialogue: 0,0:00:03.89,0:00:04.21,Fala,,0,0,0,,VOCÊ ESTÁ {\c&H00A25FFF}VENDO{\c&H00FFFFFF}
+Dialogue: 0,0:00:04.21,0:00:04.35,Fala,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H00A25FFF}FOI{\c&H00FFFFFF} CAPTURADO NUM
+Dialogue: 0,0:00:04.35,0:00:04.93,Fala,,0,0,0,,FOI {\c&H00A25FFF}CAPTURADO{\c&H00FFFFFF} NUM
+Dialogue: 0,0:00:04.93,0:00:05.09,Fala,,0,0,0,,FOI CAPTURADO {\c&H00A25FFF}NUM{\c&H00FFFFFF}
+Dialogue: 0,0:00:05.09,0:00:06.15,Fala,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H00A25FFF}PS5.{\c&H00FFFFFF}
+Dialogue: 0,0:00:06.38,0:00:06.58,Fala,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H00A25FFF}QUEM{\c&H00FFFFFF} AVISA É
+Dialogue: 0,0:00:06.58,0:00:07.16,Fala,,0,0,0,,QUEM {\c&H00A25FFF}AVISA{\c&H00FFFFFF} É
+Dialogue: 0,0:00:07.16,0:00:07.26,Fala,,0,0,0,,QUEM AVISA {\c&H00A25FFF}É{\c&H00FFFFFF}
+Dialogue: 0,0:00:07.26,0:00:07.36,Fala,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H00A25FFF}A{\c&H00FFFFFF} PRÓPRIA ROCKSTAR,
+Dialogue: 0,0:00:07.36,0:00:07.70,Fala,,0,0,0,,A {\c&H00A25FFF}PRÓPRIA{\c&H00FFFFFF} ROCKSTAR,
+Dialogue: 0,0:00:07.70,0:00:08.52,Fala,,0,0,0,,A PRÓPRIA {\c&H00A25FFF}ROCKSTAR,{\c&H00FFFFFF}
+Dialogue: 0,0:00:08.52,0:00:08.64,Fala,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H00A25FFF}NO{\c&H00FFFFFF} FINAL DO
+Dialogue: 0,0:00:08.64,0:00:09.04,Fala,,0,0,0,,NO {\c&H00A25FFF}FINAL{\c&H00FFFFFF} DO
+Dialogue: 0,0:00:09.04,0:00:09.16,Fala,,0,0,0,,NO FINAL {\c&H00A25FFF}DO{\c&H00FFFFFF}
+Dialogue: 0,0:00:09.16,0:00:09.64,Fala,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H00A25FFF}GAMEPLAY{\c&H00FFFFFF} OFICIAL DO
+Dialogue: 0,0:00:09.64,0:00:10.12,Fala,,0,0,0,,GAMEPLAY {\c&H00A25FFF}OFICIAL{\c&H00FFFFFF} DO
+Dialogue: 0,0:00:10.12,0:00:10.46,Fala,,0,0,0,,GAMEPLAY OFICIAL {\c&H00A25FFF}DO{\c&H00FFFFFF}
+Dialogue: 0,0:00:10.46,0:00:11.00,Fala,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H00A25FFF}GTA{\c&H00FFFFFF} 6.
+Dialogue: 0,0:00:11.00,0:00:11.66,Fala,,0,0,0,,GTA {\c&H00A25FFF}6.{\c&H00FFFFFF}
+Dialogue: 0,0:00:11.96,0:00:12.22,Fala,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H00A25FFF}OLHA{\c&H00FFFFFF} O PÔR
+Dialogue: 0,0:00:12.22,0:00:12.30,Fala,,0,0,0,,OLHA {\c&H00A25FFF}O{\c&H00FFFFFF} PÔR
+Dialogue: 0,0:00:12.30,0:00:12.46,Fala,,0,0,0,,OLHA O {\c&H00A25FFF}PÔR{\c&H00FFFFFF}
+Dialogue: 0,0:00:12.46,0:00:12.64,Fala,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H00A25FFF}DO{\c&H00FFFFFF} SOL EM
+Dialogue: 0,0:00:12.64,0:00:12.93,Fala,,0,0,0,,DO {\c&H00A25FFF}SOL{\c&H00FFFFFF} EM
+Dialogue: 0,0:00:12.93,0:00:13.05,Fala,,0,0,0,,DO SOL {\c&H00A25FFF}EM{\c&H00FFFFFF}
+Dialogue: 0,0:00:13.05,0:00:13.41,Fala,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H00A25FFF}VICE{\c&H00FFFFFF} CITY.
+Dialogue: 0,0:00:13.41,0:00:14.11,Fala,,0,0,0,,VICE {\c&H00A25FFF}CITY.{\c&H00FFFFFF}
+Dialogue: 0,0:00:14.17,0:00:14.33,Fala,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H00A25FFF}A{\c&H00FFFFFF} PRAIA LOTADA.
+Dialogue: 0,0:00:14.33,0:00:14.65,Fala,,0,0,0,,A {\c&H00A25FFF}PRAIA{\c&H00FFFFFF} LOTADA.
+Dialogue: 0,0:00:14.65,0:00:15.55,Fala,,0,0,0,,A PRAIA {\c&H00A25FFF}LOTADA.{\c&H00FFFFFF}
+Dialogue: 0,0:00:15.59,0:00:15.67,Fala,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H00A25FFF}O{\c&H00FFFFFF} REFLEXO NA
+Dialogue: 0,0:00:15.67,0:00:16.31,Fala,,0,0,0,,O {\c&H00A25FFF}REFLEXO{\c&H00FFFFFF} NA
+Dialogue: 0,0:00:16.31,0:00:16.55,Fala,,0,0,0,,O REFLEXO {\c&H00A25FFF}NA{\c&H00FFFFFF}
+Dialogue: 0,0:00:16.55,0:00:17.11,Fala,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H00A25FFF}ÁGUA.{\c&H00FFFFFF}
+Dialogue: 0,0:00:17.25,0:00:17.33,Fala,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H00A25FFF}A{\c&H00FFFFFF} BALADA CHEIA
+Dialogue: 0,0:00:17.33,0:00:17.87,Fala,,0,0,0,,A {\c&H00A25FFF}BALADA{\c&H00FFFFFF} CHEIA
+Dialogue: 0,0:00:17.87,0:00:18.11,Fala,,0,0,0,,A BALADA {\c&H00A25FFF}CHEIA{\c&H00FFFFFF}
+Dialogue: 0,0:00:18.11,0:00:18.23,Fala,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H00A25FFF}DE{\c&H00FFFFFF} GENTE DANÇANDO.
+Dialogue: 0,0:00:18.23,0:00:18.49,Fala,,0,0,0,,DE {\c&H00A25FFF}GENTE{\c&H00FFFFFF} DANÇANDO.
+Dialogue: 0,0:00:18.49,0:00:19.43,Fala,,0,0,0,,DE GENTE {\c&H00A25FFF}DANÇANDO.{\c&H00FFFFFF}
+Dialogue: 0,0:00:19.54,0:00:19.82,Fala,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H00A25FFF}E{\c&H00FFFFFF} O MAIS
+Dialogue: 0,0:00:19.82,0:00:19.92,Fala,,0,0,0,,E {\c&H00A25FFF}O{\c&H00FFFFFF} MAIS
+Dialogue: 0,0:00:19.92,0:00:20.18,Fala,,0,0,0,,E O {\c&H00A25FFF}MAIS{\c&H00FFFFFF}
+Dialogue: 0,0:00:20.18,0:00:20.94,Fala,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H00A25FFF}INSANO:{\c&H00FFFFFF}
+Dialogue: 0,0:00:21.04,0:00:21.32,Fala,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H00A25FFF}FALTA{\c&H00FFFFFF} MENOS DE
+Dialogue: 0,0:00:21.32,0:00:21.56,Fala,,0,0,0,,FALTA {\c&H00A25FFF}MENOS{\c&H00FFFFFF} DE
+Dialogue: 0,0:00:21.56,0:00:21.64,Fala,,0,0,0,,FALTA MENOS {\c&H00A25FFF}DE{\c&H00FFFFFF}
+Dialogue: 0,0:00:21.64,0:00:21.82,Fala,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H00A25FFF}UMA{\c&H00FFFFFF} SEMANA.
+Dialogue: 0,0:00:21.82,0:00:22.54,Fala,,0,0,0,,UMA {\c&H00A25FFF}SEMANA.{\c&H00FFFFFF}
+Dialogue: 0,0:00:22.96,0:00:23.06,Fala,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H00A25FFF}O{\c&H00FFFFFF} GTA 6
+Dialogue: 0,0:00:23.06,0:00:23.52,Fala,,0,0,0,,O {\c&H00A25FFF}GTA{\c&H00FFFFFF} 6
+Dialogue: 0,0:00:23.52,0:00:23.80,Fala,,0,0,0,,O GTA {\c&H00A25FFF}6{\c&H00FFFFFF}
+Dialogue: 0,0:00:23.80,0:00:24.04,Fala,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H00A25FFF}CHEGA{\c&H00FFFFFF} DIA 19
+Dialogue: 0,0:00:24.04,0:00:24.46,Fala,,0,0,0,,CHEGA {\c&H00A25FFF}DIA{\c&H00FFFFFF} 19
+Dialogue: 0,0:00:24.46,0:00:24.68,Fala,,0,0,0,,CHEGA DIA {\c&H00A25FFF}19{\c&H00FFFFFF}
+Dialogue: 0,0:00:24.68,0:00:24.78,Fala,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H00A25FFF}DE{\c&H00FFFFFF} NOVEMBRO,
+Dialogue: 0,0:00:24.78,0:00:25.60,Fala,,0,0,0,,DE {\c&H00A25FFF}NOVEMBRO,{\c&H00FFFFFF}
+Dialogue: 0,0:00:25.72,0:00:25.92,Fala,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H00A25FFF}NO{\c&H00FFFFFF} PS5 E
+Dialogue: 0,0:00:25.92,0:00:26.97,Fala,,0,0,0,,NO {\c&H00A25FFF}PS5{\c&H00FFFFFF} E
+Dialogue: 0,0:00:26.97,0:00:27.05,Fala,,0,0,0,,NO PS5 {\c&H00A25FFF}E{\c&H00FFFFFF}
+Dialogue: 0,0:00:27.05,0:00:27.27,Fala,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H00A25FFF}NO{\c&H00FFFFFF} XBOX SERIES.
+Dialogue: 0,0:00:27.27,0:00:27.67,Fala,,0,0,0,,NO {\c&H00A25FFF}XBOX{\c&H00FFFFFF} SERIES.
+Dialogue: 0,0:00:27.67,0:00:28.51,Fala,,0,0,0,,NO XBOX {\c&H00A25FFF}SERIES.{\c&H00FFFFFF}
+Dialogue: 0,0:00:28.69,0:00:29.01,Fala,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H00A25FFF}SEGUE{\c&H00FFFFFF} O NEWS
+Dialogue: 0,0:00:29.01,0:00:29.03,Fala,,0,0,0,,SEGUE {\c&H00A25FFF}O{\c&H00FFFFFF} NEWS
+Dialogue: 0,0:00:29.03,0:00:29.37,Fala,,0,0,0,,SEGUE O {\c&H00A25FFF}NEWS{\c&H00FFFFFF}
+Dialogue: 0,0:00:29.37,0:00:29.75,Fala,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H00A25FFF}CORINGA,{\c&H00FFFFFF}
+Dialogue: 0,0:00:29.75,0:00:29.87,Fala,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H00A25FFF}QUE{\c&H00FFFFFF} TEM NOVIDADE
+Dialogue: 0,0:00:29.87,0:00:30.05,Fala,,0,0,0,,QUE {\c&H00A25FFF}TEM{\c&H00FFFFFF} NOVIDADE
+Dialogue: 0,0:00:30.05,0:00:30.49,Fala,,0,0,0,,QUE TEM {\c&H00A25FFF}NOVIDADE{\c&H00FFFFFF}
+Dialogue: 0,0:00:30.49,0:00:30.65,Fala,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H00A25FFF}TODO{\c&H00FFFFFF} DIA.
+Dialogue: 0,0:00:30.65,0:00:31.30,Fala,,0,0,0,,TODO {\c&H00A25FFF}DIA.{\c&H00FFFFFF}
