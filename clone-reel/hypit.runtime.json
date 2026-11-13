@@ -33,7 +33,8 @@
         "expectedDevice": "cpu",
         "expectedCompute": "int8",
         "alignmentLanguages": [
-          "pt"
+          "pt",
+          "en"
         ]
       }
     }

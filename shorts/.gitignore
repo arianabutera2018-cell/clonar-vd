@@ -1,0 +1,7 @@
+sources/*.mp4
+research/clips/
+exports/
+preview/
+*.wav
+*.mp3
+research/*.html
