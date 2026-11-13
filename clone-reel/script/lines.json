@@ -1,0 +1,834 @@
+[
+ {
+  "i": 0,
+  "start": 0.071,
+  "end": 3.795,
+  "original": "Por mais de 10 anos, o GTA V te ensinou a jogar de um jeito.",
+  "new": "Faz mais de uma década que o GTA V te acostumou a jogar de um jeito só.",
+  "ratio": 1.18
+ },
+ {
+  "i": 1,
+  "start": 4.175,
+  "end": 6.357,
+  "original": "Se esconder num beco até as estrelas sumirem.",
+  "new": "Se enfiar num beco até as estrelas desaparecerem.",
+  "ratio": 1.09
+ },
+ {
+  "i": 2,
+  "start": 6.918,
+  "end": 8.919,
+  "original": "Andar com o arsenal inteiro no bolso.",
+  "new": "Carregar o arsenal todo no bolso.",
+  "ratio": 0.89
+ },
+ {
+  "i": 3,
+  "start": 9.26,
+  "end": 11.762,
+  "original": "Roubar qualquer carro de luxo em dois segundos.",
+  "new": "Levar qualquer carrão em dois segundos.",
+  "ratio": 0.83
+ },
+ {
+  "i": 4,
+  "start": 12.663,
+  "end": 17.828,
+  "original": "Só que no dia 19 de novembro, o GTA VI chega para quebrar quase todos esses hábitos.",
+  "new": "Mas em 19 de novembro, o GTA VI chega pra acabar com quase todos esses costumes.",
+  "ratio": 0.95
+ },
+ {
+  "i": 5,
+  "start": 18.388,
+  "end": 23.133,
+  "original": "E o último desta lista é o mais perigoso, porque ele pode marcar o seu jogo para sempre.",
+  "new": "E o último da lista é o mais arriscado, porque ele pode deixar marca no seu jogo pra sempre.",
+  "ratio": 1.05
+ },
+ {
+  "i": 6,
+  "start": 23.753,
+  "end": 29.335,
+  "original": "No GTA V, o Franklin carregava pistola, fuzil, escopeta, lança-mísseis e minigun.",
+  "new": "No GTA V, o Franklin andava com pistola, fuzil, escopeta, lança-mísseis e minigun.",
+  "ratio": 1.01
+ },
+ {
+  "i": 7,
+  "start": 29.555,
+  "end": 31.395,
+  "original": "Tudo escondido sabe-se lá onde.",
+  "new": "Tudo guardado ninguém sabe onde.",
+  "ratio": 1.03
+ },
+ {
+  "i": 8,
+  "start": 31.876,
+  "end": 34.336,
+  "original": "No GTA VI, essa farra acabou.",
+  "new": "No GTA VI, essa festa terminou.",
+  "ratio": 1.07
+ },
+ {
+  "i": 9,
+  "start": 34.797,
+  "end": 39.198,
+  "original": "A roda de armas continua, mas agora existe um limite do que você leva no corpo.",
+  "new": "A roda de armas segue lá, mas agora tem um limite do que você carrega no corpo.",
+  "ratio": 1.0
+ },
+ {
+  "i": 10,
+  "start": 39.438,
+  "end": 42.98,
+  "original": "Segundo as prévias, são duas armas longas e duas pistolas.",
+  "new": "Pelas prévias, são duas armas grandes e duas pistolas.",
+  "ratio": 0.93
+ },
+ {
+  "i": 11,
+  "start": 43.3,
+  "end": 45.742,
+  "original": "O resto fica no porta-malas do carro.",
+  "new": "O restante fica no porta-malas.",
+  "ratio": 0.84
+ },
+ {
+  "i": 12,
+  "start": 45.782,
+  "end": 51.144,
+  "original": "Ou seja, antes de uma missão, você vai ter que escolher o que levar, igual no Red Dead Redemption 2.",
+  "new": "Quer dizer, antes de cada missão, você vai precisar decidir o que levar, como no Red Dead Redemption 2.",
+  "ratio": 1.03
+ },
+ {
+  "i": 13,
+  "start": 51.164,
+  "end": 53.286,
+  "original": "E isso muda tudo num tiroteio.",
+  "new": "E isso vira o tiroteio de cabeça pra baixo.",
+  "ratio": 1.43
+ },
+ {
+  "i": 14,
+  "start": 53.666,
+  "end": 59.369,
+  "original": "Se você saiu de casa só com pistola e deu ruim, não adianta abrir a roda e torcer pra aparecer um lança-missas.",
+  "new": "Se você saiu de casa só com uma pistola e deu errado, nem adianta abrir a roda esperando surgir um lança-mísseis.",
+  "ratio": 1.02
+ },
+ {
+  "i": 15,
+  "start": 59.689,
+  "end": 61.49,
+  "original": "Vai ter que correr até o carro.",
+  "new": "Vai ter que ir correndo até o carro.",
+  "ratio": 1.16
+ },
+ {
+  "i": 16,
+  "start": 61.61,
+  "end": 62.631,
+  "original": "E tem outro detalhe.",
+  "new": "E tem mais um detalhe.",
+  "ratio": 1.1
+ },
+ {
+  "i": 17,
+  "start": 62.911,
+  "end": 67.514,
+  "original": "No GTA V, você passeava pelo calçadão com uma escopeta na mão e ninguém ligava.",
+  "new": "No GTA V, você andava pela orla com uma escopeta na mão e ninguém nem olhava.",
+  "ratio": 0.97
+ },
+ {
+  "i": 18,
+  "start": 67.974,
+  "end": 75.54,
+  "original": "No GTA VI, os NPCs reagem quando vem uma arma à mostra e andar de fuzil pela rua chama a atenção das pessoas e da polícia.",
+  "new": "No GTA VI, os NPCs reagem quando veem uma arma aparecendo, e passear de fuzil na rua chama a atenção do povo e da polícia.",
+  "ratio": 1.0
+ },
+ {
+  "i": 19,
+  "start": 75.94,
+  "end": 81.183,
+  "original": "O jogo quer que você pense como um criminoso de verdade, arma escondida até a hora certa.",
+  "new": "O jogo quer que você pense feito um bandido de verdade, arma guardada até o momento certo.",
+  "ratio": 1.01
+ },
+ {
+  "i": 20,
+  "start": 81.644,
+  "end": 86.347,
+  "original": "Segundo as prévias, o personagem até guarda a arma sozinho em lugares cheios de gente.",
+  "new": "Pelas prévias, o personagem até guarda a arma sozinho em lugares lotados.",
+  "ratio": 0.85
+ },
+ {
+  "i": 21,
+  "start": 87.496,
+  "end": 89.217,
+  "original": "Agora um hábito que todo mundo tem.",
+  "new": "Agora, um costume que todo mundo tem.",
+  "ratio": 1.06
+ },
+ {
+  "i": 22,
+  "start": 89.557,
+  "end": 90.397,
+  "original": "Capotou o carro?",
+  "new": "Virou o carro?",
+  "ratio": 0.88
+ },
+ {
+  "i": 23,
+  "start": 90.577,
+  "end": 93.479,
+  "original": "É só ficar girando o analógico até ele voltar para o lugar.",
+  "new": "Era só ficar girando o analógico até ele desvirar.",
+  "ratio": 0.85
+ },
+ {
+  "i": 24,
+  "start": 93.819,
+  "end": 97.801,
+  "original": "Segundo quem já jogou nas prévias, isso não existe mais no GTA 6.",
+  "new": "Pra quem já jogou nas prévias, isso acabou no GTA 6.",
+  "ratio": 0.8
+ },
+ {
+  "i": 25,
+  "start": 98.101,
+  "end": 99.381,
+  "original": "Capotou, clicou.",
+  "new": "Virou, já era.",
+  "ratio": 0.88
+ },
+ {
+  "i": 26,
+  "start": 99.761,
+  "end": 102.643,
+  "original": "E a direção também está mais pesada do que no GTA V.",
+  "new": "E a direção também ficou mais pesada que no GTA V.",
+  "ratio": 0.96
+ },
+ {
+  "i": 27,
+  "start": 103.103,
+  "end": 106.284,
+  "original": "Então aquelas curvas a 200 por hora vão cobrar o preço.",
+  "new": "Então aquelas curvas a 200 por hora vão sair caro.",
+  "ratio": 0.91
+ },
+ {
+  "i": 28,
+  "start": 106.584,
+  "end": 108.865,
+  "original": "É o fim de uma mania que o GTA V criou.",
+  "new": "É o fim de um vício que o GTA V criou.",
+  "ratio": 0.97
+ },
+ {
+  "i": 29,
+  "start": 109.306,
+  "end": 114.848,
+  "original": "E por falar em carro, no GTA V, posto de gasolina servia para uma coisa só, explodir.",
+  "new": "E falando em carro, no GTA V, posto de gasolina só servia pra uma coisa: ir pelos ares.",
+  "ratio": 1.02
+ },
+ {
+  "i": 30,
+  "start": 115.108,
+  "end": 120.751,
+  "original": "Segundo as prévias, o GTA 6 tem medidor de combustível funcionando e até carregador para carro elétrico.",
+  "new": "Pelas prévias, o GTA 6 tem marcador de combustível de verdade e até carregador pra carro elétrico.",
+  "ratio": 0.94
+ },
+ {
+  "i": 31,
+  "start": 121.211,
+  "end": 129.634,
+  "original": "Ainda não dá para saber o quanto isso vai pesar no dia a dia, mas aquele hábito de rodar o mapa inteiro sem parar pode estar com os dias contados.",
+  "new": "Ainda não dá pra saber o quanto isso vai pesar no dia a dia, mas aquela mania de rodar o mapa todo sem parar pode estar perto do fim.",
+  "ratio": 0.91
+ },
+ {
+  "i": 32,
+  "start": 129.674,
+  "end": 133.276,
+  "original": "No GTA 5, ver um carro de luxo e roubar era a mesma coisa.",
+  "new": "No GTA 5, ver um carrão e roubar era uma coisa só.",
+  "ratio": 0.86
+ },
+ {
+  "i": 33,
+  "start": 133.416,
+  "end": 137.7,
+  "original": "No GTA 6, a Rockstar confirmou que roubar carro ficou mais complicado.",
+  "new": "No GTA 6, a Rockstar confirmou que roubar carro ficou mais difícil.",
+  "ratio": 0.96
+ },
+ {
+  "i": 34,
+  "start": 137.96,
+  "end": 142.664,
+  "original": "Os carros mais caros exigem ferramentas especiais e alguns têm rastreador.",
+  "new": "Os carros mais caros pedem ferramentas especiais e alguns têm rastreador.",
+  "ratio": 0.99
+ },
+ {
+  "i": 35,
+  "start": 142.964,
+  "end": 151.191,
+  "original": "Segundo as prévias, carro antigo você abre com uma micha ou quebrando o vidro, mas carro moderno pede clonador de chave ou hack.",
+  "new": "Pelas prévias, carro antigo se abre com uma micha ou quebrando o vidro, mas carro novo pede clonador de chave ou hack.",
+  "ratio": 0.92
+ },
+ {
+  "i": 36,
+  "start": 151.712,
+  "end": 157.076,
+  "original": "Se você dirigir devagar demais com o carro rastreador, a polícia é avisada.",
+  "new": "Se você dirigir devagar demais com um carro rastreado, a polícia fica sabendo.",
+  "ratio": 1.04
+ },
+ {
+  "i": 37,
+  "start": 158.53,
+  "end": 162.431,
+  "original": "No GTA V você morria, pagava a conta do hospital e pronto.",
+  "new": "No GTA V você morria, pagava o hospital e fim.",
+  "ratio": 0.79
+ },
+ {
+  "i": 38,
+  "start": 162.752,
+  "end": 168.994,
+  "original": "No GTA VI, segundo as prévias, o dinheiro que você está carregando se perde se você morrer ou for preso.",
+  "new": "No GTA VI, pelas prévias, o dinheiro que você leva no bolso some se você morrer ou for preso.",
+  "ratio": 0.89
+ },
+ {
+  "i": 39,
+  "start": 169.474,
+  "end": 175.216,
+  "original": "Para proteger, você vai ter que depositar num caixa eletrônico, numa conta conjunta do Jason e da Lúcia.",
+  "new": "Pra proteger, vai ter que depositar no caixa eletrônico, numa conta conjunta do Jason e da Lucia.",
+  "ratio": 0.93
+ },
+ {
+  "i": 40,
+  "start": 175.616,
+  "end": 179.918,
+  "original": "Assalto bem sucedido agora tem uma última etapa, chegar no banco.",
+  "new": "Assalto que dá certo agora tem uma etapa final: chegar no banco.",
+  "ratio": 0.98
+ },
+ {
+  "i": 41,
+  "start": 180.278,
+  "end": 184.279,
+  "original": "E esquece aquela ideia de juntar milhões e sair por aí com tudo na carteira.",
+  "new": "E pode esquecer aquela ideia de juntar milhões e andar por aí com tudo na carteira.",
+  "ratio": 1.09
+ },
+ {
+  "i": 42,
+  "start": 184.559,
+  "end": 187.34,
+  "original": "Quem fizer isso vai aprender do jeito mais caro.",
+  "new": "Quem fizer isso vai aprender do jeito mais caro.",
+  "ratio": 1.0
+ },
+ {
+  "i": 43,
+  "start": 187.68,
+  "end": 191.341,
+  "original": "No GTA V, comida era um detalhe que quase ninguém usava.",
+  "new": "No GTA V, comida era um detalhe que quase ninguém usava.",
+  "ratio": 1.0
+ },
+ {
+  "i": 44,
+  "start": 191.661,
+  "end": 197.562,
+  "original": "No GTA VI, a Rockstar confirmou que o que o Jason e a Lúcia comem afeta o peso deles.",
+  "new": "No GTA VI, a Rockstar confirmou que o que o Jason e a Lucia comem muda o peso deles.",
+  "ratio": 0.99
+ },
+ {
+  "i": 45,
+  "start": 197.682,
+  "end": 200.163,
+  "original": "Ou seja, o sistema do San Andreas voltou.",
+  "new": "Ou seja, o sistema do San Andreas está de volta.",
+  "ratio": 1.17
+ },
+ {
+  "i": 46,
+  "start": 201.203,
+  "end": 202.244,
+  "original": "Exagerou no hambúrguer?",
+  "new": "Exagerou no hambúrguer?",
+  "ratio": 1.0
+ },
+ {
+  "i": 47,
+  "start": 202.524,
+  "end": 203.745,
+  "original": "O personagem engorda.",
+  "new": "O personagem engorda.",
+  "ratio": 1.0
+ },
+ {
+  "i": 48,
+  "start": 204.125,
+  "end": 209.67,
+  "original": "É a primeira vez em mais de 20 anos que o seu jeito de jogar muda o corpo do protagonista.",
+  "new": "É a primeira vez em mais de 20 anos que o seu estilo de jogo muda o corpo do protagonista.",
+  "ratio": 1.0
+ },
+ {
+  "i": 49,
+  "start": 209.95,
+  "end": 214.253,
+  "original": "Quem jogou San Andreas lembra do CJ comendo pizza até não passar pela porta.",
+  "new": "Quem jogou San Andreas lembra do CJ comendo pizza até entalar na porta.",
+  "ratio": 0.93
+ },
+ {
+  "i": 50,
+  "start": 214.754,
+  "end": 217.556,
+  "original": "Agora imagina isso com os gráficos do GTA 6.",
+  "new": "Agora imagina isso com o visual do GTA 6.",
+  "ratio": 0.93
+ },
+ {
+  "i": 51,
+  "start": 217.876,
+  "end": 219.117,
+  "original": "E não para na comida.",
+  "new": "E não fica só na comida.",
+  "ratio": 1.14
+ },
+ {
+  "i": 52,
+  "start": 219.397,
+  "end": 222.6,
+  "original": "Treinar na academia constrói e define os músculos.",
+  "new": "Malhar na academia ganha e define músculo.",
+  "ratio": 0.84
+ },
+ {
+  "i": 53,
+  "start": 222.9,
+  "end": 225.582,
+  "original": "E ficar sem dormir deixa o personagem cansado.",
+  "new": "E passar a noite sem dormir deixa o personagem exausto.",
+  "ratio": 1.2
+ },
+ {
+  "i": 54,
+  "start": 225.882,
+  "end": 231.286,
+  "original": "Segundo as prévias, o jogo acompanha força, fôlego, resistência e gordura corporal.",
+  "new": "Pelas prévias, o jogo acompanha força, fôlego, resistência e gordura corporal.",
+  "ratio": 0.94
+ },
+ {
+  "i": 55,
+  "start": 231.406,
+  "end": 238.652,
+  "original": "A academia é opcional, mas quem passar a madrugada inteira fazendo besteira vai ver isso na cara do personagem.",
+  "new": "A academia é opcional, mas quem virar a noite fazendo besteira vai ver isso na cara do personagem.",
+  "ratio": 0.88
+ },
+ {
+  "i": 56,
+  "start": 238.692,
+  "end": 244.516,
+  "original": "No GTA V, o Michael, o Franklin e o Trevor terminavam o jogo com o mesmo corpo do começo.",
+  "new": "No GTA V, o Michael, o Franklin e o Trevor acabavam o jogo com o mesmo corpo do início.",
+  "ratio": 0.98
+ },
+ {
+  "i": 57,
+  "start": 244.656,
+  "end": 248.897,
+  "original": "No GTA 6, o Jason e a Lúcia vão ter a cara da sua rotina.",
+  "new": "No GTA 6, o Jason e a Lucia vão ficar com a cara da sua rotina.",
+  "ratio": 1.11
+ },
+ {
+  "i": 58,
+  "start": 249.038,
+  "end": 251.798,
+  "original": "Lembra de todas aquelas portas trancadas em Los Santos?",
+  "new": "Lembra de todas aquelas portas fechadas em Los Santos?",
+  "ratio": 0.98
+ },
+ {
+  "i": 59,
+  "start": 252.239,
+  "end": 255.38,
+  "original": "A maioria dos prédios do GTA 5 era só fachada.",
+  "new": "A maior parte dos prédios do GTA 5 era só fachada.",
+  "ratio": 1.09
+ },
+ {
+  "i": 60,
+  "start": 255.74,
+  "end": 263.202,
+  "original": "A Rockstar diz que o mundo do GTA 6 é o mais denso que ela já fez, com prédios que parecem reais por dentro e por fora.",
+  "new": "A Rockstar diz que o mundo do GTA 6 é o mais cheio que ela já criou, com prédios que parecem reais por dentro e por fora.",
+  "ratio": 1.02
+ },
+ {
+  "i": 61,
+  "start": 263.542,
+  "end": 266.503,
+  "original": "E o mapa tem cerca do dobro do tamanho do GTA 5.",
+  "new": "E o mapa tem mais ou menos o dobro do tamanho do GTA 5.",
+  "ratio": 1.15
+ },
+ {
+  "i": 62,
+  "start": 267.064,
+  "end": 271.145,
+  "original": "Então aquele hábito de ignorar os prédios vai te fazer perder muita coisa.",
+  "new": "Então aquela mania de ignorar os prédios vai te fazer perder muita coisa.",
+  "ratio": 0.99
+ },
+ {
+  "i": 63,
+  "start": 271.445,
+  "end": 276.087,
+  "original": "Segundo as prévias, até as lojas podem ser assaltadas, cada uma do seu jeito.",
+  "new": "Pelas prévias, até as lojas podem ser assaltadas, cada uma de um jeito.",
+  "ratio": 0.92
+ },
+ {
+  "i": 64,
+  "start": 276.347,
+  "end": 279.208,
+  "original": "Agora, cada porta pode ser uma oportunidade.",
+  "new": "Agora, cada porta pode virar uma oportunidade.",
+  "ratio": 1.05
+ },
+ {
+  "i": 65,
+  "start": 279.508,
+  "end": 284.709,
+  "original": "E daqui pra frente o vídeo fica sério, porque agora vem a parte que mais muda, a polícia.",
+  "new": "E daqui em diante o vídeo fica sério, porque chegou a parte que mais muda: a polícia.",
+  "ratio": 0.96
+ },
+ {
+  "i": 66,
+  "start": 285.069,
+  "end": 288.751,
+  "original": "Os próximos 5 hábitos são os que mais vão te prender no começo.",
+  "new": "Os próximos cinco costumes são os que mais vão te pegar no começo.",
+  "ratio": 1.05
+ },
+ {
+  "i": 67,
+  "start": 289.071,
+  "end": 296.693,
+  "original": "No GTA V, você cometia um crime no meio do nada e as estrelas apareciam na hora, como se a polícia tivesse poderes mágicos.",
+  "new": "No GTA V, você fazia um crime no meio do nada e as estrelas surgiam na hora, como se a polícia tivesse superpoderes.",
+  "ratio": 0.94
+ },
+ {
+  "i": 68,
+  "start": 297.013,
+  "end": 304.315,
+  "original": "No GTA 6, a Rockstar confirmou que alguém precisa ver o crime ou um alarme precisa disparar para a polícia ser avisada.",
+  "new": "No GTA 6, a Rockstar confirmou que alguém precisa ver o crime ou um alarme precisa tocar pra polícia ser chamada.",
+  "ratio": 0.95
+ },
+ {
+  "i": 69,
+  "start": 305.415,
+  "end": 307.616,
+  "original": "Sem testemunha, sem estrela.",
+  "new": "Sem testemunha, sem estrela.",
+  "ratio": 1.0
+ },
+ {
+  "i": 70,
+  "start": 307.796,
+  "end": 310.156,
+  "original": "Planejar vale mais do que sair atirando.",
+  "new": "Planejar vale mais que sair dando tiro.",
+  "ratio": 0.97
+ },
+ {
+  "i": 71,
+  "start": 310.556,
+  "end": 317.298,
+  "original": "E o truque mais clássico de todos, se esconder num beco olhando os pontinhos da polícia no minimapa, acabou.",
+  "new": "E o truque mais clássico de todos, se esconder num beco vendo os pontinhos da polícia no minimapa, já era.",
+  "ratio": 0.98
+ },
+ {
+  "i": 72,
+  "start": 317.358,
+  "end": 321.319,
+  "original": "Segundo a Rockstar, os policiais não aparecem mais como pontos no minimapa.",
+  "new": "Pela Rockstar, os policiais não aparecem mais como pontos no minimapa.",
+  "ratio": 0.93
+ },
+ {
+  "i": 73,
+  "start": 321.899,
+  "end": 325.66,
+  "original": "A busca aparece como um brilho vermelho e azul na tela.",
+  "new": "A busca aparece como um brilho vermelho e azul na tela.",
+  "ratio": 1.0
+ },
+ {
+  "i": 74,
+  "start": 329.682,
+  "end": 333.745,
+  "original": "Desde o GTA IV, a gente se acostumou a fugir olhando pro canto da tela.",
+  "new": "Desde o GTA IV, a gente se acostumou a fugir olhando o canto da tela.",
+  "ratio": 0.97
+ },
+ {
+  "i": 75,
+  "start": 334.125,
+  "end": 336.587,
+  "original": "No GTA VI, você vai ter que olhar pra rua.",
+  "new": "No GTA VI, você vai ter que prestar atenção na rua.",
+  "ratio": 1.21
+ },
+ {
+  "i": 76,
+  "start": 337.048,
+  "end": 340.21,
+  "original": "No GTA V, bastava sumir da vista dos policiais.",
+  "new": "No GTA V, era só sumir da vista dos policiais.",
+  "ratio": 0.98
+ },
+ {
+  "i": 77,
+  "start": 340.51,
+  "end": 343.212,
+  "original": "No GTA VI, a polícia monta o seu perfil.",
+  "new": "No GTA VI, a polícia monta um perfil seu.",
+  "ratio": 1.02
+ },
+ {
+  "i": 78,
+  "start": 343.572,
+  "end": 349.917,
+  "original": "Ela registra o seu rosto, a sua roupa e o seu carro, e o jogo mostra na tela o que eles já sabem.",
+  "new": "Ela anota o seu rosto, a sua roupa e o seu carro, e o jogo mostra na tela o que eles já sabem.",
+  "ratio": 0.97
+ },
+ {
+  "i": 79,
+  "start": 349.957,
+  "end": 353.961,
+  "original": "Para despistar, você troca de roupa, usa máscara, larga o carro.",
+  "new": "Pra despistar, você troca de roupa, põe máscara, abandona o carro.",
+  "ratio": 1.03
+ },
+ {
+  "i": 80,
+  "start": 354.301,
+  "end": 358.005,
+  "original": "Fugir de verdade agora é apagar as pistas, não só correr.",
+  "new": "Fugir de verdade agora é apagar os rastros, não só correr.",
+  "ratio": 1.02
+ },
+ {
+  "i": 81,
+  "start": 358.425,
+  "end": 366.673,
+  "original": "Lembra quando no GTA V você entrava na Amunation de capuz vermelho, saía atirando e voltava na mesma loja 10 minutos depois com a mesma roupa?",
+  "new": "Lembra quando no GTA V você entrava na Ammu-Nation de capuz vermelho, saía atirando e voltava na mesma loja dez minutos depois com a mesma roupa?",
+  "ratio": 1.02
+ },
+ {
+  "i": 82,
+  "start": 367.094,
+  "end": 368.395,
+  "original": "Pois é, isso acabou.",
+  "new": "Pois é, isso acabou.",
+  "ratio": 1.0
+ },
+ {
+  "i": 83,
+  "start": 368.795,
+  "end": 372.899,
+  "original": "No GTA V, você trocava de personagem e deixava a confusão para trás.",
+  "new": "No GTA V, você trocava de personagem e largava a bagunça pra trás.",
+  "ratio": 0.97
+ },
+ {
+  "i": 84,
+  "start": 373.239,
+  "end": 378.944,
+  "original": "No GTA VI, são dois protagonistas, e segundo as prévias, o nível de procurado é de cada um.",
+  "new": "No GTA VI, são dois protagonistas, e pelas prévias, o nível de procurado é de cada um.",
+  "ratio": 0.95
+ },
+ {
+  "i": 85,
+  "start": 379.485,
+  "end": 380.025,
+  "original": "Tem mais.",
+  "new": "E tem mais.",
+  "ratio": 1.22
+ },
+ {
+  "i": 86,
+  "start": 380.325,
+  "end": 382.047,
+  "original": "A polícia procura um casal.",
+  "new": "A polícia está atrás de um casal.",
+  "ratio": 1.22
+ },
+ {
+  "i": 87,
+  "start": 382.467,
+  "end": 387.472,
+  "original": "Se o Jason e a Lúcia se separarem, o procurado de quem você está jogando cai uma estrela.",
+  "new": "Se o Jason e a Lucia se separarem, o procurado de quem você está controlando cai uma estrela.",
+  "ratio": 1.04
+ },
+ {
+  "i": 88,
+  "start": 387.872,
+  "end": 389.954,
+  "original": "É Bonnie e Clyde, só que com estratégia.",
+  "new": "É Bonnie e Clyde, só que com estratégia.",
+  "ratio": 1.0
+ },
+ {
+  "i": 89,
+  "start": 390.314,
+  "end": 393.337,
+  "original": "No GTA V, o máximo era cinco estrelas.",
+  "new": "No GTA V, o limite era cinco estrelas.",
+  "ratio": 1.0
+ },
+ {
+  "i": 90,
+  "start": 393.497,
+  "end": 399.682,
+  "original": "No GTA 6, a sexta estrela, que existia no GTA 4 e o GTA 5 cortou, está de volta.",
+  "new": "No GTA 6, a sexta estrela, que tinha no GTA 4 e o GTA 5 tirou, está de volta.",
+  "ratio": 0.96
+ },
+ {
+  "i": 91,
+  "start": 400.062,
+  "end": 403.465,
+  "original": "Ainda não dá pra saber o que acontece exatamente com seis estrelas.",
+  "new": "Ainda não dá pra saber o que acontece direitinho com seis estrelas.",
+  "ratio": 1.0
+ },
+ {
+  "i": 92,
+  "start": 403.785,
+  "end": 406.767,
+  "original": "Mas se cinco já era um caos, imagina seis!",
+  "new": "Mas se cinco já era um caos, imagina seis!",
+  "ratio": 1.0
+ },
+ {
+  "i": 93,
+  "start": 407.068,
+  "end": 415.554,
+  "original": "E pra deixar isso ainda mais interessante, segundo as prévias, uma estrela é fácil de despistar, mas cada nível a mais pede um plano melhor.",
+  "new": "E pra deixar tudo ainda mais interessante, pelas prévias, uma estrela é fácil de despistar, mas cada nível a mais pede um plano melhor.",
+  "ratio": 0.96
+ },
+ {
+  "i": 94,
+  "start": 415.895,
+  "end": 421.619,
+  "original": "E o último hábito, o que pode marcar o seu jogo pra sempre, sair matando todo mundo.",
+  "new": "E o último costume, o que pode marcar o seu jogo pra sempre: sair matando todo mundo.",
+  "ratio": 1.01
+ },
+ {
+  "i": 95,
+  "start": 421.799,
+  "end": 430.408,
+  "original": "Segundo as prévias, o GTA 6 tem um perfil criminal, parecido com o sistema de honra do Red Dead 2, que registra o quanto seus crimes são violentos.",
+  "new": "Pelas prévias, o GTA 6 tem um perfil criminal, parecido com o sistema de honra do Red Dead 2, que registra o quão violentos são os seus crimes.",
+  "ratio": 0.97
+ },
+ {
+  "i": 96,
+  "start": 430.689,
+  "end": 436.395,
+  "original": "Dá pra cometer crimes sem matar, atirar nos pneus da viatura, mirar nas pernas e desarmar.",
+  "new": "Dá pra cometer crimes sem matar: atirar nos pneus da viatura, mirar nas pernas e desarmar.",
+  "ratio": 1.0
+ },
+ {
+  "i": 97,
+  "start": 436.495,
+  "end": 442.021,
+  "original": "Mas quem exagerar na violência pode deixar esse perfil destruído de forma permanente.",
+  "new": "Mas quem pegar pesado na violência pode deixar esse perfil arruinado de vez.",
+  "ratio": 0.89
+ },
+ {
+  "i": 98,
+  "start": 445.787,
+  "end": 450.894,
+  "original": "Então é isso, 15 hábitos que o GTA V te ensinou e que o GTA VI vai cobrar.",
+  "new": "Então é isso: 15 costumes que o GTA V te ensinou e que o GTA VI vai cobrar.",
+  "ratio": 1.01
+ },
+ {
+  "i": 99,
+  "start": 451.395,
+  "end": 457.224,
+  "original": "Lembrando que muita coisa aqui veio das prévias e só no dia 19 a gente vai saber tudo com certeza.",
+  "new": "Lembrando que muita coisa aqui saiu das prévias, e só no dia 19 a gente vai ter certeza de tudo.",
+  "ratio": 0.98
+ },
+ {
+  "i": 100,
+  "start": 457.765,
+  "end": 460.168,
+  "original": "Pode deixar que eu vou testar cada uma delas.",
+  "new": "Pode deixar que eu vou testar cada um deles.",
+  "ratio": 0.98
+ },
+ {
+  "i": 101,
+  "start": 460.529,
+  "end": 464.935,
+  "original": "Agora me conta nos comentários, qual desses hábitos vai ser o mais difícil de largar?",
+  "new": "Agora me fala nos comentários: qual desses costumes vai ser o mais difícil de largar?",
+  "ratio": 1.0
+ },
+ {
+  "i": 102,
+  "start": 465.356,
+  "end": 469.542,
+  "original": "Se inscreve no Jacaré Explica porque até o lançamento sai vídeo novo todo dia.",
+  "new": "Se inscreve no canal, porque até o lançamento tem vídeo novo todo dia.",
+  "ratio": 0.9
+ },
+ {
+  "i": 103,
+  "start": 469.903,
+  "end": 470.063,
+  "original": "Até amanhã!",
+  "new": "Até amanhã!",
+  "ratio": 1.0
+ }
+]
