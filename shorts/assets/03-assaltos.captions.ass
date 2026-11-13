@@ -1,0 +1,80 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Fala,Inter Display Black,72,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,7,4,8,70,70,1420,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.05,0:00:03.17,Fala,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H00A25FFF}NO{\c&H00FFFFFF} GAMEPLAY OFICIAL
+Dialogue: 0,0:00:03.17,0:00:03.61,Fala,,0,0,0,,NO {\c&H00A25FFF}GAMEPLAY{\c&H00FFFFFF} OFICIAL
+Dialogue: 0,0:00:03.61,0:00:04.17,Fala,,0,0,0,,NO GAMEPLAY {\c&H00A25FFF}OFICIAL{\c&H00FFFFFF}
+Dialogue: 0,0:00:04.17,0:00:04.31,Fala,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H00A25FFF}DO{\c&H00FFFFFF} GTA 6,
+Dialogue: 0,0:00:04.31,0:00:05.08,Fala,,0,0,0,,DO {\c&H00A25FFF}GTA{\c&H00FFFFFF} 6,
+Dialogue: 0,0:00:05.08,0:00:05.28,Fala,,0,0,0,,DO GTA {\c&H00A25FFF}6,{\c&H00FFFFFF}
+Dialogue: 0,0:00:05.28,0:00:05.38,Fala,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H00A25FFF}A{\c&H00FFFFFF} ROCKSTAR MOSTROU
+Dialogue: 0,0:00:05.38,0:00:05.78,Fala,,0,0,0,,A {\c&H00A25FFF}ROCKSTAR{\c&H00FFFFFF} MOSTROU
+Dialogue: 0,0:00:05.78,0:00:06.10,Fala,,0,0,0,,A ROCKSTAR {\c&H00A25FFF}MOSTROU{\c&H00FFFFFF}
+Dialogue: 0,0:00:06.10,0:00:06.46,Fala,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H00A25FFF}ASSALTO{\c&H00FFFFFF} DE TODO
+Dialogue: 0,0:00:06.46,0:00:06.58,Fala,,0,0,0,,ASSALTO {\c&H00A25FFF}DE{\c&H00FFFFFF} TODO
+Dialogue: 0,0:00:06.58,0:00:06.84,Fala,,0,0,0,,ASSALTO DE {\c&H00A25FFF}TODO{\c&H00FFFFFF}
+Dialogue: 0,0:00:06.84,0:00:07.44,Fala,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H00A25FFF}TIPO.{\c&H00FFFFFF}
+Dialogue: 0,0:00:07.74,0:00:08.02,Fala,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H00A25FFF}LOJA{\c&H00FFFFFF} DE CONVENIÊNCIA,
+Dialogue: 0,0:00:08.02,0:00:08.14,Fala,,0,0,0,,LOJA {\c&H00A25FFF}DE{\c&H00FFFFFF} CONVENIÊNCIA,
+Dialogue: 0,0:00:08.14,0:00:08.80,Fala,,0,0,0,,LOJA DE {\c&H00A25FFF}CONVENIÊNCIA,{\c&H00FFFFFF}
+Dialogue: 0,0:00:08.80,0:00:08.92,Fala,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H00A25FFF}DE{\c&H00FFFFFF} ROSTO COBERTO
+Dialogue: 0,0:00:08.92,0:00:09.18,Fala,,0,0,0,,DE {\c&H00A25FFF}ROSTO{\c&H00FFFFFF} COBERTO
+Dialogue: 0,0:00:09.18,0:00:09.62,Fala,,0,0,0,,DE ROSTO {\c&H00A25FFF}COBERTO{\c&H00FFFFFF}
+Dialogue: 0,0:00:09.62,0:00:09.70,Fala,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H00A25FFF}E{\c&H00FFFFFF} COM O
+Dialogue: 0,0:00:09.70,0:00:09.84,Fala,,0,0,0,,E {\c&H00A25FFF}COM{\c&H00FFFFFF} O
+Dialogue: 0,0:00:09.84,0:00:09.95,Fala,,0,0,0,,E COM {\c&H00A25FFF}O{\c&H00FFFFFF}
+Dialogue: 0,0:00:09.95,0:00:10.30,Fala,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H00A25FFF}CAIXA{\c&H00FFFFFF} APAVORADO.
+Dialogue: 0,0:00:10.30,0:00:11.01,Fala,,0,0,0,,CAIXA {\c&H00A25FFF}APAVORADO.{\c&H00FFFFFF}
+Dialogue: 0,0:00:11.01,0:00:11.97,Fala,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H00A25FFF}JOALHERIA{\c&H00FFFFFF} EM PLENA
+Dialogue: 0,0:00:11.97,0:00:12.11,Fala,,0,0,0,,JOALHERIA {\c&H00A25FFF}EM{\c&H00FFFFFF} PLENA
+Dialogue: 0,0:00:12.11,0:00:12.39,Fala,,0,0,0,,JOALHERIA EM {\c&H00A25FFF}PLENA{\c&H00FFFFFF}
+Dialogue: 0,0:00:12.39,0:00:12.55,Fala,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H00A25FFF}LUZ{\c&H00FFFFFF} DO DIA.
+Dialogue: 0,0:00:12.55,0:00:12.71,Fala,,0,0,0,,LUZ {\c&H00A25FFF}DO{\c&H00FFFFFF} DIA.
+Dialogue: 0,0:00:12.71,0:00:13.31,Fala,,0,0,0,,LUZ DO {\c&H00A25FFF}DIA.{\c&H00FFFFFF}
+Dialogue: 0,0:00:13.37,0:00:13.45,Fala,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H00A25FFF}E{\c&H00FFFFFF} ATÉ CARRO-FORTE,
+Dialogue: 0,0:00:13.45,0:00:13.61,Fala,,0,0,0,,E {\c&H00A25FFF}ATÉ{\c&H00FFFFFF} CARRO-FORTE,
+Dialogue: 0,0:00:13.61,0:00:14.06,Fala,,0,0,0,,E ATÉ {\c&H00A25FFF}CARRO-FORTE,{\c&H00FFFFFF}
+Dialogue: 0,0:00:14.41,0:00:14.67,Fala,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H00A25FFF}COM{\c&H00FFFFFF} A EQUIPE
+Dialogue: 0,0:00:14.67,0:00:14.77,Fala,,0,0,0,,COM {\c&H00A25FFF}A{\c&H00FFFFFF} EQUIPE
+Dialogue: 0,0:00:14.77,0:00:15.12,Fala,,0,0,0,,COM A {\c&H00A25FFF}EQUIPE{\c&H00FFFFFF}
+Dialogue: 0,0:00:15.12,0:00:15.34,Fala,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H00A25FFF}TODA{\c&H00FFFFFF} ARMADA.
+Dialogue: 0,0:00:15.34,0:00:16.08,Fala,,0,0,0,,TODA {\c&H00A25FFF}ARMADA.{\c&H00FFFFFF}
+Dialogue: 0,0:00:16.24,0:00:16.54,Fala,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H00A25FFF}DEPOIS{\c&H00FFFFFF} VEM A
+Dialogue: 0,0:00:16.54,0:00:16.68,Fala,,0,0,0,,DEPOIS {\c&H00A25FFF}VEM{\c&H00FFFFFF} A
+Dialogue: 0,0:00:16.68,0:00:16.82,Fala,,0,0,0,,DEPOIS VEM {\c&H00A25FFF}A{\c&H00FFFFFF}
+Dialogue: 0,0:00:16.82,0:00:17.32,Fala,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H00A25FFF}FUGA:{\c&H00FFFFFF}
+Dialogue: 0,0:00:17.32,0:00:17.70,Fala,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H00A25FFF}POLÍCIA{\c&H00FFFFFF} NA COLA,
+Dialogue: 0,0:00:17.70,0:00:17.88,Fala,,0,0,0,,POLÍCIA {\c&H00A25FFF}NA{\c&H00FFFFFF} COLA,
+Dialogue: 0,0:00:17.88,0:00:18.26,Fala,,0,0,0,,POLÍCIA NA {\c&H00A25FFF}COLA,{\c&H00FFFFFF}
+Dialogue: 0,0:00:18.26,0:00:18.74,Fala,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H00A25FFF}TIROTEIO{\c&H00FFFFFF} NO MEIO
+Dialogue: 0,0:00:18.74,0:00:18.84,Fala,,0,0,0,,TIROTEIO {\c&H00A25FFF}NO{\c&H00FFFFFF} MEIO
+Dialogue: 0,0:00:18.84,0:00:19.02,Fala,,0,0,0,,TIROTEIO NO {\c&H00A25FFF}MEIO{\c&H00FFFFFF}
+Dialogue: 0,0:00:19.02,0:00:19.20,Fala,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H00A25FFF}DA{\c&H00FFFFFF} RUA E
+Dialogue: 0,0:00:19.20,0:00:19.95,Fala,,0,0,0,,DA {\c&H00A25FFF}RUA{\c&H00FFFFFF} E
+Dialogue: 0,0:00:19.95,0:00:20.49,Fala,,0,0,0,,DA RUA {\c&H00A25FFF}E{\c&H00FFFFFF}
+Dialogue: 0,0:00:20.49,0:00:21.15,Fala,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H00A25FFF}VIATURA{\c&H00FFFFFF} CAPOTANDO.
+Dialogue: 0,0:00:21.15,0:00:21.83,Fala,,0,0,0,,VIATURA {\c&H00A25FFF}CAPOTANDO.{\c&H00FFFFFF}
+Dialogue: 0,0:00:21.83,0:00:22.19,Fala,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H00A25FFF}FALTAM{\c&H00FFFFFF} SEIS DIAS
+Dialogue: 0,0:00:22.19,0:00:22.49,Fala,,0,0,0,,FALTAM {\c&H00A25FFF}SEIS{\c&H00FFFFFF} DIAS
+Dialogue: 0,0:00:22.49,0:00:22.75,Fala,,0,0,0,,FALTAM SEIS {\c&H00A25FFF}DIAS{\c&H00FFFFFF}
+Dialogue: 0,0:00:22.75,0:00:22.95,Fala,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H00A25FFF}PRA{\c&H00FFFFFF} VOCÊ FAZER
+Dialogue: 0,0:00:22.95,0:00:23.23,Fala,,0,0,0,,PRA {\c&H00A25FFF}VOCÊ{\c&H00FFFFFF} FAZER
+Dialogue: 0,0:00:23.23,0:00:23.57,Fala,,0,0,0,,PRA VOCÊ {\c&H00A25FFF}FAZER{\c&H00FFFFFF}
+Dialogue: 0,0:00:23.57,0:00:23.81,Fala,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H00A25FFF}TUDO{\c&H00FFFFFF} ISSO.
+Dialogue: 0,0:00:23.81,0:00:24.37,Fala,,0,0,0,,TUDO {\c&H00A25FFF}ISSO.{\c&H00FFFFFF}
+Dialogue: 0,0:00:24.49,0:00:24.69,Fala,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H00A25FFF}QUAL{\c&H00FFFFFF} ASSALTO VOCÊ
+Dialogue: 0,0:00:24.69,0:00:25.14,Fala,,0,0,0,,QUAL {\c&H00A25FFF}ASSALTO{\c&H00FFFFFF} VOCÊ
+Dialogue: 0,0:00:25.14,0:00:25.38,Fala,,0,0,0,,QUAL ASSALTO {\c&H00A25FFF}VOCÊ{\c&H00FFFFFF}
+Dialogue: 0,0:00:25.38,0:00:25.60,Fala,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H00A25FFF}FAZ{\c&H00FFFFFF} PRIMEIRO?
+Dialogue: 0,0:00:25.60,0:00:26.32,Fala,,0,0,0,,FAZ {\c&H00A25FFF}PRIMEIRO?{\c&H00FFFFFF}
+Dialogue: 0,0:00:26.32,0:00:26.64,Fala,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H00A25FFF}COMENTA{\c&H00FFFFFF} AÍ.
+Dialogue: 0,0:00:26.64,0:00:27.29,Fala,,0,0,0,,COMENTA {\c&H00A25FFF}AÍ.{\c&H00FFFFFF}
