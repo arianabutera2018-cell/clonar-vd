@@ -1,0 +1,66 @@
+{
+ "fit": null,
+ "out": "exports/03-assaltos.mp4",
+ "source": "sources/extended-look-1080p.mp4",
+ "hook": {
+  "cuts": [
+   [
+    718.6,
+    721.6
+   ]
+  ],
+  "title": "D\u00c1 PRA ASSALTAR\n*TUDO* NO GTA 6"
+ },
+ "body": {
+  "cuts": [
+   [
+    714.0,
+    717.0
+   ],
+   [
+    706.0,
+    707.74
+   ],
+   [
+    717.0,
+    720.267
+   ],
+   [
+    1080.0,
+    1082.365
+   ],
+   [
+    568.8,
+    571.0
+   ],
+   [
+    565.0,
+    565.665
+   ],
+   [
+    849.4,
+    851.6
+   ],
+   [
+    853.0,
+    856.0
+   ],
+   [
+    860.0,
+    860.391
+   ],
+   [
+    696.0,
+    698.666
+   ],
+   [
+    729.0,
+    731.844
+   ]
+  ],
+  "title": "GAMEPLAY OFICIAL:\n*ASSALTOS*",
+  "voice": "assets/voice/03-assaltos.mp3",
+  "captions": "assets/03-assaltos.captions.ass",
+  "source_gain_db": -18
+ }
+}

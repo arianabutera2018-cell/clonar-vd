@@ -1,0 +1,487 @@
+{
+  "format": "hypit.transcript@1",
+  "source": "/home/user/clonar-vd/shorts/assets/voice/03-assaltos.mp3",
+  "language": "pt",
+  "audio_seconds": 24.149,
+  "passages": [
+    {
+      "text": "No gameplay oficial do GTA 6, a Rockstar mostrou o assalto de todo tipo.",
+      "start_seconds": 0.051,
+      "end_seconds": 4.139,
+      "words": [
+        {
+          "text": "No",
+          "start_seconds": 0.051,
+          "end_seconds": 0.131,
+          "score": 0.927
+        },
+        {
+          "text": "gameplay",
+          "start_seconds": 0.171,
+          "end_seconds": 0.592,
+          "score": 0.748
+        },
+        {
+          "text": "oficial",
+          "start_seconds": 0.612,
+          "end_seconds": 1.093,
+          "score": 0.887
+        },
+        {
+          "text": "do",
+          "start_seconds": 1.173,
+          "end_seconds": 1.273,
+          "score": 0.808
+        },
+        {
+          "text": "GTA",
+          "start_seconds": 1.314,
+          "end_seconds": 1.795,
+          "score": 0.81
+        },
+        {
+          "text": "6,",
+          "start_seconds": 2.075,
+          "end_seconds": 2.135,
+          "score": 0.75
+        },
+        {
+          "text": "a",
+          "start_seconds": 2.275,
+          "end_seconds": 2.316,
+          "score": 0.508
+        },
+        {
+          "text": "Rockstar",
+          "start_seconds": 2.376,
+          "end_seconds": 2.736,
+          "score": 0.652
+        },
+        {
+          "text": "mostrou",
+          "start_seconds": 2.776,
+          "end_seconds": 3.037,
+          "score": 0.899
+        },
+        {
+          "text": "o",
+          "start_seconds": 3.057,
+          "end_seconds": 3.077,
+          "score": 0.002
+        },
+        {
+          "text": "assalto",
+          "start_seconds": 3.097,
+          "end_seconds": 3.438,
+          "score": 0.824
+        },
+        {
+          "text": "de",
+          "start_seconds": 3.458,
+          "end_seconds": 3.538,
+          "score": 0.748
+        },
+        {
+          "text": "todo",
+          "start_seconds": 3.578,
+          "end_seconds": 3.758,
+          "score": 0.75
+        },
+        {
+          "text": "tipo.",
+          "start_seconds": 3.839,
+          "end_seconds": 4.139,
+          "score": 0.966
+        }
+      ]
+    },
+    {
+      "text": "Loja de conveniência, de rosto coberto e com o caixa apavorado.",
+      "start_seconds": 4.74,
+      "end_seconds": 8.007,
+      "words": [
+        {
+          "text": "Loja",
+          "start_seconds": 4.74,
+          "end_seconds": 5.001,
+          "score": 0.92
+        },
+        {
+          "text": "de",
+          "start_seconds": 5.021,
+          "end_seconds": 5.081,
+          "score": 0.752
+        },
+        {
+          "text": "conveniência,",
+          "start_seconds": 5.141,
+          "end_seconds": 5.782,
+          "score": 0.915
+        },
+        {
+          "text": "de",
+          "start_seconds": 5.802,
+          "end_seconds": 5.863,
+          "score": 0.94
+        },
+        {
+          "text": "rosto",
+          "start_seconds": 5.923,
+          "end_seconds": 6.143,
+          "score": 0.831
+        },
+        {
+          "text": "coberto",
+          "start_seconds": 6.183,
+          "end_seconds": 6.584,
+          "score": 0.994
+        },
+        {
+          "text": "e",
+          "start_seconds": 6.624,
+          "end_seconds": 6.664,
+          "score": 0.502
+        },
+        {
+          "text": "com",
+          "start_seconds": 6.704,
+          "end_seconds": 6.825,
+          "score": 0.778
+        },
+        {
+          "text": "o",
+          "start_seconds": 6.845,
+          "end_seconds": 6.865,
+          "score": 1
+        },
+        {
+          "text": "caixa",
+          "start_seconds": 6.945,
+          "end_seconds": 7.265,
+          "score": 0.961
+        },
+        {
+          "text": "apavorado.",
+          "start_seconds": 7.305,
+          "end_seconds": 8.007,
+          "score": 0.975
+        }
+      ]
+    },
+    {
+      "text": "Joelheria em plena luz do dia.",
+      "start_seconds": 8.428,
+      "end_seconds": 10.011,
+      "words": [
+        {
+          "text": "Joelheria",
+          "start_seconds": 8.428,
+          "end_seconds": 8.889,
+          "score": 0.864
+        },
+        {
+          "text": "em",
+          "start_seconds": 8.969,
+          "end_seconds": 9.029,
+          "score": 0.875
+        },
+        {
+          "text": "plena",
+          "start_seconds": 9.109,
+          "end_seconds": 9.37,
+          "score": 0.81
+        },
+        {
+          "text": "luz",
+          "start_seconds": 9.39,
+          "end_seconds": 9.53,
+          "score": 0.679
+        },
+        {
+          "text": "do",
+          "start_seconds": 9.55,
+          "end_seconds": 9.63,
+          "score": 0.94
+        },
+        {
+          "text": "dia.",
+          "start_seconds": 9.71,
+          "end_seconds": 10.011,
+          "score": 0.889
+        }
+      ]
+    },
+    {
+      "text": "E até carro forte, com a equipe toda armada.",
+      "start_seconds": 10.372,
+      "end_seconds": 12.776,
+      "words": [
+        {
+          "text": "E",
+          "start_seconds": 10.372,
+          "end_seconds": 10.432,
+          "score": 0.62
+        },
+        {
+          "text": "até",
+          "start_seconds": 10.452,
+          "end_seconds": 10.612,
+          "score": 0.891
+        },
+        {
+          "text": "carro",
+          "start_seconds": 10.632,
+          "end_seconds": 10.853,
+          "score": 0.89
+        },
+        {
+          "text": "forte,",
+          "start_seconds": 10.973,
+          "end_seconds": 11.374,
+          "score": 0.945
+        },
+        {
+          "text": "com",
+          "start_seconds": 11.414,
+          "end_seconds": 11.574,
+          "score": 0.729
+        },
+        {
+          "text": "a",
+          "start_seconds": 11.674,
+          "end_seconds": 11.714,
+          "score": 0.763
+        },
+        {
+          "text": "equipe",
+          "start_seconds": 11.774,
+          "end_seconds": 12.055,
+          "score": 0.834
+        },
+        {
+          "text": "toda",
+          "start_seconds": 12.115,
+          "end_seconds": 12.295,
+          "score": 0.834
+        },
+        {
+          "text": "armada.",
+          "start_seconds": 12.335,
+          "end_seconds": 12.776,
+          "score": 0.968
+        }
+      ]
+    },
+    {
+      "text": "Depois vem a fuga.",
+      "start_seconds": 13.237,
+      "end_seconds": 14.179,
+      "words": [
+        {
+          "text": "Depois",
+          "start_seconds": 13.237,
+          "end_seconds": 13.498,
+          "score": 0.958
+        },
+        {
+          "text": "vem",
+          "start_seconds": 13.538,
+          "end_seconds": 13.638,
+          "score": 0.833
+        },
+        {
+          "text": "a",
+          "start_seconds": 13.678,
+          "end_seconds": 13.698,
+          "score": 1
+        },
+        {
+          "text": "fuga.",
+          "start_seconds": 13.818,
+          "end_seconds": 14.179,
+          "score": 0.933
+        }
+      ]
+    },
+    {
+      "text": "Polícia na cola, tiroteio no meio da rua e viatura capotando.",
+      "start_seconds": 14.319,
+      "end_seconds": 18.768,
+      "words": [
+        {
+          "text": "Polícia",
+          "start_seconds": 14.319,
+          "end_seconds": 14.66,
+          "score": 0.904
+        },
+        {
+          "text": "na",
+          "start_seconds": 14.7,
+          "end_seconds": 14.76,
+          "score": 0.774
+        },
+        {
+          "text": "cola,",
+          "start_seconds": 14.881,
+          "end_seconds": 15.181,
+          "score": 0.999
+        },
+        {
+          "text": "tiroteio",
+          "start_seconds": 15.261,
+          "end_seconds": 15.722,
+          "score": 0.95
+        },
+        {
+          "text": "no",
+          "start_seconds": 15.742,
+          "end_seconds": 15.822,
+          "score": 0.75
+        },
+        {
+          "text": "meio",
+          "start_seconds": 15.842,
+          "end_seconds": 15.983,
+          "score": 0.917
+        },
+        {
+          "text": "da",
+          "start_seconds": 16.023,
+          "end_seconds": 16.103,
+          "score": 0.598
+        },
+        {
+          "text": "rua",
+          "start_seconds": 16.203,
+          "end_seconds": 16.484,
+          "score": 0.856
+        },
+        {
+          "text": "e",
+          "start_seconds": 16.945,
+          "end_seconds": 17.325,
+          "score": 0.896
+        },
+        {
+          "text": "viatura",
+          "start_seconds": 17.486,
+          "end_seconds": 18.067,
+          "score": 0.994
+        },
+        {
+          "text": "capotando.",
+          "start_seconds": 18.147,
+          "end_seconds": 18.768,
+          "score": 0.935
+        }
+      ]
+    },
+    {
+      "text": "Faltam seis dias para você fazer tudo isso.",
+      "start_seconds": 18.828,
+      "end_seconds": 21.073,
+      "words": [
+        {
+          "text": "Faltam",
+          "start_seconds": 18.828,
+          "end_seconds": 19.109,
+          "score": 0.889
+        },
+        {
+          "text": "seis",
+          "start_seconds": 19.189,
+          "end_seconds": 19.41,
+          "score": 0.864
+        },
+        {
+          "text": "dias",
+          "start_seconds": 19.49,
+          "end_seconds": 19.75,
+          "score": 0.988
+        },
+        {
+          "text": "para",
+          "start_seconds": 19.79,
+          "end_seconds": 19.911,
+          "score": 0.875
+        },
+        {
+          "text": "você",
+          "start_seconds": 19.951,
+          "end_seconds": 20.171,
+          "score": 1
+        },
+        {
+          "text": "fazer",
+          "start_seconds": 20.231,
+          "end_seconds": 20.512,
+          "score": 0.801
+        },
+        {
+          "text": "tudo",
+          "start_seconds": 20.572,
+          "end_seconds": 20.752,
+          "score": 0.876
+        },
+        {
+          "text": "isso.",
+          "start_seconds": 20.812,
+          "end_seconds": 21.073,
+          "score": 0.982
+        }
+      ]
+    },
+    {
+      "text": "Qual assalto você faz primeiro?",
+      "start_seconds": 21.494,
+      "end_seconds": 23.037,
+      "words": [
+        {
+          "text": "Qual",
+          "start_seconds": 21.494,
+          "end_seconds": 21.654,
+          "score": 0.713
+        },
+        {
+          "text": "assalto",
+          "start_seconds": 21.694,
+          "end_seconds": 22.095,
+          "score": 0.857
+        },
+        {
+          "text": "você",
+          "start_seconds": 22.135,
+          "end_seconds": 22.335,
+          "score": 0.917
+        },
+        {
+          "text": "faz",
+          "start_seconds": 22.375,
+          "end_seconds": 22.556,
+          "score": 0.833
+        },
+        {
+          "text": "primeiro?",
+          "start_seconds": 22.596,
+          "end_seconds": 23.037,
+          "score": 0.943
+        }
+      ]
+    },
+    {
+      "text": "Comenta aí.",
+      "words": [
+        {
+          "text": "Comenta",
+          "start_seconds": 23.317,
+          "end_seconds": 23.638,
+          "score": 0.81
+        },
+        {
+          "text": "aí.",
+          "score": 0.987
+        }
+      ]
+    }
+  ]
+}

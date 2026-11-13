@@ -1,0 +1,13 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Marca,Inter Display Black,96,&H00FAF2FF,&H00FAF2FF,&H00B45FFF,&H00000000,0,0,0,0,100,100,1,0,1,0,0,5,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:07:45.33,0:07:51.00,Marca,,0,0,0,,{\pos(640,286)\fscx15\fscy15\t(0,270,\fscx100\fscy100)\1c&H00B45FFF&\bord9\blur14\alpha&H40&}NEWS CORINGA
+Dialogue: 1,0:07:45.33,0:07:51.00,Marca,,0,0,0,,{\pos(640,286)\fscx15\fscy15\t(0,270,\fscx100\fscy100)\bord1.5\3c&H00D9A6FF&\blur1.5}NEWS CORINGA

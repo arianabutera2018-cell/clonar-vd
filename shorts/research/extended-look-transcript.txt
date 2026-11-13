@@ -1,0 +1,504 @@
+    3.2 Yo!
+    4.3 Crack heads!
+    7.7 I guess they know we're coming.
+    9.6 Alright, that's the block right here.
+   11.8 Be cool.
+   12.9 Don't, you know... What?
+   15.3 Nothing.
+   17.1 Yo.
+   18.0 What the fuck?
+   19.3 Yo, what's up?
+   21.1 Y'all trying to smoke?
+   22.9 No.
+   24.1 Y'all know Booby?
+   25.3 Booby, huh?
+   26.0 Yeah.
+   26.8 He ain't here though.
+   29.3 Well, we're picking something up for him.
+   31.1 You know anything about that?
+   36.1 Yeah, go inside and ask for Raymond, bruh.
+   38.7 Appreciate it.
+   40.4 Man, I don't even want to hear that shit.
+   48.7 Hey.
+   48.9 Like, I don't even want to hear that shit.
+   51.3 Hold up, bruh.
+   53.0 Yo.
+   66.7 Y'all need something?
+   68.1 Raymond?
+   68.4 Nah.
+   68.8 Nah.
+   70.0 What you want?
+   71.1 Booby sent us.
+   72.0 For a pick up.
+   72.9 Aight, aight.
+   74.9 Yo.
+   76.0 We going up.
+   80.6 Right inside.
+   86.6 Look at that red bone shot he was talking to.
+   90.1 I saw her down.
+   95.9 Said you was here for a pick up or drop off.
+   98.1 Pick up.
+  107.8 Straight up, first door on the right.
+  110.0 Yep.
+  114.8 Looks like it
+  140.6 What you want?
+  141.1 Yo, is Raymond around?
+  143.0 Nah, never heard of him.
+  144.6 Yo, we're here to pick up for Booby.
+  148.1 All right, hold up.
+  157.7 Yo, Ray, these two say they're for Booby?
+  159.7 Already told that motherfucker what the fuck going on, man.
+  163.3 He seriously sent y'all over here right now.
+  165.3 We're just here to collect, man.
+  166.9 Why he ain't come collect?
+  168.5 You ain't ask yourself that.
+  170.8 No.
+  171.7 Look, we could go back empty-handed.
+  173.9 One of my partners off the grid right now, you feel me?
+  177.7 Until I figure out where the fuck he at and what the fuck going on, we ain't a holding pen right here.
+  182.7 So Booby knows all this, right?
+  184.3 Yeah, he fucking knows.
+  185.8 Problem is, he only worried about himself.
+  191.2 Yo, phone.
+  194.5 Let me tell y'all something.
+  196.4 At this point, I really don't give a fuck.
+  199.3 Hey, pack that shit up.
+  201.3 Yo, Ray.
+  202.2 It's him.
+  203.6 Ernesto.
+  204.3 Put on speak phone.
+  205.2 Raymond!
+  205.8 Yo, Ernesto.
+  206.5 Raymond, Raymond.
+  207.6 Where the fuck you at?
+  209.1 Oime, mi hermano.
+  210.5 We got a situation happening.
+  212.5 My friends on the task force are on their way.
+  214.5 They said they're paying you a visit, so just let them take whatever they want, okay?
+  218.5 What the fuck you talking about?
+  221.0 You know I got a nigga outside your mama house, right?
+  223.0 Raymond, listen very closely, cabrón.
+  227.6 Raymond.
+  230.0 Hey, yo, Ray, it's 12!
+  231.3 They tuned up and everything!
+  232.5 Hey, Monk, let's get these workers out of here, man!
+  234.6 Get your asses, let's go!
+  236.8 Go away, this way!
+  237.8 Come on, come on!
+  238.7 Move, move!
+  240.1 I've always been there for you.
+  241.2 Stay high!
+  244.1 Is this what I get?
+  245.1 Police!
+  246.0 Don't fucking move!
+  250.1 It is what is, my friend.
+  252.1 Holy shit!
+  253.1 Stay down!
+  253.7 Yeah, I know.
+  260.9 Come on.
+  262.0 We need to find a way out.
+  264.2 We got Booby's bricks.
+  265.8 Fuck Booby!
+  266.6 We gotta get out of this.
+  284.7 Move, cover!
+  291.6 On it!
+  296.9 What the fuck is going on here?
+  299.5 Fuck, Jim.
+  302.0 Can't you fucking handle a bunch of street pushers?
+  305.5 Hey man, this ain't even loaded.
+  314.9 He's fucking Mendez.
+  316.5 Yup.
+  318.1 You think he saw us?
+  319.6 No, he couldn't have.
+  321.3 Oh, Cornel.
+  324.9 They got more cops coming in from downstairs.
+  326.4 Get in here before they get your ass.
+  328.2 Thanks, man.
+  332.1 What the fuck y'all doing in here?
+  333.6 You hear all that outside?
+  334.8 Now just hold on a minute.
+  336.4 Hold on?
+  337.1 You got motherfuckers running up in my house?
+  339.5 You are not allowed to just come in here.
+  341.6 Every time I try to buy some pizza, something else.
+  345.2 And that's my fault?
+  377.4 Hey.
+  382.1 Hey, Jay.
+  385.7 I bought these.
+  386.3 What do you think?
+  387.8 I can buy my own clothes, you know.
+  389.8 Sure you can.
+  391.3 But would they look that good?
+  394.1 Yeah, yeah, okay.
+  394.9 You know, Brian wants us there for cocktails.
+  397.9 Uh-huh.
+  398.8 You know what you're gonna wear yet?
+  400.5 Relax, Jay.
+  404.8 Okay, what should you think?
+  407.8 Uh, sequins?
+  410.7 Sequins?
+  411.9 Okay, the other one.
+  415.0 You know what you're wearing right now looks pretty good, so you wanna head out.
+  419.4 I don't wanna be late.
+  420.7 Yeah, alright.
+  421.9 Just give me a few seconds.
+  445.4 Does life feel hopeless?
+  447.1 Are you constantly searching for a way out?
+  450.4 Luckily for you, those days are over thanks to Angstapan.
+  455.2 Ah, the great outdoors, nature's playground, a carnival of infinite possibilities, overflowing with creatures great and small, magnificent and proud, hungry
+  471.6 anymore.
+  472.4 Mouthwatering meats from the open range topped off with our world famous buns.
+  480.4 Ready.
+  481.9 Damn.
+  482.7 Worth the wait.
+  494.9 Here we go.
+  495.9 Finally.
+  496.8 Okay.
+  498.2 Your wound's up a little tight.
+  499.5 What's up?
+  500.5 Nothing.
+  501.3 I just don't like being late.
+  503.4 We're not that late.
+  504.4 Brian's doing us a favor, you know?
+  506.6 You need this intro.
+  508.0 I get it.
+  509.1 You know, who has some deep fucking shit?
+  511.8 I get that too.
+  513.2 Who is this guy?
+  514.5 You know, besides Brian's old cellmate.
+  516.7 I don't know as much as you.
+  518.4 Carl Meyers said he was, like, former Dominican intelligence or something.
+  522.7 Damn.
+  523.1 What?
+  523.8 Just kind of wish we weren't running late.
+  526.7 Really?
+  527.4 Huh?
+  528.1 What?
+  528.3 I didn't know all this.
+  530.5 Relationships are about communication, Jerry.
+  533.9 Sure, I am sorry.
+  536.2 Where you at, my city girls?
+  557.1 You seeing this?
+  558.5 Well, look who's back.
+  574.4 What?
+  575.1 Sometimes I'm just more comfortable when I have to use a gun, you know?
+  578.9 Just be charming, okay?
+  581.3 Yeah.
+  582.4 And don't worry about Brian.
+  583.6 Dudes are tired.
+  586.0 I mean, look at Lori's Snapmatic.
+  588.6 Looks like they're loving it.
+  591.2 Here they are, at the bar.
+  593.3 Oh my god, as I live and breathe, look at the two of you.
+  598.3 Hey Lori, it's good to see you, Brian.
+  600.7 Uh huh.
+  609.4 Now come here, give us a hug.
+  612.0 I told Brian I thought you two were both dead for sure.
+  615.5 Now what have you gotten yourselves into?
+  618.0 I want to know everything.
+  624.8 I don't know what this is.
+  626.4 Look, I was just sightseeing with my girl.
+  629.1 Did two of us carry these?
+  632.6 You!
+  633.5 Fuck it!
+  634.4 Shut up!
+  634.8 Hold on.
+  637.8 This is so fucked.
+  640.9 Well, Brian was quite the stud back in the day.
+  643.6 Was.
+  644.4 Wait.
+  645.4 What's up?
+  648.0 Good job.
+  648.6 It has to be done tonight.
+  650.0 Tonight?
+  651.2 He wants it on the quiet, huh?
+  653.7 He only wants one of you.
+  655.9 Well?
+  656.8 You know...
+  657.3 I don't mind.
+  659.1 I mean, I... What do you think you wanted to...
+  661.8 I'm gonna go.
+  663.6 Enjoy your dinner, guys.
+  664.6 I'll be back for dessert.
+  666.5 Well, I'll walk you out.
+  667.4 I need the ladies.
+  668.4 Yeah, let's take in the view.
+  672.1 I never get to smoke weed in front of Lori.
+  677.9 Never tell you about the fairground rolled into my hometown when I was a kid.
+  684.8 I don't think so.
+  686.4 They had bale mazes and Ferris wheel.
+  689.4 Hell, it was the highlight of the goddamn summer for us kids.
+  692.5 Everybody here so we can see them!
+  694.6 And they had this beautiful carousel.
+  699.2 We snuck in and a buddy of mine, he got it working.
+  704.0 Look what the law chased in.
+  709.7 Then he cranked the speed up so fast that we thought we was dying.
+  716.4 It started going faster and faster and it's getting harder to hold.
+  720.0 Hold on, and I said, well, shit, that ain't good.
+  723.7 Watch out!
+  724.7 And I fucking jumped.
+  728.0 Jimmy Canto stayed on.
+  731.1 Cracked his head open, and that night... You got a point?
+  736.3 Yeah, yeah.
+  738.8 You gotta know when to get off, Jason.
+  742.9 You hear me?
+  745.1 Let's head back.
+  752.9 Hey got this row guys car and heading to the address he gave nice on my way yo So I've been thinking and I don't think we should tell him about you know our troubles.
+  764.8 I just yeah That was the whole point of look he could sell us out or put a bullet through our heads I mean seriously what reason do we have to trust this guy?
+  774.1 All right, how do you want to play?
+  776.4 Slow play.
+  777.5 Just say, hi, nice to meet you, here's your car.
+  780.9 Where's our payment?
+  781.9 Please let us know about any further criminal opportunities.
+  785.0 Okay.
+  786.9 See you there.
+  788.0 Yep.
+  790.5 You miss me?
+  791.8 I've been busy.
+  793.0 You gonna text this guy?
+  794.5 Dude could be a cop for all we know.
+  796.0 He's not a cop, all right?
+  797.9 He's just cautious.
+  799.4 That's probably why he survived so long.
+  801.0 We could learn something.
+  803.1 Maybe you could.
+  804.3 Yeah.
+  805.3 You're the perfect criminal.
+  808.2 Jason.
+  809.5 Lucia.
+  810.7 Yeah.
+  811.5 Yeah.
+  812.2 We gotta go.
+  813.2 Go?
+  813.7 Yeah, go.
+  814.3 Like right fucking now.
+  816.5 Don't you think I needed a little bit more?
+  824.2 Shit.
+  824.7 These cars are right... Hey, bro.
+  829.1 Get your ass back here, man.
+  830.3 Bro?
+  830.9 Come on, you gotta hold these fuckers off.
+  834.1 I gotta know something for you, please.
+  836.7 Here, you take this.
+  838.5 Getting crowded here.
+  839.3 I'm gonna punch through to the freeway.
+  847.2 Negative.
+  851.3 Stay low.
+  873.2 Back up into this alley here.
+  877.2 Okay.
+  883.6 That's it.
+  885.2 Good.
+  886.3 How about we just chill here for a minute?
+  889.6 Fucking shit show.
+  891.2 You want me to take the wheel?
+  892.6 What?
+  893.4 No.
+  894.5 Look, you think everything always goes as planned, huh?
+  897.4 No, mommy, no.
+  899.0 There will always be some kind of bullshit.
+  900.9 A professional adapts.
+  902.5 Are you a professional, Lucia?
+  903.6 Huh?
+  904.9 Of course.
+  906.4 Good.
+  907.3 I need a professional.
+  910.3 Oh, no.
+  912.2 I see him.
+  912.9 I think he saw us too.
+  914.6 Let's go.
+  955.0 Okay, ow don't leave anything in here
+  971.7 We're right, Jason.
+  972.8 We're cargo.
+  974.2 Copy.
+  977.6 Maybe some warning next time?
+  980.7 What should I tell you to put in your calendar?
+  982.5 Friday morning, bank robbery.
+  984.2 Come on.
+  987.7 We passed the test?
+  989.3 You did fine.
+  990.8 We're still alive.
+ 1000.0 This could be the start of something good.
+ 1003.8 Keep your phones on.
+ 1007.0 Oh, mamita.
+ 1010.9 Take me to the loop, baby.
+ 1012.4 We need to see it.
+ 1013.5 Does this mean we're in his crew?
+ 1015.6 Yeah, I think so.
+ 1017.4 You think he can help us?
+ 1019.1 We don't have any better ideas, do we?
+ 1022.2 Where are we?
+ 1023.3 Back in Bayside.
+ 1024.8 Wanna take a look around?
+ 1030.8 Elbow is high!
+ 1031.9 What a wrath!
+ 1047.1 Showing the future past.
+ 1051.5 Same cat with them evil eyes.
+ 1053.6 Yo, Jay, what's happening, baby?
+ 1055.3 What's up, man?
+ 1056.5 Looney.
+ 1057.2 What's up, girl?
+ 1059.4 She's just a devil woman with evil on her mind.
+ 1063.6 Beware the devil woman.
+ 1065.6 She's gonna get you.
+ 1067.7 She's just a devil woman with evil on her mind.
+ 1071.6 Beware the devil woman.
+ 1073.3 She's gonna get you.
+ 1078.6 Let's try to keep it clean.
+ 1084.1 Get hell with you!
+ 1085.7 Hey!
+ 1085.8 I'm watching you!
+ 1086.7 Cops are on their way.
+ 1092.0 Holy shit!
+ 1092.9 Who the fuck are you?
+ 1094.0 What the fuck is this?
+ 1095.1 Oh, the trunk challenge!
+ 1096.7 Wait, did you steal my friend's car?
+ 1099.3 Yeah.
+ 1099.8 Holy shit, chat!
+ 1101.3 What do I do?
+ 1103.0 Jesus.
+ 1104.0 Look, look, look!
+ 1105.2 Look!
+ 1105.8 The actual cops are chasing us!
+ 1121.0 Beware the devil woman, she's gonna get you.
+ 1124.9 She's just a dead woman with evil on her mind.
+ 1129.1 Beware the devil woman, she's gonna get you from the high.
+ 1132.4 From the high.
+ 1142.5 Stay away.
+ 1144.6 I bet you'd be real good at battle rapping, dawg.
+ 1146.4 Oh yeah?
+ 1147.9 Lucia, Jason, come take a seat.
+ 1151.0 I'm waiting on the ETA for the flight.
+ 1153.2 Can I get you anything?
+ 1154.4 Tea, coffee, champagne?
+ 1155.9 Three more champagnes, thank you.
+ 1157.6 Be right back.
+ 1158.8 Trust me, a slight buzz will only help you.
+ 1161.2 So Val, I know it's a party, but we are working, right?
+ 1164.8 The job is Andres de Leon.
+ 1167.8 Protect him, but keep him in line.
+ 1170.3 Gas him up.
+ 1171.3 Boost his ego.
+ 1172.4 Make him feel good about himself.
+ 1174.2 Babysit.
+ 1175.9 Hey, there's a sight for sore eyes.
+ 1178.5 Tina, what's up, chula?
+ 1180.6 Andres, it's been forever.
+ 1183.1 How is everything?
+ 1184.3 Oh, man, it's been nonstop.
+ 1185.7 Lucia, Jason, please meet Andres De Leon.
+ 1188.2 Sorry, guys.
+ 1188.7 I'm a hugger.
+ 1189.3 I'm a hugger.
+ 1189.7 Come in here.
+ 1190.2 Get in here.
+ 1191.8 Yes, all right.
+ 1193.0 Beautiful, beautiful.
+ 1194.2 Yes, gorgeous.
+ 1195.4 All right, strong.
+ 1196.4 Good job.
+ 1197.1 Should we go, gentlemen?
+ 1198.3 You guys see the driver?
+ 1199.5 Sure.
+ 1200.1 Let's go.
+ 1201.4 Ah, come on.
+ 1202.0 All right.
+ 1202.3 We're good.
+ 1203.3 All right, fuck it.
+ 1203.9 You ready for this party, bro?
+ 1204.9 I don't know, maybe.
+ 1206.5 All right.
+ 1206.9 What do you mean, maybe?
+ 1207.8 I'm ready for our party.
+ 1208.9 I don't know about this party.
+ 1210.3 Oh, shit.
+ 1211.3 OK. Hey, Drago, what was your name again?
+ 1243.7 Welcome.
+ 1244.4 How's your flight, sir?
+ 1245.4 Yeah, yeah, real good time.
+ 1246.6 Hey, those waitresses were all NDA'd, yeah?
+ 1248.6 The flight attendants, yes, of course.
+ 1250.1 Right after the fact.
+ 1250.9 That's a rookie move, bro.
+ 1252.1 And you guys got our room sorted.
+ 1253.8 Yes, it's all ready for you.
+ 1255.3 24th floor executive conference room.
+ 1257.3 Perfect.
+ 1258.2 Let's go freshen up, bro.
+ 1259.3 Let's do it.
+ 1261.1 Hey, honey, so a couple of Alonso's producers' friends are in town and we're gonna do a deep dive into my creative roadmap.
+ 1266.4 So we up in the conference room doing a little business and, you know, think tank stuff, okay?
+ 1270.7 Seriously?
+ 1271.6 Right now?
+ 1272.1 Yeah, baby, you soon should lose.
+ 1273.8 What?
+ 1274.1 Incredible.
+ 1275.2 Petra, can I introduce you to Andres' new security detail?
+ 1279.1 Jason and Lucia.
+ 1280.4 This is Petra Navarro, COO of Megamundo.
+ 1283.3 Yes, good.
+ 1284.3 Can I take you up?
+ 1285.2 Yes, please, let's go.
+ 1286.4 I don't want to spend the whole night in the lobby.
+ 1292.1 Let him do what he does.
+ 1293.4 Then I want him down here, okay?
+ 1295.4 You got it.
+ 1296.0 Buenas noches, señoras.
+ 1297.4 Gustavo, I want you to meet Lucia.
+ 1300.2 She's part of the new security detail that we hired from this.
+ 1302.5 Some security guy just took my guns.
+ 1319.1 It's a good thing you're good with your hands.
+ 1320.9 These guys seem to have a cover.
+ 1322.1 We should be fine.
+ 1323.0 Okay.
+ 1323.8 Apart the meeting!
+ 1325.2 Don't come in!
+ 1332.1 Hey, Andres.
+ 1333.2 Whoa, whoa, hey, hey, it's okay, it's okay.
+ 1334.5 He's my guy, he's my guy, he's my guy.
+ 1336.2 Hey, buddy, just uh, prisoning them buildings.
+ 1339.0 Hey, man.
+ 1341.0 Oh, sorry to interrupt.
+ 1342.9 Hey, hey, man, can you run and get us a bottle of tequila?
+ 1345.5 Some sparkling water, a few beers, you know, just the selection shit to drink, yeah?
+ 1349.4 Thanks, buddy.
+ 1349.8 Yeah.
+ 1350.7 Uh-huh.
+ 1351.3 Yeah, so they just called and asked me to bring you down to the party now?
+ 1354.1 Petra wants you.
+ 1355.1 There's some big speech happening there.
+ 1356.7 No!
+ 1357.0 No!
+ 1357.4 Fuck that shit!
+ 1358.5 Fuck that!
+ 1359.5 Yeah!
+ 1360.4 Sorry, you know, a hard pass.
+ 1362.0 We're on a roll here, you know?
+ 1363.6 Frontal cortex is in overdrive.
+ 1365.2 I mean, how many ideas did I just have in the last five minutes, bro?
+ 1367.6 So many, bro.
+ 1368.4 So fucking many.
+ 1369.7 It's like the band's back together and I just met these fucking guys.
+ 1372.4 Come on, guys.
+ 1375.8 Hello, everyone.
+ 1377.6 I just want to thank you all for coming here tonight to join us in celebrating the opening of Mega Mundo's first corporate headquarters on American soil.
+ 1388.6 But we all did this together as a family.
+ 1434.3 Hey, hey, hey!
+ 1435.5 Give me the phone!
+ 1436.4 Who am I gonna call?
+ 1437.5 I'm not stupid.
+ 1440.0 We're going down there.
+ 1441.1 Who the fuck is this?
+ 1442.3 We'll talk more later, okay?
+ 1444.2 Nice distraction, Jay.
+ 1447.4 A bit dramatic.
+ 1532.2 Hurts, right?
+ 1533.6 Try wearing a bitch.
+ 1539.5 Shit!
+ 1547.5 Might not feel like it, but these are your glory days.
+ 1552.2 The salad years, you know?
+ 1554.3 Nothing is gonna beat who you are now.
+ 1557.1 You can't see all the fucked up shit that's looming on the horizon.
+ 1563.2 Enjoy this, dude.
+ 1565.1 If this right now was all that there is, all the time, it would be perfect.
+ 1574.5 Trust me.

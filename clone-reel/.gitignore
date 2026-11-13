@@ -1,0 +1,8 @@
+# Mídia grande e de terceiros: fica só no ambiente, não no git
+references/**/*.mp4
+references/**/*.mp3
+.hypit/
+assets/voice/*.mp3
+preview/
+references/**/*.wav
+exports/

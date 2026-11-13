@@ -1,0 +1,5201 @@
+{
+  "format": "hypit.transcript@1",
+  "source": "/home/user/clonar-vd/clone-reel/assets/voice/part1.mp3",
+  "language": "pt",
+  "audio_seconds": 288.392,
+  "passages": [
+    {
+      "text": "Há mais de uma década, o GTA V te fez jogar de um jeito só.",
+      "start_seconds": 0.051,
+      "end_seconds": 3.392,
+      "words": [
+        {
+          "text": "Há",
+          "start_seconds": 0.051,
+          "end_seconds": 0.171,
+          "score": 0.391
+        },
+        {
+          "text": "mais",
+          "start_seconds": 0.231,
+          "end_seconds": 0.411,
+          "score": 0.876
+        },
+        {
+          "text": "de",
+          "start_seconds": 0.431,
+          "end_seconds": 0.471,
+          "score": 1
+        },
+        {
+          "text": "uma",
+          "start_seconds": 0.491,
+          "end_seconds": 0.611,
+          "score": 0.748
+        },
+        {
+          "text": "década,",
+          "start_seconds": 0.691,
+          "end_seconds": 1.151,
+          "score": 0.9
+        },
+        {
+          "text": "o",
+          "start_seconds": 1.271,
+          "end_seconds": 1.291,
+          "score": 0.942
+        },
+        {
+          "text": "GTA",
+          "start_seconds": 1.351,
+          "end_seconds": 1.651,
+          "score": 0.547
+        },
+        {
+          "text": "V",
+          "start_seconds": 2.051,
+          "end_seconds": 2.131,
+          "score": 0.228
+        },
+        {
+          "text": "te",
+          "start_seconds": 2.171,
+          "end_seconds": 2.232,
+          "score": 0.996
+        },
+        {
+          "text": "fez",
+          "start_seconds": 2.272,
+          "end_seconds": 2.392,
+          "score": 0.999
+        },
+        {
+          "text": "jogar",
+          "start_seconds": 2.432,
+          "end_seconds": 2.652,
+          "score": 0.82
+        },
+        {
+          "text": "de",
+          "start_seconds": 2.672,
+          "end_seconds": 2.732,
+          "score": 1
+        },
+        {
+          "text": "um",
+          "start_seconds": 2.772,
+          "end_seconds": 2.812,
+          "score": 1
+        },
+        {
+          "text": "jeito",
+          "start_seconds": 2.852,
+          "end_seconds": 3.092,
+          "score": 0.987
+        },
+        {
+          "text": "só.",
+          "start_seconds": 3.232,
+          "end_seconds": 3.392,
+          "score": 1
+        }
+      ]
+    },
+    {
+      "text": "Se enfiar num beco, até as estrelas desaparecerem.",
+      "start_seconds": 3.812,
+      "end_seconds": 6.813,
+      "words": [
+        {
+          "text": "Se",
+          "start_seconds": 3.812,
+          "end_seconds": 3.852,
+          "score": 0.122
+        },
+        {
+          "text": "enfiar",
+          "start_seconds": 3.872,
+          "end_seconds": 4.292,
+          "score": 0.943
+        },
+        {
+          "text": "num",
+          "start_seconds": 4.332,
+          "end_seconds": 4.432,
+          "score": 0.999
+        },
+        {
+          "text": "beco,",
+          "start_seconds": 4.572,
+          "end_seconds": 4.952,
+          "score": 0.934
+        },
+        {
+          "text": "até",
+          "start_seconds": 5.212,
+          "end_seconds": 5.392,
+          "score": 1
+        },
+        {
+          "text": "as",
+          "start_seconds": 5.412,
+          "end_seconds": 5.492,
+          "score": 0.683
+        },
+        {
+          "text": "estrelas",
+          "start_seconds": 5.532,
+          "end_seconds": 5.932,
+          "score": 0.797
+        },
+        {
+          "text": "desaparecerem.",
+          "start_seconds": 5.972,
+          "end_seconds": 6.813,
+          "score": 0.975
+        }
+      ]
+    },
+    {
+      "text": "Carregar o arsenal todo no bolso.",
+      "start_seconds": 7.193,
+      "end_seconds": 8.853,
+      "words": [
+        {
+          "text": "Carregar",
+          "start_seconds": 7.193,
+          "end_seconds": 7.493,
+          "score": 0.771
+        },
+        {
+          "text": "o",
+          "start_seconds": 7.533,
+          "end_seconds": 7.573,
+          "score": 0.5
+        },
+        {
+          "text": "arsenal",
+          "start_seconds": 7.593,
+          "end_seconds": 7.953,
+          "score": 0.833
+        },
+        {
+          "text": "todo",
+          "start_seconds": 8.053,
+          "end_seconds": 8.273,
+          "score": 0.996
+        },
+        {
+          "text": "no",
+          "start_seconds": 8.313,
+          "end_seconds": 8.393,
+          "score": 0.829
+        },
+        {
+          "text": "bolso.",
+          "start_seconds": 8.433,
+          "end_seconds": 8.853,
+          "score": 0.876
+        }
+      ]
+    },
+    {
+      "text": "Levar qualquer carrão em dois segundos.",
+      "start_seconds": 9.513,
+      "end_seconds": 11.414,
+      "words": [
+        {
+          "text": "Levar",
+          "start_seconds": 9.513,
+          "end_seconds": 9.773,
+          "score": 0.91
+        },
+        {
+          "text": "qualquer",
+          "start_seconds": 9.813,
+          "end_seconds": 10.053,
+          "score": 0.876
+        },
+        {
+          "text": "carrão",
+          "start_seconds": 10.093,
+          "end_seconds": 10.433,
+          "score": 0.814
+        },
+        {
+          "text": "em",
+          "start_seconds": 10.473,
+          "end_seconds": 10.533,
+          "score": 0.745
+        },
+        {
+          "text": "dois",
+          "start_seconds": 10.573,
+          "end_seconds": 10.754,
+          "score": 1
+        },
+        {
+          "text": "segundos.",
+          "start_seconds": 10.814,
+          "end_seconds": 11.414,
+          "score": 0.932
+        }
+      ]
+    },
+    {
+      "text": "Mas em 19 de novembro, o GTA VI chega pra acabar com quase todos esses costumes.",
+      "start_seconds": 11.514,
+      "end_seconds": 17.775,
+      "words": [
+        {
+          "text": "Mas",
+          "start_seconds": 11.514,
+          "end_seconds": 11.774,
+          "score": 0.933
+        },
+        {
+          "text": "em",
+          "start_seconds": 11.814,
+          "end_seconds": 11.894,
+          "score": 0.75
+        },
+        {
+          "text": "19",
+          "start_seconds": 11.934,
+          "end_seconds": 12.334,
+          "score": 0.84
+        },
+        {
+          "text": "de",
+          "start_seconds": 12.374,
+          "end_seconds": 12.434,
+          "score": 0.752
+        },
+        {
+          "text": "novembro,",
+          "start_seconds": 12.454,
+          "end_seconds": 12.994,
+          "score": 0.962
+        },
+        {
+          "text": "o",
+          "start_seconds": 13.414,
+          "end_seconds": 13.594,
+          "score": 0.614
+        },
+        {
+          "text": "GTA",
+          "start_seconds": 13.774,
+          "end_seconds": 14.174,
+          "score": 0.64
+        },
+        {
+          "text": "VI",
+          "start_seconds": 14.314,
+          "end_seconds": 14.494,
+          "score": 0.582
+        },
+        {
+          "text": "chega",
+          "start_seconds": 14.674,
+          "end_seconds": 14.934,
+          "score": 0.851
+        },
+        {
+          "text": "pra",
+          "start_seconds": 14.994,
+          "end_seconds": 15.095,
+          "score": 0.795
+        },
+        {
+          "text": "acabar",
+          "start_seconds": 15.115,
+          "end_seconds": 15.395,
+          "score": 0.787
+        },
+        {
+          "text": "com",
+          "start_seconds": 15.435,
+          "end_seconds": 15.515,
+          "score": 0.851
+        },
+        {
+          "text": "quase",
+          "start_seconds": 15.575,
+          "end_seconds": 15.835,
+          "score": 0.805
+        },
+        {
+          "text": "todos",
+          "start_seconds": 15.915,
+          "end_seconds": 16.175,
+          "score": 0.766
+        },
+        {
+          "text": "esses",
+          "start_seconds": 16.215,
+          "end_seconds": 16.415,
+          "score": 0.934
+        },
+        {
+          "text": "costumes.",
+          "start_seconds": 16.475,
+          "end_seconds": 17.775,
+          "score": 0.936
+        }
+      ]
+    },
+    {
+      "text": "E o último da lista é o mais arriscado, porque ele pode deixar marca no seu jogo pra sempre.",
+      "start_seconds": 17.795,
+      "end_seconds": 23.496,
+      "words": [
+        {
+          "text": "E",
+          "start_seconds": 17.795,
+          "end_seconds": 17.815,
+          "score": 0
+        },
+        {
+          "text": "o",
+          "start_seconds": 17.935,
+          "end_seconds": 18.075,
+          "score": 0.745
+        },
+        {
+          "text": "último",
+          "start_seconds": 18.295,
+          "end_seconds": 18.675,
+          "score": 0.861
+        },
+        {
+          "text": "da",
+          "start_seconds": 18.715,
+          "end_seconds": 18.835,
+          "score": 0.817
+        },
+        {
+          "text": "lista",
+          "start_seconds": 18.875,
+          "end_seconds": 19.295,
+          "score": 0.897
+        },
+        {
+          "text": "é",
+          "start_seconds": 19.496,
+          "end_seconds": 19.536,
+          "score": 0.998
+        },
+        {
+          "text": "o",
+          "start_seconds": 19.576,
+          "end_seconds": 19.596,
+          "score": 0.898
+        },
+        {
+          "text": "mais",
+          "start_seconds": 19.636,
+          "end_seconds": 19.836,
+          "score": 0.849
+        },
+        {
+          "text": "arriscado,",
+          "start_seconds": 19.896,
+          "end_seconds": 20.496,
+          "score": 0.938
+        },
+        {
+          "text": "porque",
+          "start_seconds": 20.856,
+          "end_seconds": 21.376,
+          "score": 0.826
+        },
+        {
+          "text": "ele",
+          "start_seconds": 21.496,
+          "end_seconds": 21.616,
+          "score": 0.743
+        },
+        {
+          "text": "pode",
+          "start_seconds": 21.696,
+          "end_seconds": 21.876,
+          "score": 0.916
+        },
+        {
+          "text": "deixar",
+          "start_seconds": 21.916,
+          "end_seconds": 22.176,
+          "score": 0.852
+        },
+        {
+          "text": "marca",
+          "start_seconds": 22.216,
+          "end_seconds": 22.476,
+          "score": 0.949
+        },
+        {
+          "text": "no",
+          "start_seconds": 22.516,
+          "end_seconds": 22.576,
+          "score": 0.801
+        },
+        {
+          "text": "seu",
+          "start_seconds": 22.616,
+          "end_seconds": 22.716,
+          "score": 0.832
+        },
+        {
+          "text": "jogo",
+          "start_seconds": 22.756,
+          "end_seconds": 22.936,
+          "score": 0.998
+        },
+        {
+          "text": "pra",
+          "start_seconds": 22.976,
+          "end_seconds": 23.076,
+          "score": 0.802
+        },
+        {
+          "text": "sempre.",
+          "start_seconds": 23.156,
+          "end_seconds": 23.496,
+          "score": 0.999
+        }
+      ]
+    },
+    {
+      "text": "No GTA V, o Franklin andava com pistola, fuzil, escopeta, lança mísseis e minigun.",
+      "start_seconds": 23.697,
+      "end_seconds": 29.898,
+      "words": [
+        {
+          "text": "No",
+          "start_seconds": 23.697,
+          "end_seconds": 23.797,
+          "score": 0.837
+        },
+        {
+          "text": "GTA",
+          "start_seconds": 23.817,
+          "end_seconds": 24.117,
+          "score": 0.702
+        },
+        {
+          "text": "V,",
+          "start_seconds": 24.497,
+          "end_seconds": 24.617,
+          "score": 0.667
+        },
+        {
+          "text": "o",
+          "start_seconds": 24.757,
+          "end_seconds": 24.797,
+          "score": 0.916
+        },
+        {
+          "text": "Franklin",
+          "start_seconds": 24.917,
+          "end_seconds": 25.337,
+          "score": 0.84
+        },
+        {
+          "text": "andava",
+          "start_seconds": 25.377,
+          "end_seconds": 25.697,
+          "score": 0.799
+        },
+        {
+          "text": "com",
+          "start_seconds": 25.737,
+          "end_seconds": 25.837,
+          "score": 0.833
+        },
+        {
+          "text": "pistola,",
+          "start_seconds": 25.877,
+          "end_seconds": 26.417,
+          "score": 0.957
+        },
+        {
+          "text": "fuzil,",
+          "start_seconds": 26.497,
+          "end_seconds": 26.977,
+          "score": 0.923
+        },
+        {
+          "text": "escopeta,",
+          "start_seconds": 27.117,
+          "end_seconds": 27.797,
+          "score": 0.932
+        },
+        {
+          "text": "lança",
+          "start_seconds": 28.278,
+          "end_seconds": 28.598,
+          "score": 0.924
+        },
+        {
+          "text": "mísseis",
+          "start_seconds": 28.658,
+          "end_seconds": 29.158,
+          "score": 0.869
+        },
+        {
+          "text": "e",
+          "start_seconds": 29.318,
+          "end_seconds": 29.378,
+          "score": 0.791
+        },
+        {
+          "text": "minigun.",
+          "start_seconds": 29.438,
+          "end_seconds": 29.898,
+          "score": 0.933
+        }
+      ]
+    },
+    {
+      "text": "Tudo guardado, ninguém sabe onde.",
+      "start_seconds": 30.398,
+      "end_seconds": 32.059,
+      "words": [
+        {
+          "text": "Tudo",
+          "start_seconds": 30.398,
+          "end_seconds": 30.598,
+          "score": 0.875
+        },
+        {
+          "text": "guardado,",
+          "start_seconds": 30.638,
+          "end_seconds": 31.079,
+          "score": 0.879
+        },
+        {
+          "text": "ninguém",
+          "start_seconds": 31.099,
+          "end_seconds": 31.419,
+          "score": 0.849
+        },
+        {
+          "text": "sabe",
+          "start_seconds": 31.499,
+          "end_seconds": 31.759,
+          "score": 0.821
+        },
+        {
+          "text": "onde.",
+          "start_seconds": 31.799,
+          "end_seconds": 32.059,
+          "score": 0.868
+        }
+      ]
+    },
+    {
+      "text": "No GTA 6, essa festa terminou.",
+      "start_seconds": 32.259,
+      "end_seconds": 34.32,
+      "words": [
+        {
+          "text": "No",
+          "start_seconds": 32.259,
+          "end_seconds": 32.359,
+          "score": 0.886
+        },
+        {
+          "text": "GTA",
+          "start_seconds": 32.379,
+          "end_seconds": 32.82,
+          "score": 0.847
+        },
+        {
+          "text": "6,",
+          "start_seconds": 33.16,
+          "end_seconds": 33.2,
+          "score": 1
+        },
+        {
+          "text": "essa",
+          "start_seconds": 33.34,
+          "end_seconds": 33.52,
+          "score": 0.954
+        },
+        {
+          "text": "festa",
+          "start_seconds": 33.6,
+          "end_seconds": 33.84,
+          "score": 0.901
+        },
+        {
+          "text": "terminou.",
+          "start_seconds": 33.9,
+          "end_seconds": 34.32,
+          "score": 0.903
+        }
+      ]
+    },
+    {
+      "text": "A roda de armas segue lá, mas agora tem um limite do que você carrega no corpo.",
+      "start_seconds": 34.921,
+      "end_seconds": 39.443,
+      "words": [
+        {
+          "text": "A",
+          "start_seconds": 34.921,
+          "end_seconds": 34.961,
+          "score": 0.999
+        },
+        {
+          "text": "roda",
+          "start_seconds": 35.121,
+          "end_seconds": 35.441,
+          "score": 0.917
+        },
+        {
+          "text": "de",
+          "start_seconds": 35.481,
+          "end_seconds": 35.581,
+          "score": 0.834
+        },
+        {
+          "text": "armas",
+          "start_seconds": 35.681,
+          "end_seconds": 36.001,
+          "score": 0.785
+        },
+        {
+          "text": "segue",
+          "start_seconds": 36.121,
+          "end_seconds": 36.382,
+          "score": 0.877
+        },
+        {
+          "text": "lá,",
+          "start_seconds": 36.442,
+          "end_seconds": 36.682,
+          "score": 0.847
+        },
+        {
+          "text": "mas",
+          "start_seconds": 36.762,
+          "end_seconds": 36.922,
+          "score": 0.682
+        },
+        {
+          "text": "agora",
+          "start_seconds": 36.962,
+          "end_seconds": 37.222,
+          "score": 0.995
+        },
+        {
+          "text": "tem",
+          "start_seconds": 37.262,
+          "end_seconds": 37.402,
+          "score": 0.814
+        },
+        {
+          "text": "um",
+          "start_seconds": 37.442,
+          "end_seconds": 37.502,
+          "score": 0.75
+        },
+        {
+          "text": "limite",
+          "start_seconds": 37.582,
+          "end_seconds": 38.082,
+          "score": 0.905
+        },
+        {
+          "text": "do",
+          "start_seconds": 38.122,
+          "end_seconds": 38.183,
+          "score": 0.75
+        },
+        {
+          "text": "que",
+          "start_seconds": 38.223,
+          "end_seconds": 38.323,
+          "score": 0.671
+        },
+        {
+          "text": "você",
+          "start_seconds": 38.363,
+          "end_seconds": 38.543,
+          "score": 1
+        },
+        {
+          "text": "carrega",
+          "start_seconds": 38.583,
+          "end_seconds": 38.883,
+          "score": 1
+        },
+        {
+          "text": "no",
+          "start_seconds": 38.923,
+          "end_seconds": 38.983,
+          "score": 0.998
+        },
+        {
+          "text": "corpo.",
+          "start_seconds": 39.063,
+          "end_seconds": 39.443,
+          "score": 0.962
+        }
+      ]
+    },
+    {
+      "text": "Pelas prévias, são duas armas grandes e duas pistolas.",
+      "start_seconds": 39.983,
+      "end_seconds": 43.545,
+      "words": [
+        {
+          "text": "Pelas",
+          "start_seconds": 39.983,
+          "end_seconds": 40.264,
+          "score": 1
+        },
+        {
+          "text": "prévias,",
+          "start_seconds": 40.344,
+          "end_seconds": 40.904,
+          "score": 0.93
+        },
+        {
+          "text": "são",
+          "start_seconds": 41.084,
+          "end_seconds": 41.204,
+          "score": 0.83
+        },
+        {
+          "text": "duas",
+          "start_seconds": 41.324,
+          "end_seconds": 41.584,
+          "score": 0.875
+        },
+        {
+          "text": "armas",
+          "start_seconds": 41.624,
+          "end_seconds": 41.885,
+          "score": 0.851
+        },
+        {
+          "text": "grandes",
+          "start_seconds": 41.945,
+          "end_seconds": 42.385,
+          "score": 0.876
+        },
+        {
+          "text": "e",
+          "start_seconds": 42.485,
+          "end_seconds": 42.545,
+          "score": 0.713
+        },
+        {
+          "text": "duas",
+          "start_seconds": 42.625,
+          "end_seconds": 42.825,
+          "score": 1
+        },
+        {
+          "text": "pistolas.",
+          "start_seconds": 42.885,
+          "end_seconds": 43.545,
+          "score": 0.988
+        }
+      ]
+    },
+    {
+      "text": "O restante fica no porta-malas, quer dizer... Antes de cada missão, você vai precisar decidir o que levar, como no Red Dead Redemption 2.",
+      "start_seconds": 44.026,
+      "end_seconds": 50.95,
+      "words": [
+        {
+          "text": "O",
+          "start_seconds": 44.026,
+          "end_seconds": 44.066,
+          "score": 0.506
+        },
+        {
+          "text": "restante",
+          "start_seconds": 44.106,
+          "end_seconds": 44.526,
+          "score": 0.944
+        },
+        {
+          "text": "fica",
+          "start_seconds": 44.566,
+          "end_seconds": 44.746,
+          "score": 0.876
+        },
+        {
+          "text": "no",
+          "start_seconds": 44.766,
+          "end_seconds": 44.826,
+          "score": 0.996
+        },
+        {
+          "text": "porta-malas,",
+          "start_seconds": 44.886,
+          "end_seconds": 45.487,
+          "score": 0.951
+        },
+        {
+          "text": "quer",
+          "start_seconds": 45.507,
+          "end_seconds": 45.627,
+          "score": 0.754
+        },
+        {
+          "text": "dizer...",
+          "start_seconds": 45.667,
+          "end_seconds": 46.007,
+          "score": 0.99
+        },
+        {
+          "text": "Antes",
+          "start_seconds": 46.527,
+          "end_seconds": 46.727,
+          "score": 1
+        },
+        {
+          "text": "de",
+          "start_seconds": 46.747,
+          "end_seconds": 46.827,
+          "score": 0.79
+        },
+        {
+          "text": "cada",
+          "start_seconds": 46.867,
+          "end_seconds": 47.047,
+          "score": 0.877
+        },
+        {
+          "text": "missão,",
+          "start_seconds": 47.087,
+          "end_seconds": 47.428,
+          "score": 0.916
+        },
+        {
+          "text": "você",
+          "start_seconds": 47.468,
+          "end_seconds": 47.608,
+          "score": 0.972
+        },
+        {
+          "text": "vai",
+          "start_seconds": 47.628,
+          "end_seconds": 47.708,
+          "score": 0.836
+        },
+        {
+          "text": "precisar",
+          "start_seconds": 47.748,
+          "end_seconds": 48.108,
+          "score": 0.831
+        },
+        {
+          "text": "decidir",
+          "start_seconds": 48.148,
+          "end_seconds": 48.588,
+          "score": 0.883
+        },
+        {
+          "text": "o",
+          "start_seconds": 48.608,
+          "end_seconds": 48.648,
+          "score": 0.524
+        },
+        {
+          "text": "que",
+          "start_seconds": 48.688,
+          "end_seconds": 48.768,
+          "score": 0.833
+        },
+        {
+          "text": "levar,",
+          "start_seconds": 48.828,
+          "end_seconds": 49.149,
+          "score": 0.996
+        },
+        {
+          "text": "como",
+          "start_seconds": 49.529,
+          "end_seconds": 49.809,
+          "score": 0.897
+        },
+        {
+          "text": "no",
+          "start_seconds": 49.849,
+          "end_seconds": 49.989,
+          "score": 0.875
+        },
+        {
+          "text": "Red",
+          "start_seconds": 50.149,
+          "end_seconds": 50.269,
+          "score": 0.842
+        },
+        {
+          "text": "Dead",
+          "start_seconds": 50.309,
+          "end_seconds": 50.449,
+          "score": 0.744
+        },
+        {
+          "text": "Redemption",
+          "start_seconds": 50.489,
+          "end_seconds": 50.87,
+          "score": 0.726
+        },
+        {
+          "text": "2.",
+          "start_seconds": 50.89,
+          "end_seconds": 50.95,
+          "score": 0.961
+        }
+      ]
+    },
+    {
+      "text": "E isso transforma qualquer tiroteio.",
+      "start_seconds": 51.91,
+      "end_seconds": 53.893,
+      "words": [
+        {
+          "text": "E",
+          "start_seconds": 51.91,
+          "end_seconds": 52.07,
+          "score": 0.878
+        },
+        {
+          "text": "isso",
+          "start_seconds": 52.13,
+          "end_seconds": 52.331,
+          "score": 0.996
+        },
+        {
+          "text": "transforma",
+          "start_seconds": 52.411,
+          "end_seconds": 52.911,
+          "score": 0.824
+        },
+        {
+          "text": "qualquer",
+          "start_seconds": 52.951,
+          "end_seconds": 53.272,
+          "score": 0.745
+        },
+        {
+          "text": "tiroteio.",
+          "start_seconds": 53.332,
+          "end_seconds": 53.893,
+          "score": 0.914
+        }
+      ]
+    },
+    {
+      "text": "Se você saiu de casa só com uma pistola e deu errado, nem adianta abrir a roda esperando surgir um lança-mísseis.",
+      "start_seconds": 53.933,
+      "end_seconds": 61.201,
+      "words": [
+        {
+          "text": "Se",
+          "start_seconds": 53.933,
+          "end_seconds": 54.013,
+          "score": 1
+        },
+        {
+          "text": "você",
+          "start_seconds": 54.033,
+          "end_seconds": 54.213,
+          "score": 0.97
+        },
+        {
+          "text": "saiu",
+          "start_seconds": 54.273,
+          "end_seconds": 54.453,
+          "score": 0.938
+        },
+        {
+          "text": "de",
+          "start_seconds": 54.473,
+          "end_seconds": 54.553,
+          "score": 0.75
+        },
+        {
+          "text": "casa",
+          "start_seconds": 54.613,
+          "end_seconds": 54.894,
+          "score": 0.914
+        },
+        {
+          "text": "só",
+          "start_seconds": 54.954,
+          "end_seconds": 55.054,
+          "score": 0.998
+        },
+        {
+          "text": "com",
+          "start_seconds": 55.114,
+          "end_seconds": 55.214,
+          "score": 0.668
+        },
+        {
+          "text": "uma",
+          "start_seconds": 55.254,
+          "end_seconds": 55.354,
+          "score": 0.827
+        },
+        {
+          "text": "pistola",
+          "start_seconds": 55.394,
+          "end_seconds": 55.955,
+          "score": 0.877
+        },
+        {
+          "text": "e",
+          "start_seconds": 56.556,
+          "end_seconds": 57.136,
+          "score": 0.931
+        },
+        {
+          "text": "deu",
+          "start_seconds": 57.237,
+          "end_seconds": 57.397,
+          "score": 0.766
+        },
+        {
+          "text": "errado,",
+          "start_seconds": 57.457,
+          "end_seconds": 57.917,
+          "score": 0.915
+        },
+        {
+          "text": "nem",
+          "start_seconds": 57.977,
+          "end_seconds": 58.118,
+          "score": 0.921
+        },
+        {
+          "text": "adianta",
+          "start_seconds": 58.158,
+          "end_seconds": 58.538,
+          "score": 0.782
+        },
+        {
+          "text": "abrir",
+          "start_seconds": 58.578,
+          "end_seconds": 58.818,
+          "score": 0.904
+        },
+        {
+          "text": "a",
+          "start_seconds": 58.858,
+          "end_seconds": 58.899,
+          "score": 0.5
+        },
+        {
+          "text": "roda",
+          "start_seconds": 58.999,
+          "end_seconds": 59.279,
+          "score": 0.999
+        },
+        {
+          "text": "esperando",
+          "start_seconds": 59.299,
+          "end_seconds": 59.8,
+          "score": 0.748
+        },
+        {
+          "text": "surgir",
+          "start_seconds": 59.86,
+          "end_seconds": 60.22,
+          "score": 0.911
+        },
+        {
+          "text": "um",
+          "start_seconds": 60.26,
+          "end_seconds": 60.32,
+          "score": 0.75
+        },
+        {
+          "text": "lança-mísseis.",
+          "start_seconds": 60.36,
+          "end_seconds": 61.201,
+          "score": 0.916
+        }
+      ]
+    },
+    {
+      "text": "Vai precisar correr pro carro.",
+      "start_seconds": 61.582,
+      "end_seconds": 63.885,
+      "words": [
+        {
+          "text": "Vai",
+          "start_seconds": 61.582,
+          "end_seconds": 61.662,
+          "score": 0.833
+        },
+        {
+          "text": "precisar",
+          "start_seconds": 61.702,
+          "end_seconds": 61.962,
+          "score": 0.957
+        },
+        {
+          "text": "correr",
+          "start_seconds": 62.002,
+          "end_seconds": 62.202,
+          "score": 0.853
+        },
+        {
+          "text": "pro",
+          "start_seconds": 62.223,
+          "end_seconds": 62.343,
+          "score": 0.645
+        },
+        {
+          "text": "carro.",
+          "start_seconds": 62.383,
+          "end_seconds": 63.885,
+          "score": 0.961
+        }
+      ]
+    },
+    {
+      "text": "E tem mais um detalhe.",
+      "start_seconds": 63.905,
+      "end_seconds": 65.126,
+      "words": [
+        {
+          "text": "E",
+          "start_seconds": 63.905,
+          "end_seconds": 63.925,
+          "score": 0.002
+        },
+        {
+          "text": "tem",
+          "start_seconds": 64.225,
+          "end_seconds": 64.365,
+          "score": 0.827
+        },
+        {
+          "text": "mais",
+          "start_seconds": 64.385,
+          "end_seconds": 64.545,
+          "score": 0.736
+        },
+        {
+          "text": "um",
+          "start_seconds": 64.565,
+          "end_seconds": 64.625,
+          "score": 0.754
+        },
+        {
+          "text": "detalhe.",
+          "start_seconds": 64.665,
+          "end_seconds": 65.126,
+          "score": 0.936
+        }
+      ]
+    },
+    {
+      "text": "No GTA V você andava pela orla com uma escopeta na mão e ninguém nem olhava.",
+      "start_seconds": 65.547,
+      "end_seconds": 70.973,
+      "words": [
+        {
+          "text": "No",
+          "start_seconds": 65.547,
+          "end_seconds": 65.667,
+          "score": 0.86
+        },
+        {
+          "text": "GTA",
+          "start_seconds": 65.707,
+          "end_seconds": 66.628,
+          "score": 0.72
+        },
+        {
+          "text": "V",
+          "start_seconds": 66.648,
+          "end_seconds": 66.668,
+          "score": 0
+        },
+        {
+          "text": "você",
+          "start_seconds": 67.048,
+          "end_seconds": 67.229,
+          "score": 0.999
+        },
+        {
+          "text": "andava",
+          "start_seconds": 67.269,
+          "end_seconds": 67.589,
+          "score": 0.839
+        },
+        {
+          "text": "pela",
+          "start_seconds": 67.629,
+          "end_seconds": 67.789,
+          "score": 0.745
+        },
+        {
+          "text": "orla",
+          "start_seconds": 67.929,
+          "end_seconds": 68.11,
+          "score": 0.855
+        },
+        {
+          "text": "com",
+          "start_seconds": 68.15,
+          "end_seconds": 68.27,
+          "score": 0.663
+        },
+        {
+          "text": "uma",
+          "start_seconds": 68.31,
+          "end_seconds": 68.41,
+          "score": 0.691
+        },
+        {
+          "text": "escopeta",
+          "start_seconds": 68.43,
+          "end_seconds": 68.891,
+          "score": 0.924
+        },
+        {
+          "text": "na",
+          "start_seconds": 68.931,
+          "end_seconds": 69.011,
+          "score": 0.5
+        },
+        {
+          "text": "mão",
+          "start_seconds": 69.051,
+          "end_seconds": 69.211,
+          "score": 0.808
+        },
+        {
+          "text": "e",
+          "start_seconds": 69.271,
+          "end_seconds": 69.311,
+          "score": 1
+        },
+        {
+          "text": "ninguém",
+          "start_seconds": 69.351,
+          "end_seconds": 69.772,
+          "score": 0.821
+        },
+        {
+          "text": "nem",
+          "start_seconds": 69.832,
+          "end_seconds": 69.972,
+          "score": 0.731
+        },
+        {
+          "text": "olhava.",
+          "start_seconds": 70.012,
+          "end_seconds": 70.973,
+          "score": 0.892
+        }
+      ]
+    },
+    {
+      "text": "No GTA 6, os NPCs reagem quando vêem uma arma aparecendo e passear de fuzil na rua chama na atenção do povo e da polícia.",
+      "start_seconds": 71.093,
+      "end_seconds": 80.277,
+      "words": [
+        {
+          "text": "No",
+          "start_seconds": 71.093,
+          "end_seconds": 71.213,
+          "score": 0.878
+        },
+        {
+          "text": "GTA",
+          "start_seconds": 71.273,
+          "end_seconds": 71.813,
+          "score": 0.884
+        },
+        {
+          "text": "6,",
+          "start_seconds": 71.873,
+          "end_seconds": 72.274,
+          "score": 0.695
+        },
+        {
+          "text": "os",
+          "start_seconds": 72.454,
+          "end_seconds": 72.634,
+          "score": 0.891
+        },
+        {
+          "text": "NPCs",
+          "start_seconds": 72.814,
+          "end_seconds": 73.374,
+          "score": 0.685
+        },
+        {
+          "text": "reagem",
+          "start_seconds": 73.434,
+          "end_seconds": 73.994,
+          "score": 0.92
+        },
+        {
+          "text": "quando",
+          "start_seconds": 74.355,
+          "end_seconds": 74.595,
+          "score": 0.765
+        },
+        {
+          "text": "vêem",
+          "start_seconds": 74.715,
+          "end_seconds": 74.935,
+          "score": 0.583
+        },
+        {
+          "text": "uma",
+          "start_seconds": 74.955,
+          "end_seconds": 75.075,
+          "score": 0.67
+        },
+        {
+          "text": "arma",
+          "start_seconds": 75.175,
+          "end_seconds": 75.355,
+          "score": 0.875
+        },
+        {
+          "text": "aparecendo",
+          "start_seconds": 75.495,
+          "end_seconds": 76.215,
+          "score": 0.901
+        },
+        {
+          "text": "e",
+          "start_seconds": 76.676,
+          "end_seconds": 76.776,
+          "score": 0.8
+        },
+        {
+          "text": "passear",
+          "start_seconds": 76.856,
+          "end_seconds": 77.336,
+          "score": 0.977
+        },
+        {
+          "text": "de",
+          "start_seconds": 77.376,
+          "end_seconds": 77.436,
+          "score": 0.75
+        },
+        {
+          "text": "fuzil",
+          "start_seconds": 77.496,
+          "end_seconds": 77.836,
+          "score": 0.776
+        },
+        {
+          "text": "na",
+          "start_seconds": 77.876,
+          "end_seconds": 77.956,
+          "score": 0.988
+        },
+        {
+          "text": "rua",
+          "start_seconds": 78.036,
+          "end_seconds": 78.276,
+          "score": 0.652
+        },
+        {
+          "text": "chama",
+          "start_seconds": 78.376,
+          "end_seconds": 78.596,
+          "score": 0.8
+        },
+        {
+          "text": "na",
+          "start_seconds": 78.616,
+          "end_seconds": 78.676,
+          "score": 0.694
+        },
+        {
+          "text": "atenção",
+          "start_seconds": 78.716,
+          "end_seconds": 79.197,
+          "score": 0.844
+        },
+        {
+          "text": "do",
+          "start_seconds": 79.237,
+          "end_seconds": 79.317,
+          "score": 0.995
+        },
+        {
+          "text": "povo",
+          "start_seconds": 79.397,
+          "end_seconds": 79.657,
+          "score": 0.78
+        },
+        {
+          "text": "e",
+          "start_seconds": 79.677,
+          "end_seconds": 79.697,
+          "score": 0.763
+        },
+        {
+          "text": "da",
+          "start_seconds": 79.717,
+          "end_seconds": 79.797,
+          "score": 0.751
+        },
+        {
+          "text": "polícia.",
+          "start_seconds": 79.857,
+          "end_seconds": 80.277,
+          "score": 0.966
+        }
+      ]
+    },
+    {
+      "text": "O jogo quer que você pense feito um bandido de verdade, arma guardada até o momento certo.",
+      "start_seconds": 80.717,
+      "end_seconds": 86.04,
+      "words": [
+        {
+          "text": "O",
+          "start_seconds": 80.717,
+          "end_seconds": 80.777,
+          "score": 0.707
+        },
+        {
+          "text": "jogo",
+          "start_seconds": 80.837,
+          "end_seconds": 81.118,
+          "score": 0.875
+        },
+        {
+          "text": "quer",
+          "start_seconds": 81.138,
+          "end_seconds": 81.278,
+          "score": 0.873
+        },
+        {
+          "text": "que",
+          "start_seconds": 81.318,
+          "end_seconds": 81.418,
+          "score": 0.754
+        },
+        {
+          "text": "você",
+          "start_seconds": 81.458,
+          "end_seconds": 81.658,
+          "score": 0.87
+        },
+        {
+          "text": "pense",
+          "start_seconds": 81.758,
+          "end_seconds": 82.098,
+          "score": 0.873
+        },
+        {
+          "text": "feito",
+          "start_seconds": 82.178,
+          "end_seconds": 82.398,
+          "score": 0.911
+        },
+        {
+          "text": "um",
+          "start_seconds": 82.418,
+          "end_seconds": 82.478,
+          "score": 1
+        },
+        {
+          "text": "bandido",
+          "start_seconds": 82.518,
+          "end_seconds": 82.898,
+          "score": 0.943
+        },
+        {
+          "text": "de",
+          "start_seconds": 82.938,
+          "end_seconds": 82.998,
+          "score": 0.988
+        },
+        {
+          "text": "verdade,",
+          "start_seconds": 83.058,
+          "end_seconds": 83.559,
+          "score": 0.904
+        },
+        {
+          "text": "arma",
+          "start_seconds": 83.999,
+          "end_seconds": 84.179,
+          "score": 0.976
+        },
+        {
+          "text": "guardada",
+          "start_seconds": 84.239,
+          "end_seconds": 84.799,
+          "score": 0.736
+        },
+        {
+          "text": "até",
+          "start_seconds": 84.919,
+          "end_seconds": 85.139,
+          "score": 0.793
+        },
+        {
+          "text": "o",
+          "start_seconds": 85.179,
+          "end_seconds": 85.219,
+          "score": 0.549
+        },
+        {
+          "text": "momento",
+          "start_seconds": 85.259,
+          "end_seconds": 85.6,
+          "score": 0.815
+        },
+        {
+          "text": "certo.",
+          "start_seconds": 85.68,
+          "end_seconds": 86.04,
+          "score": 0.992
+        }
+      ]
+    },
+    {
+      "text": "Pelas prévias, o personagem até guarda a arma sozinho em lugares lotados.",
+      "start_seconds": 86.52,
+      "end_seconds": 92.483,
+      "words": [
+        {
+          "text": "Pelas",
+          "start_seconds": 86.52,
+          "end_seconds": 86.76,
+          "score": 1
+        },
+        {
+          "text": "prévias,",
+          "start_seconds": 86.84,
+          "end_seconds": 87.44,
+          "score": 0.958
+        },
+        {
+          "text": "o",
+          "start_seconds": 87.741,
+          "end_seconds": 87.781,
+          "score": 0.985
+        },
+        {
+          "text": "personagem",
+          "start_seconds": 87.841,
+          "end_seconds": 88.341,
+          "score": 0.953
+        },
+        {
+          "text": "até",
+          "start_seconds": 88.401,
+          "end_seconds": 88.561,
+          "score": 0.889
+        },
+        {
+          "text": "guarda",
+          "start_seconds": 88.661,
+          "end_seconds": 89.001,
+          "score": 0.883
+        },
+        {
+          "text": "a",
+          "start_seconds": 89.141,
+          "end_seconds": 89.181,
+          "score": 0.954
+        },
+        {
+          "text": "arma",
+          "start_seconds": 89.341,
+          "end_seconds": 89.561,
+          "score": 0.941
+        },
+        {
+          "text": "sozinho",
+          "start_seconds": 89.641,
+          "end_seconds": 90.162,
+          "score": 0.83
+        },
+        {
+          "text": "em",
+          "start_seconds": 90.582,
+          "end_seconds": 90.762,
+          "score": 0.625
+        },
+        {
+          "text": "lugares",
+          "start_seconds": 90.822,
+          "end_seconds": 91.522,
+          "score": 0.821
+        },
+        {
+          "text": "lotados.",
+          "start_seconds": 91.802,
+          "end_seconds": 92.483,
+          "score": 0.958
+        }
+      ]
+    },
+    {
+      "text": "Agora, um costume que todo mundo tem.",
+      "start_seconds": 92.883,
+      "end_seconds": 95.324,
+      "words": [
+        {
+          "text": "Agora,",
+          "start_seconds": 92.883,
+          "end_seconds": 93.163,
+          "score": 0.9
+        },
+        {
+          "text": "um",
+          "start_seconds": 93.323,
+          "end_seconds": 93.403,
+          "score": 0.752
+        },
+        {
+          "text": "costume",
+          "start_seconds": 93.443,
+          "end_seconds": 93.903,
+          "score": 1
+        },
+        {
+          "text": "que",
+          "start_seconds": 93.943,
+          "end_seconds": 94.023,
+          "score": 0.891
+        },
+        {
+          "text": "todo",
+          "start_seconds": 94.083,
+          "end_seconds": 94.284,
+          "score": 0.834
+        },
+        {
+          "text": "mundo",
+          "start_seconds": 94.324,
+          "end_seconds": 94.504,
+          "score": 0.818
+        },
+        {
+          "text": "tem.",
+          "start_seconds": 94.564,
+          "end_seconds": 95.324,
+          "score": 0.993
+        }
+      ]
+    },
+    {
+      "text": "virou o carro, era só ficar girando o analógico até ele desvirar.",
+      "start_seconds": 95.404,
+      "end_seconds": 99.027,
+      "words": [
+        {
+          "text": "virou",
+          "start_seconds": 95.404,
+          "end_seconds": 95.644,
+          "score": 0.831
+        },
+        {
+          "text": "o",
+          "start_seconds": 95.684,
+          "end_seconds": 95.724,
+          "score": 0.5
+        },
+        {
+          "text": "carro,",
+          "start_seconds": 95.784,
+          "end_seconds": 96.145,
+          "score": 0.875
+        },
+        {
+          "text": "era",
+          "start_seconds": 96.265,
+          "end_seconds": 96.385,
+          "score": 0.824
+        },
+        {
+          "text": "só",
+          "start_seconds": 96.445,
+          "end_seconds": 96.545,
+          "score": 1
+        },
+        {
+          "text": "ficar",
+          "start_seconds": 96.625,
+          "end_seconds": 96.905,
+          "score": 0.853
+        },
+        {
+          "text": "girando",
+          "start_seconds": 97.005,
+          "end_seconds": 97.325,
+          "score": 0.838
+        },
+        {
+          "text": "o",
+          "start_seconds": 97.345,
+          "end_seconds": 97.365,
+          "score": 0.001
+        },
+        {
+          "text": "analógico",
+          "start_seconds": 97.425,
+          "end_seconds": 98.006,
+          "score": 0.94
+        },
+        {
+          "text": "até",
+          "start_seconds": 98.026,
+          "end_seconds": 98.206,
+          "score": 0.949
+        },
+        {
+          "text": "ele",
+          "start_seconds": 98.246,
+          "end_seconds": 98.366,
+          "score": 0.611
+        },
+        {
+          "text": "desvirar.",
+          "start_seconds": 98.466,
+          "end_seconds": 99.027,
+          "score": 0.963
+        }
+      ]
+    },
+    {
+      "text": "Pra quem já jogou nas prévias, isso acabou no GTA 6, virou, já era, e a direção também ficou mais pesada que no GTA 5.",
+      "start_seconds": 99.467,
+      "end_seconds": 107.853,
+      "words": [
+        {
+          "text": "Pra",
+          "start_seconds": 99.467,
+          "end_seconds": 99.567,
+          "score": 0.586
+        },
+        {
+          "text": "quem",
+          "start_seconds": 99.587,
+          "end_seconds": 99.727,
+          "score": 0.784
+        },
+        {
+          "text": "já",
+          "start_seconds": 99.767,
+          "end_seconds": 99.847,
+          "score": 0.75
+        },
+        {
+          "text": "jogou",
+          "start_seconds": 99.887,
+          "end_seconds": 100.087,
+          "score": 1
+        },
+        {
+          "text": "nas",
+          "start_seconds": 100.127,
+          "end_seconds": 100.267,
+          "score": 0.924
+        },
+        {
+          "text": "prévias,",
+          "start_seconds": 100.348,
+          "end_seconds": 100.948,
+          "score": 0.905
+        },
+        {
+          "text": "isso",
+          "start_seconds": 101.028,
+          "end_seconds": 101.188,
+          "score": 0.792
+        },
+        {
+          "text": "acabou",
+          "start_seconds": 101.208,
+          "end_seconds": 101.508,
+          "score": 0.95
+        },
+        {
+          "text": "no",
+          "start_seconds": 101.548,
+          "end_seconds": 101.628,
+          "score": 0.972
+        },
+        {
+          "text": "GTA",
+          "start_seconds": 101.668,
+          "end_seconds": 102.029,
+          "score": 0.805
+        },
+        {
+          "text": "6,",
+          "start_seconds": 102.149,
+          "end_seconds": 102.569,
+          "score": 0.918
+        },
+        {
+          "text": "virou,",
+          "start_seconds": 103.089,
+          "end_seconds": 103.45,
+          "score": 0.832
+        },
+        {
+          "text": "já",
+          "start_seconds": 103.71,
+          "end_seconds": 103.85,
+          "score": 0.828
+        },
+        {
+          "text": "era,",
+          "start_seconds": 103.97,
+          "end_seconds": 104.17,
+          "score": 0.977
+        },
+        {
+          "text": "e",
+          "start_seconds": 104.591,
+          "end_seconds": 104.771,
+          "score": 0.887
+        },
+        {
+          "text": "a",
+          "start_seconds": 104.811,
+          "end_seconds": 104.831,
+          "score": 1
+        },
+        {
+          "text": "direção",
+          "start_seconds": 104.891,
+          "end_seconds": 105.351,
+          "score": 0.851
+        },
+        {
+          "text": "também",
+          "start_seconds": 105.411,
+          "end_seconds": 105.631,
+          "score": 0.914
+        },
+        {
+          "text": "ficou",
+          "start_seconds": 105.671,
+          "end_seconds": 105.871,
+          "score": 0.999
+        },
+        {
+          "text": "mais",
+          "start_seconds": 105.931,
+          "end_seconds": 106.132,
+          "score": 0.95
+        },
+        {
+          "text": "pesada",
+          "start_seconds": 106.212,
+          "end_seconds": 106.672,
+          "score": 0.858
+        },
+        {
+          "text": "que",
+          "start_seconds": 106.692,
+          "end_seconds": 106.792,
+          "score": 0.672
+        },
+        {
+          "text": "no",
+          "start_seconds": 106.832,
+          "end_seconds": 106.912,
+          "score": 0.786
+        },
+        {
+          "text": "GTA",
+          "start_seconds": 106.952,
+          "end_seconds": 107.292,
+          "score": 0.806
+        },
+        {
+          "text": "5.",
+          "start_seconds": 107.493,
+          "end_seconds": 107.853,
+          "score": 0.81
+        }
+      ]
+    },
+    {
+      "text": "Então aquelas curvas a 200 por hora vão sair caro, é o fim de um vício que o GTA 5 criou.",
+      "start_seconds": 108.313,
+      "end_seconds": 114.237,
+      "words": [
+        {
+          "text": "Então",
+          "start_seconds": 108.313,
+          "end_seconds": 108.874,
+          "score": 0.661
+        },
+        {
+          "text": "aquelas",
+          "start_seconds": 108.934,
+          "end_seconds": 109.254,
+          "score": 0.802
+        },
+        {
+          "text": "curvas",
+          "start_seconds": 109.334,
+          "end_seconds": 109.694,
+          "score": 0.863
+        },
+        {
+          "text": "a",
+          "start_seconds": 109.734,
+          "end_seconds": 109.814,
+          "score": 1
+        },
+        {
+          "text": "200",
+          "start_seconds": 109.834,
+          "end_seconds": 110.194,
+          "score": 0.822
+        },
+        {
+          "text": "por",
+          "start_seconds": 110.255,
+          "end_seconds": 110.395,
+          "score": 0.887
+        },
+        {
+          "text": "hora",
+          "start_seconds": 110.415,
+          "end_seconds": 110.695,
+          "score": 0.679
+        },
+        {
+          "text": "vão",
+          "start_seconds": 110.735,
+          "end_seconds": 110.875,
+          "score": 0.675
+        },
+        {
+          "text": "sair",
+          "start_seconds": 110.935,
+          "end_seconds": 111.155,
+          "score": 0.882
+        },
+        {
+          "text": "caro,",
+          "start_seconds": 111.255,
+          "end_seconds": 111.595,
+          "score": 0.976
+        },
+        {
+          "text": "é",
+          "start_seconds": 112.036,
+          "end_seconds": 112.076,
+          "score": 1
+        },
+        {
+          "text": "o",
+          "start_seconds": 112.116,
+          "end_seconds": 112.156,
+          "score": 0.5
+        },
+        {
+          "text": "fim",
+          "start_seconds": 112.216,
+          "end_seconds": 112.376,
+          "score": 0.833
+        },
+        {
+          "text": "de",
+          "start_seconds": 112.396,
+          "end_seconds": 112.456,
+          "score": 1
+        },
+        {
+          "text": "um",
+          "start_seconds": 112.496,
+          "end_seconds": 112.556,
+          "score": 0.99
+        },
+        {
+          "text": "vício",
+          "start_seconds": 112.636,
+          "end_seconds": 113.016,
+          "score": 0.857
+        },
+        {
+          "text": "que",
+          "start_seconds": 113.057,
+          "end_seconds": 113.157,
+          "score": 0.667
+        },
+        {
+          "text": "o",
+          "start_seconds": 113.177,
+          "end_seconds": 113.197,
+          "score": 0.83
+        },
+        {
+          "text": "GTA",
+          "start_seconds": 113.257,
+          "end_seconds": 113.577,
+          "score": 0.712
+        },
+        {
+          "text": "5",
+          "start_seconds": 113.717,
+          "end_seconds": 113.897,
+          "score": 0.697
+        },
+        {
+          "text": "criou.",
+          "start_seconds": 113.957,
+          "end_seconds": 114.237,
+          "score": 0.923
+        }
+      ]
+    },
+    {
+      "text": "E falando em carro, no GTA 5, posto de gasolina só servia pra uma coisa, ir pelos ares.",
+      "start_seconds": 114.638,
+      "end_seconds": 120.822,
+      "words": [
+        {
+          "text": "E",
+          "start_seconds": 114.638,
+          "end_seconds": 114.698,
+          "score": 0.667
+        },
+        {
+          "text": "falando",
+          "start_seconds": 114.738,
+          "end_seconds": 115.038,
+          "score": 0.973
+        },
+        {
+          "text": "em",
+          "start_seconds": 115.078,
+          "end_seconds": 115.138,
+          "score": 0.754
+        },
+        {
+          "text": "carro,",
+          "start_seconds": 115.198,
+          "end_seconds": 115.638,
+          "score": 0.904
+        },
+        {
+          "text": "no",
+          "start_seconds": 115.879,
+          "end_seconds": 115.959,
+          "score": 0.988
+        },
+        {
+          "text": "GTA",
+          "start_seconds": 115.999,
+          "end_seconds": 116.299,
+          "score": 0.645
+        },
+        {
+          "text": "5,",
+          "start_seconds": 116.379,
+          "end_seconds": 116.719,
+          "score": 0.898
+        },
+        {
+          "text": "posto",
+          "start_seconds": 117.099,
+          "end_seconds": 117.4,
+          "score": 0.877
+        },
+        {
+          "text": "de",
+          "start_seconds": 117.42,
+          "end_seconds": 117.48,
+          "score": 1
+        },
+        {
+          "text": "gasolina",
+          "start_seconds": 117.52,
+          "end_seconds": 118.04,
+          "score": 0.932
+        },
+        {
+          "text": "só",
+          "start_seconds": 118.08,
+          "end_seconds": 118.16,
+          "score": 0.839
+        },
+        {
+          "text": "servia",
+          "start_seconds": 118.2,
+          "end_seconds": 118.48,
+          "score": 0.857
+        },
+        {
+          "text": "pra",
+          "start_seconds": 118.52,
+          "end_seconds": 118.62,
+          "score": 0.777
+        },
+        {
+          "text": "uma",
+          "start_seconds": 118.701,
+          "end_seconds": 118.841,
+          "score": 0.734
+        },
+        {
+          "text": "coisa,",
+          "start_seconds": 118.901,
+          "end_seconds": 119.281,
+          "score": 0.96
+        },
+        {
+          "text": "ir",
+          "start_seconds": 119.681,
+          "end_seconds": 119.781,
+          "score": 0.752
+        },
+        {
+          "text": "pelos",
+          "start_seconds": 119.821,
+          "end_seconds": 120.061,
+          "score": 0.801
+        },
+        {
+          "text": "ares.",
+          "start_seconds": 120.122,
+          "end_seconds": 120.822,
+          "score": 1
+        }
+      ]
+    },
+    {
+      "text": "Pelas prévias, o GTA 6 tem marcador de combustível, de verdade e até carregador para carro elétrico.",
+      "start_seconds": 121.264,
+      "end_seconds": 127.755,
+      "words": [
+        {
+          "text": "Pelas",
+          "start_seconds": 121.264,
+          "end_seconds": 121.545,
+          "score": 0.899
+        },
+        {
+          "text": "prévias,",
+          "start_seconds": 121.605,
+          "end_seconds": 122.105,
+          "score": 0.997
+        },
+        {
+          "text": "o",
+          "start_seconds": 122.146,
+          "end_seconds": 122.206,
+          "score": 0.73
+        },
+        {
+          "text": "GTA",
+          "start_seconds": 122.246,
+          "end_seconds": 122.486,
+          "score": 0.742
+        },
+        {
+          "text": "6",
+          "start_seconds": 122.546,
+          "end_seconds": 123.067,
+          "score": 0.79
+        },
+        {
+          "text": "tem",
+          "start_seconds": 123.107,
+          "end_seconds": 123.267,
+          "score": 0.751
+        },
+        {
+          "text": "marcador",
+          "start_seconds": 123.308,
+          "end_seconds": 123.748,
+          "score": 0.929
+        },
+        {
+          "text": "de",
+          "start_seconds": 123.768,
+          "end_seconds": 123.828,
+          "score": 1
+        },
+        {
+          "text": "combustível,",
+          "start_seconds": 123.868,
+          "end_seconds": 124.65,
+          "score": 0.999
+        },
+        {
+          "text": "de",
+          "start_seconds": 125.151,
+          "end_seconds": 125.251,
+          "score": 0.841
+        },
+        {
+          "text": "verdade",
+          "start_seconds": 125.311,
+          "end_seconds": 125.832,
+          "score": 0.862
+        },
+        {
+          "text": "e",
+          "start_seconds": 125.972,
+          "end_seconds": 126.032,
+          "score": 0.747
+        },
+        {
+          "text": "até",
+          "start_seconds": 126.072,
+          "end_seconds": 126.293,
+          "score": 0.999
+        },
+        {
+          "text": "carregador",
+          "start_seconds": 126.353,
+          "end_seconds": 126.833,
+          "score": 0.881
+        },
+        {
+          "text": "para",
+          "start_seconds": 126.854,
+          "end_seconds": 126.974,
+          "score": 0.766
+        },
+        {
+          "text": "carro",
+          "start_seconds": 127.014,
+          "end_seconds": 127.214,
+          "score": 0.938
+        },
+        {
+          "text": "elétrico.",
+          "start_seconds": 127.234,
+          "end_seconds": 127.755,
+          "score": 0.944
+        }
+      ]
+    },
+    {
+      "text": "Ainda não dá para saber o quanto isso vai pesar no dia a dia, mas aquela mania de rodar o mapa todo sem parar pode estar perto do fim.",
+      "start_seconds": 128.236,
+      "end_seconds": 135.368,
+      "words": [
+        {
+          "text": "Ainda",
+          "start_seconds": 128.236,
+          "end_seconds": 128.536,
+          "score": 0.94
+        },
+        {
+          "text": "não",
+          "start_seconds": 128.576,
+          "end_seconds": 128.677,
+          "score": 0.687
+        },
+        {
+          "text": "dá",
+          "start_seconds": 128.757,
+          "end_seconds": 128.857,
+          "score": 0.826
+        },
+        {
+          "text": "para",
+          "start_seconds": 128.897,
+          "end_seconds": 128.997,
+          "score": 0.876
+        },
+        {
+          "text": "saber",
+          "start_seconds": 129.057,
+          "end_seconds": 129.338,
+          "score": 0.929
+        },
+        {
+          "text": "o",
+          "start_seconds": 129.378,
+          "end_seconds": 129.398,
+          "score": 0.869
+        },
+        {
+          "text": "quanto",
+          "start_seconds": 129.458,
+          "end_seconds": 129.658,
+          "score": 0.8
+        },
+        {
+          "text": "isso",
+          "start_seconds": 129.698,
+          "end_seconds": 129.819,
+          "score": 1
+        },
+        {
+          "text": "vai",
+          "start_seconds": 129.839,
+          "end_seconds": 129.939,
+          "score": 0.839
+        },
+        {
+          "text": "pesar",
+          "start_seconds": 129.999,
+          "end_seconds": 130.299,
+          "score": 0.997
+        },
+        {
+          "text": "no",
+          "start_seconds": 130.339,
+          "end_seconds": 130.42,
+          "score": 0.748
+        },
+        {
+          "text": "dia",
+          "start_seconds": 130.46,
+          "end_seconds": 130.56,
+          "score": 0.666
+        },
+        {
+          "text": "a",
+          "start_seconds": 130.58,
+          "end_seconds": 130.62,
+          "score": 1
+        },
+        {
+          "text": "dia,",
+          "start_seconds": 130.72,
+          "end_seconds": 131.041,
+          "score": 0.952
+        },
+        {
+          "text": "mas",
+          "start_seconds": 131.521,
+          "end_seconds": 131.702,
+          "score": 1
+        },
+        {
+          "text": "aquela",
+          "start_seconds": 131.742,
+          "end_seconds": 131.962,
+          "score": 0.862
+        },
+        {
+          "text": "mania",
+          "start_seconds": 132.022,
+          "end_seconds": 132.283,
+          "score": 0.813
+        },
+        {
+          "text": "de",
+          "start_seconds": 132.323,
+          "end_seconds": 132.383,
+          "score": 0.756
+        },
+        {
+          "text": "rodar",
+          "start_seconds": 132.443,
+          "end_seconds": 132.663,
+          "score": 0.9
+        },
+        {
+          "text": "o",
+          "start_seconds": 132.703,
+          "end_seconds": 132.744,
+          "score": 0.5
+        },
+        {
+          "text": "mapa",
+          "start_seconds": 132.804,
+          "end_seconds": 133.084,
+          "score": 1
+        },
+        {
+          "text": "todo",
+          "start_seconds": 133.184,
+          "end_seconds": 133.405,
+          "score": 0.916
+        },
+        {
+          "text": "sem",
+          "start_seconds": 133.445,
+          "end_seconds": 133.565,
+          "score": 0.972
+        },
+        {
+          "text": "parar",
+          "start_seconds": 133.625,
+          "end_seconds": 133.926,
+          "score": 0.82
+        },
+        {
+          "text": "pode",
+          "start_seconds": 133.986,
+          "end_seconds": 134.166,
+          "score": 0.986
+        },
+        {
+          "text": "estar",
+          "start_seconds": 134.186,
+          "end_seconds": 134.426,
+          "score": 0.814
+        },
+        {
+          "text": "perto",
+          "start_seconds": 134.547,
+          "end_seconds": 134.847,
+          "score": 1
+        },
+        {
+          "text": "do",
+          "start_seconds": 134.887,
+          "end_seconds": 134.967,
+          "score": 0.806
+        },
+        {
+          "text": "fim.",
+          "start_seconds": 135.047,
+          "end_seconds": 135.368,
+          "score": 1
+        }
+      ]
+    },
+    {
+      "text": "No GTA V, ver um carrão e roubar era uma coisa só.",
+      "start_seconds": 135.833,
+      "end_seconds": 139.695,
+      "words": [
+        {
+          "text": "No",
+          "start_seconds": 135.833,
+          "end_seconds": 135.933,
+          "score": 0.972
+        },
+        {
+          "text": "GTA",
+          "start_seconds": 135.973,
+          "end_seconds": 136.313,
+          "score": 0.833
+        },
+        {
+          "text": "V,",
+          "start_seconds": 136.493,
+          "end_seconds": 136.954,
+          "score": 0.696
+        },
+        {
+          "text": "ver",
+          "start_seconds": 137.494,
+          "end_seconds": 137.654,
+          "score": 0.835
+        },
+        {
+          "text": "um",
+          "start_seconds": 137.694,
+          "end_seconds": 137.754,
+          "score": 0.886
+        },
+        {
+          "text": "carrão",
+          "start_seconds": 137.794,
+          "end_seconds": 138.134,
+          "score": 0.852
+        },
+        {
+          "text": "e",
+          "start_seconds": 138.174,
+          "end_seconds": 138.214,
+          "score": 0.502
+        },
+        {
+          "text": "roubar",
+          "start_seconds": 138.254,
+          "end_seconds": 138.695,
+          "score": 0.892
+        },
+        {
+          "text": "era",
+          "start_seconds": 138.895,
+          "end_seconds": 138.995,
+          "score": 0.837
+        },
+        {
+          "text": "uma",
+          "start_seconds": 139.035,
+          "end_seconds": 139.155,
+          "score": 0.769
+        },
+        {
+          "text": "coisa",
+          "start_seconds": 139.215,
+          "end_seconds": 139.435,
+          "score": 0.7
+        },
+        {
+          "text": "só.",
+          "start_seconds": 139.535,
+          "end_seconds": 139.695,
+          "score": 1
+        }
+      ]
+    },
+    {
+      "text": "No GTA VI, a Rockstar confirmou que roubar carro ficou mais difícil.",
+      "start_seconds": 140.235,
+      "end_seconds": 145.078,
+      "words": [
+        {
+          "text": "No",
+          "start_seconds": 140.235,
+          "end_seconds": 140.395,
+          "score": 0.9
+        },
+        {
+          "text": "GTA",
+          "start_seconds": 140.636,
+          "end_seconds": 141.096,
+          "score": 0.497
+        },
+        {
+          "text": "VI,",
+          "start_seconds": 141.476,
+          "end_seconds": 141.876,
+          "score": 0.74
+        },
+        {
+          "text": "a",
+          "start_seconds": 141.956,
+          "end_seconds": 141.996,
+          "score": 0.535
+        },
+        {
+          "text": "Rockstar",
+          "start_seconds": 142.036,
+          "end_seconds": 142.476,
+          "score": 0.714
+        },
+        {
+          "text": "confirmou",
+          "start_seconds": 142.517,
+          "end_seconds": 142.997,
+          "score": 0.872
+        },
+        {
+          "text": "que",
+          "start_seconds": 143.037,
+          "end_seconds": 143.137,
+          "score": 0.779
+        },
+        {
+          "text": "roubar",
+          "start_seconds": 143.177,
+          "end_seconds": 143.497,
+          "score": 0.919
+        },
+        {
+          "text": "carro",
+          "start_seconds": 143.597,
+          "end_seconds": 143.877,
+          "score": 0.821
+        },
+        {
+          "text": "ficou",
+          "start_seconds": 143.917,
+          "end_seconds": 144.177,
+          "score": 0.891
+        },
+        {
+          "text": "mais",
+          "start_seconds": 144.257,
+          "end_seconds": 144.498,
+          "score": 0.813
+        },
+        {
+          "text": "difícil.",
+          "start_seconds": 144.538,
+          "end_seconds": 145.078,
+          "score": 1
+        }
+      ]
+    },
+    {
+      "text": "Os carros mais caros pedem ferramentas especiais e alguns têm rastreador.",
+      "start_seconds": 145.518,
+      "end_seconds": 150.1,
+      "words": [
+        {
+          "text": "Os",
+          "start_seconds": 145.518,
+          "end_seconds": 145.638,
+          "score": 0.908
+        },
+        {
+          "text": "carros",
+          "start_seconds": 145.698,
+          "end_seconds": 146.018,
+          "score": 1
+        },
+        {
+          "text": "mais",
+          "start_seconds": 146.058,
+          "end_seconds": 146.238,
+          "score": 1
+        },
+        {
+          "text": "caros",
+          "start_seconds": 146.298,
+          "end_seconds": 146.619,
+          "score": 0.997
+        },
+        {
+          "text": "pedem",
+          "start_seconds": 146.679,
+          "end_seconds": 146.919,
+          "score": 0.897
+        },
+        {
+          "text": "ferramentas",
+          "start_seconds": 146.979,
+          "end_seconds": 147.519,
+          "score": 0.881
+        },
+        {
+          "text": "especiais",
+          "start_seconds": 147.599,
+          "end_seconds": 148.38,
+          "score": 0.904
+        },
+        {
+          "text": "e",
+          "start_seconds": 148.78,
+          "end_seconds": 148.88,
+          "score": 0.803
+        },
+        {
+          "text": "alguns",
+          "start_seconds": 148.94,
+          "end_seconds": 149.3,
+          "score": 0.977
+        },
+        {
+          "text": "têm",
+          "start_seconds": 149.34,
+          "end_seconds": 149.48,
+          "score": 0.882
+        },
+        {
+          "text": "rastreador.",
+          "start_seconds": 149.54,
+          "end_seconds": 150.1,
+          "score": 0.913
+        }
+      ]
+    },
+    {
+      "text": "Pelas prévias, carro antigo se abre com uma micha ou quebrando o vidro.",
+      "start_seconds": 150.601,
+      "end_seconds": 154.863,
+      "words": [
+        {
+          "text": "Pelas",
+          "start_seconds": 150.601,
+          "end_seconds": 150.821,
+          "score": 0.905
+        },
+        {
+          "text": "prévias,",
+          "start_seconds": 150.881,
+          "end_seconds": 151.321,
+          "score": 0.945
+        },
+        {
+          "text": "carro",
+          "start_seconds": 151.361,
+          "end_seconds": 151.561,
+          "score": 0.952
+        },
+        {
+          "text": "antigo",
+          "start_seconds": 151.601,
+          "end_seconds": 152.021,
+          "score": 0.927
+        },
+        {
+          "text": "se",
+          "start_seconds": 152.061,
+          "end_seconds": 152.162,
+          "score": 0.708
+        },
+        {
+          "text": "abre",
+          "start_seconds": 152.282,
+          "end_seconds": 152.462,
+          "score": 0.844
+        },
+        {
+          "text": "com",
+          "start_seconds": 152.502,
+          "end_seconds": 152.642,
+          "score": 0.718
+        },
+        {
+          "text": "uma",
+          "start_seconds": 152.702,
+          "end_seconds": 152.842,
+          "score": 0.806
+        },
+        {
+          "text": "micha",
+          "start_seconds": 152.882,
+          "end_seconds": 153.242,
+          "score": 0.658
+        },
+        {
+          "text": "ou",
+          "start_seconds": 153.702,
+          "end_seconds": 153.862,
+          "score": 0.567
+        },
+        {
+          "text": "quebrando",
+          "start_seconds": 153.922,
+          "end_seconds": 154.363,
+          "score": 0.758
+        },
+        {
+          "text": "o",
+          "start_seconds": 154.403,
+          "end_seconds": 154.443,
+          "score": 0.5
+        },
+        {
+          "text": "vidro.",
+          "start_seconds": 154.503,
+          "end_seconds": 154.863,
+          "score": 0.943
+        }
+      ]
+    },
+    {
+      "text": "Mas carro novo pede clonador de chave ou hack.",
+      "start_seconds": 155.223,
+      "end_seconds": 159.165,
+      "words": [
+        {
+          "text": "Mas",
+          "start_seconds": 155.223,
+          "end_seconds": 155.483,
+          "score": 0.964
+        },
+        {
+          "text": "carro",
+          "start_seconds": 155.543,
+          "end_seconds": 155.763,
+          "score": 0.988
+        },
+        {
+          "text": "novo",
+          "start_seconds": 155.803,
+          "end_seconds": 156.044,
+          "score": 0.924
+        },
+        {
+          "text": "pede",
+          "start_seconds": 156.124,
+          "end_seconds": 156.364,
+          "score": 0.916
+        },
+        {
+          "text": "clonador",
+          "start_seconds": 156.404,
+          "end_seconds": 156.924,
+          "score": 0.895
+        },
+        {
+          "text": "de",
+          "start_seconds": 156.984,
+          "end_seconds": 157.184,
+          "score": 0.857
+        },
+        {
+          "text": "chave",
+          "start_seconds": 157.504,
+          "end_seconds": 157.985,
+          "score": 0.831
+        },
+        {
+          "text": "ou",
+          "start_seconds": 158.485,
+          "end_seconds": 158.665,
+          "score": 0.662
+        },
+        {
+          "text": "hack.",
+          "start_seconds": 158.785,
+          "end_seconds": 159.165,
+          "score": 0.59
+        }
+      ]
+    },
+    {
+      "text": "Se você dirigir devagar demais com um carro rastreador, a polícia fica sabendo.",
+      "start_seconds": 159.585,
+      "end_seconds": 164.528,
+      "words": [
+        {
+          "text": "Se",
+          "start_seconds": 159.585,
+          "end_seconds": 159.665,
+          "score": 0.99
+        },
+        {
+          "text": "você",
+          "start_seconds": 159.705,
+          "end_seconds": 159.906,
+          "score": 0.917
+        },
+        {
+          "text": "dirigir",
+          "start_seconds": 159.926,
+          "end_seconds": 160.326,
+          "score": 0.874
+        },
+        {
+          "text": "devagar",
+          "start_seconds": 160.366,
+          "end_seconds": 160.866,
+          "score": 0.955
+        },
+        {
+          "text": "demais",
+          "start_seconds": 160.906,
+          "end_seconds": 161.306,
+          "score": 0.898
+        },
+        {
+          "text": "com",
+          "start_seconds": 161.346,
+          "end_seconds": 161.486,
+          "score": 0.83
+        },
+        {
+          "text": "um",
+          "start_seconds": 161.546,
+          "end_seconds": 161.606,
+          "score": 0.75
+        },
+        {
+          "text": "carro",
+          "start_seconds": 161.667,
+          "end_seconds": 161.887,
+          "score": 0.834
+        },
+        {
+          "text": "rastreador,",
+          "start_seconds": 161.927,
+          "end_seconds": 162.527,
+          "score": 0.826
+        },
+        {
+          "text": "a",
+          "start_seconds": 162.847,
+          "end_seconds": 162.887,
+          "score": 0.83
+        },
+        {
+          "text": "polícia",
+          "start_seconds": 162.947,
+          "end_seconds": 163.327,
+          "score": 0.915
+        },
+        {
+          "text": "fica",
+          "start_seconds": 163.367,
+          "end_seconds": 163.567,
+          "score": 0.854
+        },
+        {
+          "text": "sabendo.",
+          "start_seconds": 163.608,
+          "end_seconds": 164.528,
+          "score": 1
+        }
+      ]
+    },
+    {
+      "text": "No GTA V, você morria, pagava o hospital e fim.",
+      "start_seconds": 164.628,
+      "end_seconds": 168.612,
+      "words": [
+        {
+          "text": "No",
+          "start_seconds": 164.628,
+          "end_seconds": 164.828,
+          "score": 0.762
+        },
+        {
+          "text": "GTA",
+          "start_seconds": 164.968,
+          "end_seconds": 165.449,
+          "score": 0.833
+        },
+        {
+          "text": "V,",
+          "start_seconds": 165.689,
+          "end_seconds": 165.869,
+          "score": 0.772
+        },
+        {
+          "text": "você",
+          "start_seconds": 166.129,
+          "end_seconds": 166.31,
+          "score": 0.996
+        },
+        {
+          "text": "morria,",
+          "start_seconds": 166.35,
+          "end_seconds": 166.77,
+          "score": 0.95
+        },
+        {
+          "text": "pagava",
+          "start_seconds": 166.99,
+          "end_seconds": 167.391,
+          "score": 0.925
+        },
+        {
+          "text": "o",
+          "start_seconds": 167.431,
+          "end_seconds": 167.471,
+          "score": 0.519
+        },
+        {
+          "text": "hospital",
+          "start_seconds": 167.491,
+          "end_seconds": 168.011,
+          "score": 0.919
+        },
+        {
+          "text": "e",
+          "start_seconds": 168.211,
+          "end_seconds": 168.291,
+          "score": 0.75
+        },
+        {
+          "text": "fim.",
+          "start_seconds": 168.372,
+          "end_seconds": 168.612,
+          "score": 0.86
+        }
+      ]
+    },
+    {
+      "text": "No GTA VI, pelas prévias, o dinheiro que você leva no bolso some se você morrer ou for preso.",
+      "start_seconds": 169.072,
+      "end_seconds": 175.738,
+      "words": [
+        {
+          "text": "No",
+          "start_seconds": 169.072,
+          "end_seconds": 169.192,
+          "score": 0.86
+        },
+        {
+          "text": "GTA",
+          "start_seconds": 169.252,
+          "end_seconds": 169.773,
+          "score": 0.877
+        },
+        {
+          "text": "VI,",
+          "start_seconds": 169.813,
+          "end_seconds": 170.033,
+          "score": 0.786
+        },
+        {
+          "text": "pelas",
+          "start_seconds": 170.093,
+          "end_seconds": 170.313,
+          "score": 0.897
+        },
+        {
+          "text": "prévias,",
+          "start_seconds": 170.373,
+          "end_seconds": 170.954,
+          "score": 0.944
+        },
+        {
+          "text": "o",
+          "start_seconds": 171.214,
+          "end_seconds": 171.274,
+          "score": 0.905
+        },
+        {
+          "text": "dinheiro",
+          "start_seconds": 171.354,
+          "end_seconds": 171.715,
+          "score": 0.717
+        },
+        {
+          "text": "que",
+          "start_seconds": 171.735,
+          "end_seconds": 171.835,
+          "score": 0.67
+        },
+        {
+          "text": "você",
+          "start_seconds": 171.855,
+          "end_seconds": 172.095,
+          "score": 0.917
+        },
+        {
+          "text": "leva",
+          "start_seconds": 172.155,
+          "end_seconds": 172.575,
+          "score": 0.915
+        },
+        {
+          "text": "no",
+          "start_seconds": 172.816,
+          "end_seconds": 172.896,
+          "score": 0.772
+        },
+        {
+          "text": "bolso",
+          "start_seconds": 172.956,
+          "end_seconds": 173.296,
+          "score": 0.939
+        },
+        {
+          "text": "some",
+          "start_seconds": 173.396,
+          "end_seconds": 173.757,
+          "score": 0.899
+        },
+        {
+          "text": "se",
+          "start_seconds": 173.797,
+          "end_seconds": 173.897,
+          "score": 0.834
+        },
+        {
+          "text": "você",
+          "start_seconds": 173.917,
+          "end_seconds": 174.137,
+          "score": 0.843
+        },
+        {
+          "text": "morrer",
+          "start_seconds": 174.177,
+          "end_seconds": 174.517,
+          "score": 0.944
+        },
+        {
+          "text": "ou",
+          "start_seconds": 174.918,
+          "end_seconds": 175.078,
+          "score": 0.566
+        },
+        {
+          "text": "for",
+          "start_seconds": 175.138,
+          "end_seconds": 175.278,
+          "score": 0.874
+        },
+        {
+          "text": "preso.",
+          "start_seconds": 175.358,
+          "end_seconds": 175.738,
+          "score": 0.995
+        }
+      ]
+    },
+    {
+      "text": "Para proteger, vai ter que depositar no caixa eletrônico, numa conta conjunta do Jason e da Lúcia.",
+      "start_seconds": 176.299,
+      "end_seconds": 181.524,
+      "words": [
+        {
+          "text": "Para",
+          "start_seconds": 176.299,
+          "end_seconds": 176.439,
+          "score": 0.874
+        },
+        {
+          "text": "proteger,",
+          "start_seconds": 176.499,
+          "end_seconds": 177.02,
+          "score": 0.879
+        },
+        {
+          "text": "vai",
+          "start_seconds": 177.06,
+          "end_seconds": 177.14,
+          "score": 1
+        },
+        {
+          "text": "ter",
+          "start_seconds": 177.18,
+          "end_seconds": 177.28,
+          "score": 0.807
+        },
+        {
+          "text": "que",
+          "start_seconds": 177.3,
+          "end_seconds": 177.38,
+          "score": 0.841
+        },
+        {
+          "text": "depositar",
+          "start_seconds": 177.4,
+          "end_seconds": 177.92,
+          "score": 0.986
+        },
+        {
+          "text": "no",
+          "start_seconds": 177.96,
+          "end_seconds": 178.041,
+          "score": 0.75
+        },
+        {
+          "text": "caixa",
+          "start_seconds": 178.101,
+          "end_seconds": 178.401,
+          "score": 0.931
+        },
+        {
+          "text": "eletrônico,",
+          "start_seconds": 178.461,
+          "end_seconds": 179.081,
+          "score": 0.97
+        },
+        {
+          "text": "numa",
+          "start_seconds": 179.582,
+          "end_seconds": 179.762,
+          "score": 0.867
+        },
+        {
+          "text": "conta",
+          "start_seconds": 179.842,
+          "end_seconds": 180.062,
+          "score": 0.999
+        },
+        {
+          "text": "conjunta",
+          "start_seconds": 180.122,
+          "end_seconds": 180.543,
+          "score": 1
+        },
+        {
+          "text": "do",
+          "start_seconds": 180.583,
+          "end_seconds": 180.643,
+          "score": 1
+        },
+        {
+          "text": "Jason",
+          "start_seconds": 180.703,
+          "end_seconds": 180.983,
+          "score": 0.349
+        },
+        {
+          "text": "e",
+          "start_seconds": 181.003,
+          "end_seconds": 181.023,
+          "score": 0.008
+        },
+        {
+          "text": "da",
+          "start_seconds": 181.043,
+          "end_seconds": 181.123,
+          "score": 0.744
+        },
+        {
+          "text": "Lúcia.",
+          "start_seconds": 181.183,
+          "end_seconds": 181.524,
+          "score": 0.982
+        }
+      ]
+    },
+    {
+      "text": "Assalto que dá certo agora tem uma etapa final, chegar no banco.",
+      "start_seconds": 181.944,
+      "end_seconds": 186.128,
+      "words": [
+        {
+          "text": "Assalto",
+          "start_seconds": 181.944,
+          "end_seconds": 182.465,
+          "score": 0.931
+        },
+        {
+          "text": "que",
+          "start_seconds": 182.485,
+          "end_seconds": 182.585,
+          "score": 0.681
+        },
+        {
+          "text": "dá",
+          "start_seconds": 182.625,
+          "end_seconds": 182.725,
+          "score": 0.876
+        },
+        {
+          "text": "certo",
+          "start_seconds": 182.845,
+          "end_seconds": 183.165,
+          "score": 0.902
+        },
+        {
+          "text": "agora",
+          "start_seconds": 183.205,
+          "end_seconds": 183.446,
+          "score": 0.891
+        },
+        {
+          "text": "tem",
+          "start_seconds": 183.486,
+          "end_seconds": 183.606,
+          "score": 0.779
+        },
+        {
+          "text": "uma",
+          "start_seconds": 183.626,
+          "end_seconds": 183.706,
+          "score": 0.833
+        },
+        {
+          "text": "etapa",
+          "start_seconds": 183.746,
+          "end_seconds": 184.106,
+          "score": 0.842
+        },
+        {
+          "text": "final,",
+          "start_seconds": 184.186,
+          "end_seconds": 184.506,
+          "score": 1
+        },
+        {
+          "text": "chegar",
+          "start_seconds": 184.887,
+          "end_seconds": 185.167,
+          "score": 0.833
+        },
+        {
+          "text": "no",
+          "start_seconds": 185.187,
+          "end_seconds": 185.267,
+          "score": 0.754
+        },
+        {
+          "text": "banco.",
+          "start_seconds": 185.327,
+          "end_seconds": 186.128,
+          "score": 0.953
+        }
+      ]
+    },
+    {
+      "text": "E pode esquecer aquela ideia de juntar milhões e andar por aí com tudo na carteira.",
+      "start_seconds": 186.425,
+      "end_seconds": 191.886,
+      "words": [
+        {
+          "text": "E",
+          "start_seconds": 186.425,
+          "end_seconds": 186.765,
+          "score": 0.938
+        },
+        {
+          "text": "pode",
+          "start_seconds": 186.905,
+          "end_seconds": 187.125,
+          "score": 0.936
+        },
+        {
+          "text": "esquecer",
+          "start_seconds": 187.165,
+          "end_seconds": 187.585,
+          "score": 0.956
+        },
+        {
+          "text": "aquela",
+          "start_seconds": 187.625,
+          "end_seconds": 187.845,
+          "score": 0.84
+        },
+        {
+          "text": "ideia",
+          "start_seconds": 187.885,
+          "end_seconds": 188.225,
+          "score": 0.873
+        },
+        {
+          "text": "de",
+          "start_seconds": 188.285,
+          "end_seconds": 188.525,
+          "score": 0.944
+        },
+        {
+          "text": "juntar",
+          "start_seconds": 188.805,
+          "end_seconds": 189.085,
+          "score": 0.935
+        },
+        {
+          "text": "milhões",
+          "start_seconds": 189.125,
+          "end_seconds": 189.806,
+          "score": 0.79
+        },
+        {
+          "text": "e",
+          "start_seconds": 189.946,
+          "end_seconds": 190.006,
+          "score": 0.987
+        },
+        {
+          "text": "andar",
+          "start_seconds": 190.066,
+          "end_seconds": 190.366,
+          "score": 0.81
+        },
+        {
+          "text": "por",
+          "start_seconds": 190.426,
+          "end_seconds": 190.566,
+          "score": 0.81
+        },
+        {
+          "text": "aí",
+          "start_seconds": 190.606,
+          "end_seconds": 190.786,
+          "score": 0.944
+        },
+        {
+          "text": "com",
+          "start_seconds": 190.846,
+          "end_seconds": 190.966,
+          "score": 0.711
+        },
+        {
+          "text": "tudo",
+          "start_seconds": 191.026,
+          "end_seconds": 191.186,
+          "score": 0.994
+        },
+        {
+          "text": "na",
+          "start_seconds": 191.206,
+          "end_seconds": 191.306,
+          "score": 0.642
+        },
+        {
+          "text": "carteira.",
+          "start_seconds": 191.346,
+          "end_seconds": 191.886,
+          "score": 0.956
+        }
+      ]
+    },
+    {
+      "text": "Quem fizer isso vai aprender do jeito mais caro.",
+      "start_seconds": 192.426,
+      "end_seconds": 194.566,
+      "words": [
+        {
+          "text": "Quem",
+          "start_seconds": 192.426,
+          "end_seconds": 192.586,
+          "score": 0.755
+        },
+        {
+          "text": "fizer",
+          "start_seconds": 192.626,
+          "end_seconds": 192.846,
+          "score": 0.838
+        },
+        {
+          "text": "isso",
+          "start_seconds": 192.906,
+          "end_seconds": 193.066,
+          "score": 0.876
+        },
+        {
+          "text": "vai",
+          "start_seconds": 193.106,
+          "end_seconds": 193.206,
+          "score": 0.833
+        },
+        {
+          "text": "aprender",
+          "start_seconds": 193.246,
+          "end_seconds": 193.546,
+          "score": 0.771
+        },
+        {
+          "text": "do",
+          "start_seconds": 193.606,
+          "end_seconds": 193.666,
+          "score": 0.99
+        },
+        {
+          "text": "jeito",
+          "start_seconds": 193.726,
+          "end_seconds": 193.946,
+          "score": 0.883
+        },
+        {
+          "text": "mais",
+          "start_seconds": 193.986,
+          "end_seconds": 194.166,
+          "score": 0.873
+        },
+        {
+          "text": "caro.",
+          "start_seconds": 194.226,
+          "end_seconds": 194.566,
+          "score": 0.994
+        }
+      ]
+    },
+    {
+      "text": "No GTA V, o comida era um detalhe que quase ninguém usava.",
+      "start_seconds": 195.046,
+      "end_seconds": 198.307,
+      "words": [
+        {
+          "text": "No",
+          "start_seconds": 195.046,
+          "end_seconds": 195.146,
+          "score": 0.758
+        },
+        {
+          "text": "GTA",
+          "start_seconds": 195.246,
+          "end_seconds": 195.667,
+          "score": 0.803
+        },
+        {
+          "text": "V,",
+          "start_seconds": 195.787,
+          "end_seconds": 196.027,
+          "score": 0.802
+        },
+        {
+          "text": "o",
+          "start_seconds": 196.087,
+          "end_seconds": 196.107,
+          "score": 0.979
+        },
+        {
+          "text": "comida",
+          "start_seconds": 196.187,
+          "end_seconds": 196.507,
+          "score": 0.825
+        },
+        {
+          "text": "era",
+          "start_seconds": 196.547,
+          "end_seconds": 196.627,
+          "score": 0.846
+        },
+        {
+          "text": "um",
+          "start_seconds": 196.647,
+          "end_seconds": 196.707,
+          "score": 0.619
+        },
+        {
+          "text": "detalhe",
+          "start_seconds": 196.727,
+          "end_seconds": 197.107,
+          "score": 0.681
+        },
+        {
+          "text": "que",
+          "start_seconds": 197.127,
+          "end_seconds": 197.227,
+          "score": 0.669
+        },
+        {
+          "text": "quase",
+          "start_seconds": 197.287,
+          "end_seconds": 197.507,
+          "score": 0.758
+        },
+        {
+          "text": "ninguém",
+          "start_seconds": 197.527,
+          "end_seconds": 197.887,
+          "score": 0.818
+        },
+        {
+          "text": "usava.",
+          "start_seconds": 197.927,
+          "end_seconds": 198.307,
+          "score": 0.945
+        }
+      ]
+    },
+    {
+      "text": "No GTA VI, a Rockstar confirmou que o que o Jason e a Lucia comem muda o peso deles.",
+      "start_seconds": 198.367,
+      "end_seconds": 203.828,
+      "words": [
+        {
+          "text": "No",
+          "start_seconds": 198.367,
+          "end_seconds": 198.487,
+          "score": 0.668
+        },
+        {
+          "text": "GTA",
+          "start_seconds": 198.547,
+          "end_seconds": 198.967,
+          "score": 0.836
+        },
+        {
+          "text": "VI,",
+          "start_seconds": 199.087,
+          "end_seconds": 199.427,
+          "score": 0.759
+        },
+        {
+          "text": "a",
+          "start_seconds": 199.767,
+          "end_seconds": 199.807,
+          "score": 1
+        },
+        {
+          "text": "Rockstar",
+          "start_seconds": 199.867,
+          "end_seconds": 200.407,
+          "score": 0.864
+        },
+        {
+          "text": "confirmou",
+          "start_seconds": 200.447,
+          "end_seconds": 200.947,
+          "score": 0.924
+        },
+        {
+          "text": "que",
+          "start_seconds": 200.987,
+          "end_seconds": 201.067,
+          "score": 0.911
+        },
+        {
+          "text": "o",
+          "start_seconds": 201.087,
+          "end_seconds": 201.107,
+          "score": 0.71
+        },
+        {
+          "text": "que",
+          "start_seconds": 201.147,
+          "end_seconds": 201.247,
+          "score": 0.677
+        },
+        {
+          "text": "o",
+          "start_seconds": 201.267,
+          "end_seconds": 201.287,
+          "score": 0.997
+        },
+        {
+          "text": "Jason",
+          "start_seconds": 201.368,
+          "end_seconds": 201.648,
+          "score": 0.489
+        },
+        {
+          "text": "e",
+          "start_seconds": 201.768,
+          "end_seconds": 201.788,
+          "score": 0.004
+        },
+        {
+          "text": "a",
+          "start_seconds": 201.828,
+          "end_seconds": 201.868,
+          "score": 0.929
+        },
+        {
+          "text": "Lucia",
+          "start_seconds": 201.908,
+          "end_seconds": 202.188,
+          "score": 0.601
+        },
+        {
+          "text": "comem",
+          "start_seconds": 202.268,
+          "end_seconds": 202.588,
+          "score": 0.73
+        },
+        {
+          "text": "muda",
+          "start_seconds": 202.728,
+          "end_seconds": 202.948,
+          "score": 0.874
+        },
+        {
+          "text": "o",
+          "start_seconds": 203.008,
+          "end_seconds": 203.028,
+          "score": 0.999
+        },
+        {
+          "text": "peso",
+          "start_seconds": 203.108,
+          "end_seconds": 203.368,
+          "score": 1
+        },
+        {
+          "text": "deles.",
+          "start_seconds": 203.428,
+          "end_seconds": 203.828,
+          "score": 0.891
+        }
+      ]
+    },
+    {
+      "text": "Resumindo.",
+      "start_seconds": 203.988,
+      "end_seconds": 204.488,
+      "words": [
+        {
+          "text": "Resumindo.",
+          "start_seconds": 203.988,
+          "end_seconds": 204.488,
+          "score": 0.999
+        }
+      ]
+    },
+    {
+      "text": "Voltou o sistema do San Andreas.",
+      "start_seconds": 205.048,
+      "end_seconds": 207.228,
+      "words": [
+        {
+          "text": "Voltou",
+          "start_seconds": 205.048,
+          "end_seconds": 205.488,
+          "score": 0.839
+        },
+        {
+          "text": "o",
+          "start_seconds": 205.608,
+          "end_seconds": 205.648,
+          "score": 0.991
+        },
+        {
+          "text": "sistema",
+          "start_seconds": 205.728,
+          "end_seconds": 206.168,
+          "score": 0.824
+        },
+        {
+          "text": "do",
+          "start_seconds": 206.208,
+          "end_seconds": 206.288,
+          "score": 0.834
+        },
+        {
+          "text": "San",
+          "start_seconds": 206.348,
+          "end_seconds": 206.468,
+          "score": 0.939
+        },
+        {
+          "text": "Andreas.",
+          "start_seconds": 206.508,
+          "end_seconds": 207.228,
+          "score": 0.931
+        }
+      ]
+    },
+    {
+      "text": "Exagerou no hambúrguer.",
+      "start_seconds": 207.609,
+      "end_seconds": 209.129,
+      "words": [
+        {
+          "text": "Exagerou",
+          "start_seconds": 207.609,
+          "end_seconds": 208.389,
+          "score": 0.981
+        },
+        {
+          "text": "no",
+          "start_seconds": 208.429,
+          "end_seconds": 208.509,
+          "score": 0.998
+        },
+        {
+          "text": "hambúrguer.",
+          "start_seconds": 208.529,
+          "end_seconds": 209.129,
+          "score": 0.904
+        }
+      ]
+    },
+    {
+      "text": "O personagem engorda.",
+      "start_seconds": 209.469,
+      "end_seconds": 210.869,
+      "words": [
+        {
+          "text": "O",
+          "start_seconds": 209.469,
+          "end_seconds": 209.509,
+          "score": 0.81
+        },
+        {
+          "text": "personagem",
+          "start_seconds": 209.569,
+          "end_seconds": 210.149,
+          "score": 0.891
+        },
+        {
+          "text": "engorda.",
+          "start_seconds": 210.309,
+          "end_seconds": 210.869,
+          "score": 0.857
+        }
+      ]
+    },
+    {
+      "text": "É a primeira vez em mais de 20 anos que o seu estilo de jogo muda o corpo do protagonista.",
+      "start_seconds": 211.449,
+      "end_seconds": 216.25,
+      "words": [
+        {
+          "text": "É",
+          "start_seconds": 211.449,
+          "end_seconds": 211.509,
+          "score": 0.96
+        },
+        {
+          "text": "a",
+          "start_seconds": 211.549,
+          "end_seconds": 211.589,
+          "score": 0.507
+        },
+        {
+          "text": "primeira",
+          "start_seconds": 211.649,
+          "end_seconds": 211.989,
+          "score": 0.968
+        },
+        {
+          "text": "vez",
+          "start_seconds": 212.049,
+          "end_seconds": 212.229,
+          "score": 0.834
+        },
+        {
+          "text": "em",
+          "start_seconds": 212.249,
+          "end_seconds": 212.309,
+          "score": 1
+        },
+        {
+          "text": "mais",
+          "start_seconds": 212.369,
+          "end_seconds": 212.589,
+          "score": 0.875
+        },
+        {
+          "text": "de",
+          "start_seconds": 212.609,
+          "end_seconds": 212.669,
+          "score": 1
+        },
+        {
+          "text": "20",
+          "start_seconds": 212.749,
+          "end_seconds": 213.089,
+          "score": 0.68
+        },
+        {
+          "text": "anos",
+          "start_seconds": 213.169,
+          "end_seconds": 213.43,
+          "score": 0.999
+        },
+        {
+          "text": "que",
+          "start_seconds": 213.47,
+          "end_seconds": 213.55,
+          "score": 0.842
+        },
+        {
+          "text": "o",
+          "start_seconds": 213.57,
+          "end_seconds": 213.61,
+          "score": 0.499
+        },
+        {
+          "text": "seu",
+          "start_seconds": 213.67,
+          "end_seconds": 213.81,
+          "score": 0.965
+        },
+        {
+          "text": "estilo",
+          "start_seconds": 213.85,
+          "end_seconds": 214.13,
+          "score": 0.916
+        },
+        {
+          "text": "de",
+          "start_seconds": 214.19,
+          "end_seconds": 214.27,
+          "score": 0.834
+        },
+        {
+          "text": "jogo",
+          "start_seconds": 214.35,
+          "end_seconds": 214.61,
+          "score": 1
+        },
+        {
+          "text": "muda",
+          "start_seconds": 214.69,
+          "end_seconds": 214.93,
+          "score": 0.83
+        },
+        {
+          "text": "o",
+          "start_seconds": 214.97,
+          "end_seconds": 215.01,
+          "score": 0.522
+        },
+        {
+          "text": "corpo",
+          "start_seconds": 215.09,
+          "end_seconds": 215.37,
+          "score": 0.856
+        },
+        {
+          "text": "do",
+          "start_seconds": 215.39,
+          "end_seconds": 215.45,
+          "score": 1
+        },
+        {
+          "text": "protagonista.",
+          "start_seconds": 215.49,
+          "end_seconds": 216.25,
+          "score": 0.932
+        }
+      ]
+    },
+    {
+      "text": "Quem jogou San Andreas lembra do CJ estar comendo pizza até entalar na porta.",
+      "start_seconds": 216.777,
+      "end_seconds": 220.719,
+      "words": [
+        {
+          "text": "Quem",
+          "start_seconds": 216.777,
+          "end_seconds": 216.897,
+          "score": 1
+        },
+        {
+          "text": "jogou",
+          "start_seconds": 216.937,
+          "end_seconds": 217.137,
+          "score": 0.873
+        },
+        {
+          "text": "San",
+          "start_seconds": 217.177,
+          "end_seconds": 217.317,
+          "score": 0.491
+        },
+        {
+          "text": "Andreas",
+          "start_seconds": 217.337,
+          "end_seconds": 217.737,
+          "score": 0.864
+        },
+        {
+          "text": "lembra",
+          "start_seconds": 217.797,
+          "end_seconds": 218.078,
+          "score": 0.893
+        },
+        {
+          "text": "do",
+          "start_seconds": 218.118,
+          "end_seconds": 218.178,
+          "score": 0.988
+        },
+        {
+          "text": "CJ",
+          "start_seconds": 218.258,
+          "end_seconds": 218.358,
+          "score": 0.807
+        },
+        {
+          "text": "estar",
+          "start_seconds": 218.398,
+          "end_seconds": 218.798,
+          "score": 0.753
+        },
+        {
+          "text": "comendo",
+          "start_seconds": 218.858,
+          "end_seconds": 219.118,
+          "score": 0.927
+        },
+        {
+          "text": "pizza",
+          "start_seconds": 219.198,
+          "end_seconds": 219.498,
+          "score": 0.854
+        },
+        {
+          "text": "até",
+          "start_seconds": 219.578,
+          "end_seconds": 219.758,
+          "score": 0.889
+        },
+        {
+          "text": "entalar",
+          "start_seconds": 219.818,
+          "end_seconds": 220.158,
+          "score": 0.917
+        },
+        {
+          "text": "na",
+          "start_seconds": 220.178,
+          "end_seconds": 220.258,
+          "score": 0.856
+        },
+        {
+          "text": "porta.",
+          "start_seconds": 220.338,
+          "end_seconds": 220.719,
+          "score": 0.994
+        }
+      ]
+    },
+    {
+      "text": "Agora imagina isso com o visual do GTA 6.",
+      "start_seconds": 221.239,
+      "end_seconds": 225.48,
+      "words": [
+        {
+          "text": "Agora",
+          "start_seconds": 221.239,
+          "end_seconds": 221.539,
+          "score": 0.975
+        },
+        {
+          "text": "imagina",
+          "start_seconds": 221.579,
+          "end_seconds": 221.979,
+          "score": 0.941
+        },
+        {
+          "text": "isso",
+          "start_seconds": 222.079,
+          "end_seconds": 222.279,
+          "score": 0.794
+        },
+        {
+          "text": "com",
+          "start_seconds": 222.339,
+          "end_seconds": 222.479,
+          "score": 0.841
+        },
+        {
+          "text": "o",
+          "start_seconds": 222.559,
+          "end_seconds": 222.599,
+          "score": 0.524
+        },
+        {
+          "text": "visual",
+          "start_seconds": 222.679,
+          "end_seconds": 223.42,
+          "score": 0.933
+        },
+        {
+          "text": "do",
+          "start_seconds": 223.96,
+          "end_seconds": 224.2,
+          "score": 0.904
+        },
+        {
+          "text": "GTA",
+          "start_seconds": 224.44,
+          "end_seconds": 225,
+          "score": 0.876
+        },
+        {
+          "text": "6.",
+          "start_seconds": 225.04,
+          "end_seconds": 225.48,
+          "score": 0.727
+        }
+      ]
+    },
+    {
+      "text": "E não é só a comida.",
+      "start_seconds": 225.78,
+      "end_seconds": 226.901,
+      "words": [
+        {
+          "text": "E",
+          "start_seconds": 225.78,
+          "end_seconds": 225.821,
+          "score": 1
+        },
+        {
+          "text": "não",
+          "start_seconds": 225.881,
+          "end_seconds": 226.021,
+          "score": 0.776
+        },
+        {
+          "text": "é",
+          "start_seconds": 226.081,
+          "end_seconds": 226.141,
+          "score": 0.866
+        },
+        {
+          "text": "só",
+          "start_seconds": 226.221,
+          "end_seconds": 226.341,
+          "score": 0.871
+        },
+        {
+          "text": "a",
+          "start_seconds": 226.381,
+          "end_seconds": 226.401,
+          "score": 1
+        },
+        {
+          "text": "comida.",
+          "start_seconds": 226.461,
+          "end_seconds": 226.901,
+          "score": 0.904
+        }
+      ]
+    },
+    {
+      "text": "Malhar na academia ganha e define músculo.",
+      "start_seconds": 227.401,
+      "end_seconds": 229.882,
+      "words": [
+        {
+          "text": "Malhar",
+          "start_seconds": 227.401,
+          "end_seconds": 227.841,
+          "score": 0.864
+        },
+        {
+          "text": "na",
+          "start_seconds": 227.881,
+          "end_seconds": 227.961,
+          "score": 0.752
+        },
+        {
+          "text": "academia",
+          "start_seconds": 227.981,
+          "end_seconds": 228.522,
+          "score": 0.905
+        },
+        {
+          "text": "ganha",
+          "start_seconds": 228.622,
+          "end_seconds": 228.922,
+          "score": 0.795
+        },
+        {
+          "text": "e",
+          "start_seconds": 229.022,
+          "end_seconds": 229.062,
+          "score": 0.503
+        },
+        {
+          "text": "define",
+          "start_seconds": 229.082,
+          "end_seconds": 229.402,
+          "score": 1
+        },
+        {
+          "text": "músculo.",
+          "start_seconds": 229.462,
+          "end_seconds": 229.882,
+          "score": 0.943
+        }
+      ]
+    },
+    {
+      "text": "E não dormir deixa o personagem exausto.",
+      "start_seconds": 230.142,
+      "end_seconds": 232.363,
+      "words": [
+        {
+          "text": "E",
+          "start_seconds": 230.142,
+          "end_seconds": 230.182,
+          "score": 1
+        },
+        {
+          "text": "não",
+          "start_seconds": 230.242,
+          "end_seconds": 230.362,
+          "score": 0.772
+        },
+        {
+          "text": "dormir",
+          "start_seconds": 230.402,
+          "end_seconds": 230.722,
+          "score": 0.885
+        },
+        {
+          "text": "deixa",
+          "start_seconds": 230.782,
+          "end_seconds": 230.983,
+          "score": 0.9
+        },
+        {
+          "text": "o",
+          "start_seconds": 231.003,
+          "end_seconds": 231.023,
+          "score": 1
+        },
+        {
+          "text": "personagem",
+          "start_seconds": 231.083,
+          "end_seconds": 231.723,
+          "score": 0.948
+        },
+        {
+          "text": "exausto.",
+          "start_seconds": 231.763,
+          "end_seconds": 232.363,
+          "score": 0.978
+        }
+      ]
+    },
+    {
+      "text": "Pelas prévias, o jogo acompanha força, fôlego, resistência e gordura corporal.",
+      "start_seconds": 232.903,
+      "end_seconds": 238.245,
+      "words": [
+        {
+          "text": "Pelas",
+          "start_seconds": 232.903,
+          "end_seconds": 233.143,
+          "score": 1
+        },
+        {
+          "text": "prévias,",
+          "start_seconds": 233.223,
+          "end_seconds": 233.804,
+          "score": 0.966
+        },
+        {
+          "text": "o",
+          "start_seconds": 233.944,
+          "end_seconds": 234.004,
+          "score": 0.667
+        },
+        {
+          "text": "jogo",
+          "start_seconds": 234.064,
+          "end_seconds": 234.344,
+          "score": 0.859
+        },
+        {
+          "text": "acompanha",
+          "start_seconds": 234.364,
+          "end_seconds": 234.804,
+          "score": 0.906
+        },
+        {
+          "text": "força,",
+          "start_seconds": 234.944,
+          "end_seconds": 235.384,
+          "score": 1
+        },
+        {
+          "text": "fôlego,",
+          "start_seconds": 235.544,
+          "end_seconds": 236.024,
+          "score": 0.952
+        },
+        {
+          "text": "resistência",
+          "start_seconds": 236.325,
+          "end_seconds": 237.065,
+          "score": 0.949
+        },
+        {
+          "text": "e",
+          "start_seconds": 237.205,
+          "end_seconds": 237.245,
+          "score": 0.998
+        },
+        {
+          "text": "gordura",
+          "start_seconds": 237.285,
+          "end_seconds": 237.645,
+          "score": 0.877
+        },
+        {
+          "text": "corporal.",
+          "start_seconds": 237.705,
+          "end_seconds": 238.245,
+          "score": 0.889
+        }
+      ]
+    },
+    {
+      "text": "A academia é opcional, mas quem virar à noite fazendo besteira vai ver isso na cara do personagem.",
+      "start_seconds": 238.665,
+      "end_seconds": 245.208,
+      "words": [
+        {
+          "text": "A",
+          "start_seconds": 238.665,
+          "end_seconds": 238.705,
+          "score": 0.502
+        },
+        {
+          "text": "academia",
+          "start_seconds": 238.725,
+          "end_seconds": 239.206,
+          "score": 0.939
+        },
+        {
+          "text": "é",
+          "start_seconds": 239.406,
+          "end_seconds": 239.466,
+          "score": 0.667
+        },
+        {
+          "text": "opcional,",
+          "start_seconds": 239.506,
+          "end_seconds": 240.066,
+          "score": 0.936
+        },
+        {
+          "text": "mas",
+          "start_seconds": 240.486,
+          "end_seconds": 240.746,
+          "score": 0.955
+        },
+        {
+          "text": "quem",
+          "start_seconds": 240.786,
+          "end_seconds": 240.926,
+          "score": 0.871
+        },
+        {
+          "text": "virar",
+          "start_seconds": 240.986,
+          "end_seconds": 241.246,
+          "score": 0.926
+        },
+        {
+          "text": "à",
+          "start_seconds": 241.286,
+          "end_seconds": 241.326,
+          "score": 0.097
+        },
+        {
+          "text": "noite",
+          "start_seconds": 241.387,
+          "end_seconds": 241.827,
+          "score": 0.921
+        },
+        {
+          "text": "fazendo",
+          "start_seconds": 241.927,
+          "end_seconds": 242.307,
+          "score": 0.763
+        },
+        {
+          "text": "besteira",
+          "start_seconds": 242.367,
+          "end_seconds": 242.827,
+          "score": 0.797
+        },
+        {
+          "text": "vai",
+          "start_seconds": 242.907,
+          "end_seconds": 243.047,
+          "score": 0.916
+        },
+        {
+          "text": "ver",
+          "start_seconds": 243.127,
+          "end_seconds": 243.247,
+          "score": 0.889
+        },
+        {
+          "text": "isso",
+          "start_seconds": 243.287,
+          "end_seconds": 243.487,
+          "score": 0.764
+        },
+        {
+          "text": "na",
+          "start_seconds": 243.507,
+          "end_seconds": 243.607,
+          "score": 0.689
+        },
+        {
+          "text": "cara",
+          "start_seconds": 243.687,
+          "end_seconds": 243.968,
+          "score": 0.893
+        },
+        {
+          "text": "do",
+          "start_seconds": 244.008,
+          "end_seconds": 244.068,
+          "score": 0.752
+        },
+        {
+          "text": "personagem.",
+          "start_seconds": 244.108,
+          "end_seconds": 245.208,
+          "score": 0.924
+        }
+      ]
+    },
+    {
+      "text": "No GTA V, o Michael, o Franklin e o Trevor acabavam o jogo com o mesmo corpo do início.",
+      "start_seconds": 245.348,
+      "end_seconds": 251.47,
+      "words": [
+        {
+          "text": "No",
+          "start_seconds": 245.348,
+          "end_seconds": 245.468,
+          "score": 0.834
+        },
+        {
+          "text": "GTA",
+          "start_seconds": 245.508,
+          "end_seconds": 246.008,
+          "score": 0.78
+        },
+        {
+          "text": "V,",
+          "start_seconds": 246.268,
+          "end_seconds": 246.428,
+          "score": 0.775
+        },
+        {
+          "text": "o",
+          "start_seconds": 246.568,
+          "end_seconds": 246.608,
+          "score": 0.995
+        },
+        {
+          "text": "Michael,",
+          "start_seconds": 246.708,
+          "end_seconds": 247.169,
+          "score": 0.587
+        },
+        {
+          "text": "o",
+          "start_seconds": 247.289,
+          "end_seconds": 247.329,
+          "score": 0.896
+        },
+        {
+          "text": "Franklin",
+          "start_seconds": 247.429,
+          "end_seconds": 247.909,
+          "score": 0.8
+        },
+        {
+          "text": "e",
+          "start_seconds": 248.029,
+          "end_seconds": 248.089,
+          "score": 0.671
+        },
+        {
+          "text": "o",
+          "start_seconds": 248.129,
+          "end_seconds": 248.149,
+          "score": 1
+        },
+        {
+          "text": "Trevor",
+          "start_seconds": 248.249,
+          "end_seconds": 248.689,
+          "score": 0.763
+        },
+        {
+          "text": "acabavam",
+          "start_seconds": 249.049,
+          "end_seconds": 249.429,
+          "score": 0.908
+        },
+        {
+          "text": "o",
+          "start_seconds": 249.469,
+          "end_seconds": 249.509,
+          "score": 0.506
+        },
+        {
+          "text": "jogo",
+          "start_seconds": 249.589,
+          "end_seconds": 249.869,
+          "score": 0.875
+        },
+        {
+          "text": "com",
+          "start_seconds": 249.909,
+          "end_seconds": 250.03,
+          "score": 0.834
+        },
+        {
+          "text": "o",
+          "start_seconds": 250.07,
+          "end_seconds": 250.11,
+          "score": 0.5
+        },
+        {
+          "text": "mesmo",
+          "start_seconds": 250.17,
+          "end_seconds": 250.47,
+          "score": 0.865
+        },
+        {
+          "text": "corpo",
+          "start_seconds": 250.55,
+          "end_seconds": 250.85,
+          "score": 0.957
+        },
+        {
+          "text": "do",
+          "start_seconds": 250.89,
+          "end_seconds": 250.95,
+          "score": 0.754
+        },
+        {
+          "text": "início.",
+          "start_seconds": 250.99,
+          "end_seconds": 251.47,
+          "score": 0.989
+        }
+      ]
+    },
+    {
+      "text": "No GTA VI, o Jason e a Lúcia vão ficar com a cara da sua rotina.",
+      "start_seconds": 251.99,
+      "end_seconds": 256.872,
+      "words": [
+        {
+          "text": "No",
+          "start_seconds": 251.99,
+          "end_seconds": 252.07,
+          "score": 0.988
+        },
+        {
+          "text": "GTA",
+          "start_seconds": 252.13,
+          "end_seconds": 252.57,
+          "score": 0.8
+        },
+        {
+          "text": "VI,",
+          "start_seconds": 252.65,
+          "end_seconds": 253.151,
+          "score": 0.899
+        },
+        {
+          "text": "o",
+          "start_seconds": 253.411,
+          "end_seconds": 253.491,
+          "score": 0.751
+        },
+        {
+          "text": "Jason",
+          "start_seconds": 253.671,
+          "end_seconds": 254.151,
+          "score": 0.886
+        },
+        {
+          "text": "e",
+          "start_seconds": 254.311,
+          "end_seconds": 254.391,
+          "score": 0.75
+        },
+        {
+          "text": "a",
+          "start_seconds": 254.431,
+          "end_seconds": 254.451,
+          "score": 0.999
+        },
+        {
+          "text": "Lúcia",
+          "start_seconds": 254.511,
+          "end_seconds": 254.911,
+          "score": 0.946
+        },
+        {
+          "text": "vão",
+          "start_seconds": 254.951,
+          "end_seconds": 255.071,
+          "score": 0.625
+        },
+        {
+          "text": "ficar",
+          "start_seconds": 255.111,
+          "end_seconds": 255.371,
+          "score": 0.929
+        },
+        {
+          "text": "com",
+          "start_seconds": 255.431,
+          "end_seconds": 255.551,
+          "score": 0.831
+        },
+        {
+          "text": "a",
+          "start_seconds": 255.591,
+          "end_seconds": 255.631,
+          "score": 0.69
+        },
+        {
+          "text": "cara",
+          "start_seconds": 255.711,
+          "end_seconds": 256.011,
+          "score": 0.691
+        },
+        {
+          "text": "da",
+          "start_seconds": 256.031,
+          "end_seconds": 256.111,
+          "score": 0.993
+        },
+        {
+          "text": "sua",
+          "start_seconds": 256.171,
+          "end_seconds": 256.312,
+          "score": 0.833
+        },
+        {
+          "text": "rotina.",
+          "start_seconds": 256.352,
+          "end_seconds": 256.872,
+          "score": 0.985
+        }
+      ]
+    },
+    {
+      "text": "Lembra de todas aquelas portas fechadas em Los Santos?",
+      "start_seconds": 257.472,
+      "end_seconds": 260.393,
+      "words": [
+        {
+          "text": "Lembra",
+          "start_seconds": 257.472,
+          "end_seconds": 257.692,
+          "score": 0.945
+        },
+        {
+          "text": "de",
+          "start_seconds": 257.732,
+          "end_seconds": 257.792,
+          "score": 1
+        },
+        {
+          "text": "todas",
+          "start_seconds": 257.852,
+          "end_seconds": 258.072,
+          "score": 0.843
+        },
+        {
+          "text": "aquelas",
+          "start_seconds": 258.112,
+          "end_seconds": 258.452,
+          "score": 0.81
+        },
+        {
+          "text": "portas",
+          "start_seconds": 258.612,
+          "end_seconds": 259.012,
+          "score": 0.912
+        },
+        {
+          "text": "fechadas",
+          "start_seconds": 259.032,
+          "end_seconds": 259.513,
+          "score": 0.907
+        },
+        {
+          "text": "em",
+          "start_seconds": 259.553,
+          "end_seconds": 259.613,
+          "score": 1
+        },
+        {
+          "text": "Los",
+          "start_seconds": 259.653,
+          "end_seconds": 259.753,
+          "score": 0.684
+        },
+        {
+          "text": "Santos?",
+          "start_seconds": 259.853,
+          "end_seconds": 260.393,
+          "score": 0.987
+        }
+      ]
+    },
+    {
+      "text": "A maior parte dos prédios do GTA V era só a fachada.",
+      "start_seconds": 260.793,
+      "end_seconds": 264.074,
+      "words": [
+        {
+          "text": "A",
+          "start_seconds": 260.793,
+          "end_seconds": 260.833,
+          "score": 0.999
+        },
+        {
+          "text": "maior",
+          "start_seconds": 260.873,
+          "end_seconds": 261.133,
+          "score": 0.865
+        },
+        {
+          "text": "parte",
+          "start_seconds": 261.233,
+          "end_seconds": 261.513,
+          "score": 0.8
+        },
+        {
+          "text": "dos",
+          "start_seconds": 261.533,
+          "end_seconds": 261.653,
+          "score": 0.833
+        },
+        {
+          "text": "prédios",
+          "start_seconds": 261.733,
+          "end_seconds": 262.113,
+          "score": 0.996
+        },
+        {
+          "text": "do",
+          "start_seconds": 262.153,
+          "end_seconds": 262.233,
+          "score": 0.752
+        },
+        {
+          "text": "GTA",
+          "start_seconds": 262.253,
+          "end_seconds": 262.994,
+          "score": 0.607
+        },
+        {
+          "text": "V",
+          "start_seconds": 263.014,
+          "end_seconds": 263.034,
+          "score": 0
+        },
+        {
+          "text": "era",
+          "start_seconds": 263.194,
+          "end_seconds": 263.314,
+          "score": 0.889
+        },
+        {
+          "text": "só",
+          "start_seconds": 263.354,
+          "end_seconds": 263.434,
+          "score": 0.983
+        },
+        {
+          "text": "a",
+          "start_seconds": 263.454,
+          "end_seconds": 263.474,
+          "score": 0
+        },
+        {
+          "text": "fachada.",
+          "start_seconds": 263.494,
+          "end_seconds": 264.074,
+          "score": 0.959
+        }
+      ]
+    },
+    {
+      "text": "A Rockstar diz que o mundo do GTA 6 é o mais cheio que ela já criou, com prédios que parecem reais por dentro e por fora.",
+      "start_seconds": 264.435,
+      "end_seconds": 272.586,
+      "words": [
+        {
+          "text": "A",
+          "start_seconds": 264.435,
+          "end_seconds": 264.475,
+          "score": 0.998
+        },
+        {
+          "text": "Rockstar",
+          "start_seconds": 264.535,
+          "end_seconds": 265.035,
+          "score": 0.893
+        },
+        {
+          "text": "diz",
+          "start_seconds": 265.115,
+          "end_seconds": 265.316,
+          "score": 0.91
+        },
+        {
+          "text": "que",
+          "start_seconds": 265.356,
+          "end_seconds": 265.756,
+          "score": 0.574
+        },
+        {
+          "text": "o",
+          "start_seconds": 266.177,
+          "end_seconds": 266.337,
+          "score": 0.69
+        },
+        {
+          "text": "mundo",
+          "start_seconds": 266.497,
+          "end_seconds": 266.798,
+          "score": 0.994
+        },
+        {
+          "text": "do",
+          "start_seconds": 266.838,
+          "end_seconds": 266.938,
+          "score": 0.834
+        },
+        {
+          "text": "GTA",
+          "start_seconds": 266.958,
+          "end_seconds": 267.339,
+          "score": 0.786
+        },
+        {
+          "text": "6",
+          "start_seconds": 267.519,
+          "end_seconds": 267.799,
+          "score": 0.779
+        },
+        {
+          "text": "é",
+          "start_seconds": 267.819,
+          "end_seconds": 267.879,
+          "score": 0.667
+        },
+        {
+          "text": "o",
+          "start_seconds": 267.899,
+          "end_seconds": 267.939,
+          "score": 0.5
+        },
+        {
+          "text": "mais",
+          "start_seconds": 267.999,
+          "end_seconds": 268.26,
+          "score": 0.798
+        },
+        {
+          "text": "cheio",
+          "start_seconds": 268.38,
+          "end_seconds": 268.7,
+          "score": 0.774
+        },
+        {
+          "text": "que",
+          "start_seconds": 268.741,
+          "end_seconds": 268.821,
+          "score": 0.835
+        },
+        {
+          "text": "ela",
+          "start_seconds": 268.861,
+          "end_seconds": 268.961,
+          "score": 0.694
+        },
+        {
+          "text": "já",
+          "start_seconds": 269.001,
+          "end_seconds": 269.061,
+          "score": 0.75
+        },
+        {
+          "text": "criou,",
+          "start_seconds": 269.101,
+          "end_seconds": 269.421,
+          "score": 0.598
+        },
+        {
+          "text": "com",
+          "start_seconds": 269.782,
+          "end_seconds": 269.882,
+          "score": 1
+        },
+        {
+          "text": "prédios",
+          "start_seconds": 269.962,
+          "end_seconds": 270.383,
+          "score": 0.995
+        },
+        {
+          "text": "que",
+          "start_seconds": 270.423,
+          "end_seconds": 270.523,
+          "score": 0.777
+        },
+        {
+          "text": "parecem",
+          "start_seconds": 270.583,
+          "end_seconds": 270.944,
+          "score": 0.835
+        },
+        {
+          "text": "reais",
+          "start_seconds": 271.004,
+          "end_seconds": 271.364,
+          "score": 0.987
+        },
+        {
+          "text": "por",
+          "start_seconds": 271.444,
+          "end_seconds": 271.564,
+          "score": 0.873
+        },
+        {
+          "text": "dentro",
+          "start_seconds": 271.625,
+          "end_seconds": 271.945,
+          "score": 0.859
+        },
+        {
+          "text": "e",
+          "start_seconds": 271.985,
+          "end_seconds": 272.025,
+          "score": 0.502
+        },
+        {
+          "text": "por",
+          "start_seconds": 272.065,
+          "end_seconds": 272.185,
+          "score": 0.85
+        },
+        {
+          "text": "fora.",
+          "start_seconds": 272.265,
+          "end_seconds": 272.586,
+          "score": 0.933
+        }
+      ]
+    },
+    {
+      "text": "E o mapa é quase o dobro do GTA 5, então aquela mania de ignorar os prédios vai te fazer perder muita coisa.",
+      "start_seconds": 273.107,
+      "end_seconds": 280.877,
+      "words": [
+        {
+          "text": "E",
+          "start_seconds": 273.107,
+          "end_seconds": 273.487,
+          "score": 0.923
+        },
+        {
+          "text": "o",
+          "start_seconds": 273.607,
+          "end_seconds": 273.667,
+          "score": 0.374
+        },
+        {
+          "text": "mapa",
+          "start_seconds": 273.748,
+          "end_seconds": 274.168,
+          "score": 0.9
+        },
+        {
+          "text": "é",
+          "start_seconds": 274.308,
+          "end_seconds": 274.348,
+          "score": 0.999
+        },
+        {
+          "text": "quase",
+          "start_seconds": 274.408,
+          "end_seconds": 274.669,
+          "score": 0.881
+        },
+        {
+          "text": "o",
+          "start_seconds": 274.709,
+          "end_seconds": 274.749,
+          "score": 0.523
+        },
+        {
+          "text": "dobro",
+          "start_seconds": 274.809,
+          "end_seconds": 275.129,
+          "score": 0.999
+        },
+        {
+          "text": "do",
+          "start_seconds": 275.17,
+          "end_seconds": 275.27,
+          "score": 0.473
+        },
+        {
+          "text": "GTA",
+          "start_seconds": 275.31,
+          "end_seconds": 275.75,
+          "score": 0.494
+        },
+        {
+          "text": "5,",
+          "start_seconds": 275.971,
+          "end_seconds": 276.251,
+          "score": 0.67
+        },
+        {
+          "text": "então",
+          "start_seconds": 276.652,
+          "end_seconds": 276.872,
+          "score": 0.8
+        },
+        {
+          "text": "aquela",
+          "start_seconds": 276.912,
+          "end_seconds": 277.152,
+          "score": 0.836
+        },
+        {
+          "text": "mania",
+          "start_seconds": 277.192,
+          "end_seconds": 277.513,
+          "score": 0.841
+        },
+        {
+          "text": "de",
+          "start_seconds": 277.533,
+          "end_seconds": 277.613,
+          "score": 0.995
+        },
+        {
+          "text": "ignorar",
+          "start_seconds": 277.653,
+          "end_seconds": 278.094,
+          "score": 0.906
+        },
+        {
+          "text": "os",
+          "start_seconds": 278.134,
+          "end_seconds": 278.214,
+          "score": 0.954
+        },
+        {
+          "text": "prédios",
+          "start_seconds": 278.274,
+          "end_seconds": 278.775,
+          "score": 0.9
+        },
+        {
+          "text": "vai",
+          "start_seconds": 279.215,
+          "end_seconds": 279.435,
+          "score": 0.973
+        },
+        {
+          "text": "te",
+          "start_seconds": 279.476,
+          "end_seconds": 279.576,
+          "score": 0.706
+        },
+        {
+          "text": "fazer",
+          "start_seconds": 279.636,
+          "end_seconds": 279.916,
+          "score": 0.872
+        },
+        {
+          "text": "perder",
+          "start_seconds": 279.976,
+          "end_seconds": 280.197,
+          "score": 0.854
+        },
+        {
+          "text": "muita",
+          "start_seconds": 280.257,
+          "end_seconds": 280.457,
+          "score": 0.882
+        },
+        {
+          "text": "coisa.",
+          "start_seconds": 280.537,
+          "end_seconds": 280.877,
+          "score": 0.894
+        }
+      ]
+    },
+    {
+      "text": "Pelas prévias, até as lojas podem ser assaltadas, cada uma de um jeito.",
+      "start_seconds": 280.978,
+      "end_seconds": 285.183,
+      "words": [
+        {
+          "text": "Pelas",
+          "start_seconds": 280.978,
+          "end_seconds": 281.198,
+          "score": 1
+        },
+        {
+          "text": "prévias,",
+          "start_seconds": 281.278,
+          "end_seconds": 281.899,
+          "score": 0.865
+        },
+        {
+          "text": "até",
+          "start_seconds": 282.099,
+          "end_seconds": 282.299,
+          "score": 1
+        },
+        {
+          "text": "as",
+          "start_seconds": 282.34,
+          "end_seconds": 282.42,
+          "score": 0.75
+        },
+        {
+          "text": "lojas",
+          "start_seconds": 282.48,
+          "end_seconds": 282.92,
+          "score": 0.996
+        },
+        {
+          "text": "podem",
+          "start_seconds": 283,
+          "end_seconds": 283.221,
+          "score": 0.948
+        },
+        {
+          "text": "ser",
+          "start_seconds": 283.261,
+          "end_seconds": 283.401,
+          "score": 0.738
+        },
+        {
+          "text": "assaltadas,",
+          "start_seconds": 283.421,
+          "end_seconds": 284.082,
+          "score": 0.975
+        },
+        {
+          "text": "cada",
+          "start_seconds": 284.122,
+          "end_seconds": 284.362,
+          "score": 0.834
+        },
+        {
+          "text": "uma",
+          "start_seconds": 284.462,
+          "end_seconds": 284.583,
+          "score": 0.958
+        },
+        {
+          "text": "de",
+          "start_seconds": 284.623,
+          "end_seconds": 284.683,
+          "score": 0.992
+        },
+        {
+          "text": "um",
+          "start_seconds": 284.723,
+          "end_seconds": 284.783,
+          "score": 0.75
+        },
+        {
+          "text": "jeito.",
+          "start_seconds": 284.843,
+          "end_seconds": 285.183,
+          "score": 0.893
+        }
+      ]
+    },
+    {
+      "text": "Agora cada porta pode virar uma oportunidade.",
+      "words": [
+        {
+          "text": "Agora",
+          "start_seconds": 285.624,
+          "end_seconds": 285.884,
+          "score": 0.909
+        },
+        {
+          "text": "cada",
+          "start_seconds": 285.985,
+          "end_seconds": 286.205,
+          "score": 0.849
+        },
+        {
+          "text": "porta",
+          "start_seconds": 286.325,
+          "end_seconds": 286.666,
+          "score": 0.899
+        },
+        {
+          "text": "pode",
+          "start_seconds": 286.726,
+          "end_seconds": 286.926,
+          "score": 0.96
+        },
+        {
+          "text": "virar",
+          "start_seconds": 286.966,
+          "end_seconds": 287.186,
+          "score": 0.895
+        },
+        {
+          "text": "uma",
+          "start_seconds": 287.226,
+          "end_seconds": 287.326,
+          "score": 0.999
+        },
+        {
+          "text": "oportunidade.",
+          "score": 0.908
+        }
+      ]
+    }
+  ]
+}
