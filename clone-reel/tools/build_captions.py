@@ -10,12 +10,14 @@ display = open(f'{root}/script/new-lines.txt').read().strip().split('\n')
 place = json.load(open(f'{root}/assets/voice/placement.json'))
 split = next(i for i, s in enumerate(speech) if s.startswith('E daqui em diante'))
 words_out = []  # (line, display_token, t0, t1) on the final timeline
-for part, (a, b) in ((1, (0, split)), (2, (split, len(speech)))):
+redo = set(json.load(open(f'{root}/script/redo-lines.json')))
+GROUPS = [(1, [i for i in range(0, split) if i not in redo]), (2, [i for i in range(split, len(speech)) if i not in redo]), (3, sorted(redo))]
+for part, LINES in GROUPS:
     tr = json.load(open(f'{root}/assets/voice/part{part}.transcript.json'))
     W = [w for p in tr['passages'] for w in p['words']]
     T = [norm(w['text']) for w in W]
     S, own = [], []
-    for li in range(a, b):
+    for li in LINES:
         sp, dp = speech[li].split(), display[li].split()
         assert len(sp) == len(dp), (li, sp, dp)
         for k, tok in enumerate(sp):
@@ -79,3 +81,15 @@ for ci, c in enumerate(chunks):
 open(f'{root}/assets/captions.ass', 'w').write(head + '\n'.join(ev) + '\n')
 json.dump(words_out, open(f'{root}/assets/voice/words-timeline.json', 'w'), ensure_ascii=False)
 print(len(words_out), 'words,', len(chunks), 'cues,', len(ev), 'events')
+# Keep the end card clean, as in the reference: no captions once the channel card appears.
+CUT = 465.30
+def secs(s): h, m, x = s.split(':'); return int(h) * 3600 + int(m) * 60 + float(x)
+txt = open(f'{root}/assets/captions.ass').read().split('\n')
+keep = []
+for ln in txt:
+    if ln.startswith('Dialogue:'):
+        f = ln.split(',', 9)
+        if secs(f[1]) >= CUT: continue
+        if secs(f[2]) > CUT: f[2] = ts(CUT); ln = ','.join(f)
+    keep.append(ln)
+open(f'{root}/assets/captions.ass', 'w').write('\n'.join(keep))

@@ -1,19 +1,25 @@
 # Progress
 
-- [x] Hypit 0.3.2 instalado; downloader preparado.
-- [x] Ambiente pessoal `clonar-vd` criado com Instagram liberado (www, i, scontent-ord5-2.cdninstagram.com).
-      O CDN alterna servidores (ord5-1/ord5-2); se falhar, repetir `yt-dlp -g` até cair no host liberado.
-- [x] Reel baixado: `references/reel/source.mp4` — 7m50s, 16:9. Visão geral: `references/reel/evidence/overview.jpg`.
-- Primeira leitura (overview): vídeo explicativo GTA V × GTA VI, narrado em PT-BR. Alterna gameplay
-  com etiqueta "GTA V"/"GTA VI" no canto e telas de MG roxas ("SEGUNDO AS PRÉVIAS", cards, medidores,
-  estrelas de procurado, "A POLÍCIA"), legenda curta em pílula no canto inferior esquerdo.
-- [ ] Transcrever a narração (pt) com tempos por palavra.
-- [ ] ANALYSIS.md / TIMELINE.md.
-- [ ] Reescrever o roteiro com o mesmo sentido; escolher voz no ElevenLabs; separar música da voz.
+## Entregue
+- `exports/clone-gta6-news-coringa.mp4` (470,7 s, 1280×720, 30 fps) — fora do git (grande).
+  Recriar: `tools/render.sh exports/clone-gta6-news-coringa.mp4`.
 
-## Transcrição (ElevenLabs)
-- Fluxo ElevenLabs: `eOTvTmu05SV6P5cPYtXQ` ("Clone Reel GTA – dublagem").
-- Nó de áudio: `dU41zn986so8WOG9SbHR` (reel-original-audio.mp3). Nó Scribe: `mjMuMuFMFiZR4ymPBCt5`.
-- Custo estimado: ~523 créditos. 1ª tentativa recusada ("gerações gratuitas ocupadas"), nada cobrado.
-- Próximo: rodar o Scribe de novo; salvar a transcrição em `references/reel/transcript.json`.
-- Também existe uma versão 1080p (DASH vp9) para usar na exportação final.
+## Como foi feito
+1. Reel baixado (`references/reel/source.mp4`), transcrito com WhisperX local (medium, pt).
+2. Roteiro reescrito frase a frase (`SCRIPT.md`, `script/new-lines.txt`), mantendo as palavras que
+   aparecem gravadas na imagem (hábitos, acabou, arma escondida, mais perigoso, cada porta...).
+3. Voz: ElevenLabs, voz "Jonas" (wTABSOIKENuRDeLiHYDF), eleven_flash_v2_5, fluxo eOTvTmu05SV6P5cPYtXQ.
+   part1 (2.066 cr), part2 (1.370 cr), part3 regravação de 10 frases (353 cr) + transcrição local grátis.
+4. `tools/map_lines.py` → tempos de cada frase; `tools/build_voice.py` encaixa cada frase no início
+   da frase original (deriva máx. 0,41 s; até 25% de aceleração em 21 frases).
+5. Música/efeitos originais sem a voz: Demucs htdemucs (`references/reel/stems/.../no_vocals.wav`),
+   com ducking sob a nova voz e loudnorm -14 LUFS.
+6. Legenda palavra a palavra (`tools/build_captions.py` → `assets/captions.ass`): caixa creme, texto
+   escuro em Inter Display Black, palavra falada em rosa; some no cartão final.
+7. Cartão final: "JACARÉ EXPLICA" apagado (delogo) e substituído por "NEWS CORINGA" (`assets/endcard.ass`)
+   com brilho rosa e entrada em zoom igual ao original. Narração: "Se inscreve no News Coringa".
+
+## Limitações conhecidas
+- Pastilhas e cartões gravados no vídeo original continuam com o texto original (o sentido bate com a fala).
+- Algumas frases ficaram até 25% mais rápidas para caber no tempo da cena original.
+- Ambiente de nuvem `clonar-vd` tem Instagram/Hugging Face/ElevenLabs CDN liberados.

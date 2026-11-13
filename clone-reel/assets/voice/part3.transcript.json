@@ -1,0 +1,892 @@
+{
+  "format": "hypit.transcript@1",
+  "source": "/home/user/clonar-vd/clone-reel/assets/voice/part3.mp3",
+  "language": "pt",
+  "audio_seconds": 44.954,
+  "passages": [
+    {
+      "text": "mas no dia 19 de novembro chega o GTA 6 pra quebrar quase todos esses hábitos e o último da lista é o mais perigoso porque ele pode deixar marca no seu jogo pra sempre no GTA 6 essa festa acabou o jogo quer que você pense feito um bandido de verdade a arma escondida até o momento certo agora um hábito que todo mundo tem os próximos cinco hábitos são os que mais vão te pegar no começo e o último hábito",
+      "start_seconds": 0.051,
+      "end_seconds": 26.667,
+      "words": [
+        {
+          "text": "mas",
+          "start_seconds": 0.051,
+          "end_seconds": 0.471,
+          "score": 0.833
+        },
+        {
+          "text": "no",
+          "start_seconds": 0.511,
+          "end_seconds": 0.591,
+          "score": 0.702
+        },
+        {
+          "text": "dia",
+          "start_seconds": 0.631,
+          "end_seconds": 0.771,
+          "score": 0.835
+        },
+        {
+          "text": "19",
+          "start_seconds": 1.192,
+          "end_seconds": 1.272,
+          "score": 0.75
+        },
+        {
+          "text": "de",
+          "start_seconds": 1.292,
+          "end_seconds": 1.372,
+          "score": 0.75
+        },
+        {
+          "text": "novembro",
+          "start_seconds": 1.392,
+          "end_seconds": 1.892,
+          "score": 0.872
+        },
+        {
+          "text": "chega",
+          "start_seconds": 1.972,
+          "end_seconds": 2.172,
+          "score": 0.85
+        },
+        {
+          "text": "o",
+          "start_seconds": 2.232,
+          "end_seconds": 2.252,
+          "score": 1
+        },
+        {
+          "text": "GTA",
+          "start_seconds": 2.292,
+          "end_seconds": 2.553,
+          "score": 0.74
+        },
+        {
+          "text": "6",
+          "start_seconds": 2.593,
+          "end_seconds": 2.933,
+          "score": 0.7
+        },
+        {
+          "text": "pra",
+          "start_seconds": 2.973,
+          "end_seconds": 3.073,
+          "score": 0.703
+        },
+        {
+          "text": "quebrar",
+          "start_seconds": 3.093,
+          "end_seconds": 3.353,
+          "score": 0.873
+        },
+        {
+          "text": "quase",
+          "start_seconds": 3.413,
+          "end_seconds": 3.633,
+          "score": 0.836
+        },
+        {
+          "text": "todos",
+          "start_seconds": 3.693,
+          "end_seconds": 3.893,
+          "score": 0.903
+        },
+        {
+          "text": "esses",
+          "start_seconds": 3.933,
+          "end_seconds": 4.153,
+          "score": 0.926
+        },
+        {
+          "text": "hábitos",
+          "start_seconds": 4.214,
+          "end_seconds": 4.754,
+          "score": 0.991
+        },
+        {
+          "text": "e",
+          "start_seconds": 5.174,
+          "end_seconds": 5.354,
+          "score": 0.889
+        },
+        {
+          "text": "o",
+          "start_seconds": 5.414,
+          "end_seconds": 5.454,
+          "score": 0.736
+        },
+        {
+          "text": "último",
+          "start_seconds": 5.694,
+          "end_seconds": 6.015,
+          "score": 0.874
+        },
+        {
+          "text": "da",
+          "start_seconds": 6.055,
+          "end_seconds": 6.135,
+          "score": 0.998
+        },
+        {
+          "text": "lista",
+          "start_seconds": 6.175,
+          "end_seconds": 6.435,
+          "score": 0.999
+        },
+        {
+          "text": "é",
+          "start_seconds": 6.455,
+          "end_seconds": 6.495,
+          "score": 0.959
+        },
+        {
+          "text": "o",
+          "start_seconds": 6.535,
+          "end_seconds": 6.555,
+          "score": 0.999
+        },
+        {
+          "text": "mais",
+          "start_seconds": 6.595,
+          "end_seconds": 6.775,
+          "score": 0.904
+        },
+        {
+          "text": "perigoso",
+          "start_seconds": 6.815,
+          "end_seconds": 7.195,
+          "score": 0.944
+        },
+        {
+          "text": "porque",
+          "start_seconds": 7.235,
+          "end_seconds": 7.435,
+          "score": 0.83
+        },
+        {
+          "text": "ele",
+          "start_seconds": 7.475,
+          "end_seconds": 7.576,
+          "score": 0.967
+        },
+        {
+          "text": "pode",
+          "start_seconds": 7.616,
+          "end_seconds": 7.796,
+          "score": 0.858
+        },
+        {
+          "text": "deixar",
+          "start_seconds": 7.816,
+          "end_seconds": 8.036,
+          "score": 0.872
+        },
+        {
+          "text": "marca",
+          "start_seconds": 8.096,
+          "end_seconds": 8.396,
+          "score": 0.825
+        },
+        {
+          "text": "no",
+          "start_seconds": 8.416,
+          "end_seconds": 8.496,
+          "score": 0.728
+        },
+        {
+          "text": "seu",
+          "start_seconds": 8.516,
+          "end_seconds": 8.656,
+          "score": 0.643
+        },
+        {
+          "text": "jogo",
+          "start_seconds": 8.676,
+          "end_seconds": 8.856,
+          "score": 0.942
+        },
+        {
+          "text": "pra",
+          "start_seconds": 8.876,
+          "end_seconds": 8.996,
+          "score": 0.636
+        },
+        {
+          "text": "sempre",
+          "start_seconds": 9.076,
+          "end_seconds": 9.417,
+          "score": 0.927
+        },
+        {
+          "text": "no",
+          "start_seconds": 10.037,
+          "end_seconds": 10.337,
+          "score": 0.954
+        },
+        {
+          "text": "GTA",
+          "start_seconds": 10.497,
+          "end_seconds": 11.198,
+          "score": 0.907
+        },
+        {
+          "text": "6",
+          "start_seconds": 11.718,
+          "end_seconds": 11.758,
+          "score": 0.509
+        },
+        {
+          "text": "essa",
+          "start_seconds": 12.058,
+          "end_seconds": 12.238,
+          "score": 0.878
+        },
+        {
+          "text": "festa",
+          "start_seconds": 12.338,
+          "end_seconds": 12.659,
+          "score": 0.871
+        },
+        {
+          "text": "acabou",
+          "start_seconds": 12.699,
+          "end_seconds": 13.119,
+          "score": 0.93
+        },
+        {
+          "text": "o",
+          "start_seconds": 13.479,
+          "end_seconds": 13.519,
+          "score": 0.934
+        },
+        {
+          "text": "jogo",
+          "start_seconds": 13.579,
+          "end_seconds": 13.779,
+          "score": 1
+        },
+        {
+          "text": "quer",
+          "start_seconds": 13.819,
+          "end_seconds": 13.959,
+          "score": 0.633
+        },
+        {
+          "text": "que",
+          "start_seconds": 13.979,
+          "end_seconds": 14.079,
+          "score": 0.69
+        },
+        {
+          "text": "você",
+          "start_seconds": 14.099,
+          "end_seconds": 14.32,
+          "score": 0.878
+        },
+        {
+          "text": "pense",
+          "start_seconds": 14.44,
+          "end_seconds": 14.74,
+          "score": 0.9
+        },
+        {
+          "text": "feito",
+          "start_seconds": 14.8,
+          "end_seconds": 14.98,
+          "score": 0.93
+        },
+        {
+          "text": "um",
+          "start_seconds": 15,
+          "end_seconds": 15.06,
+          "score": 0.753
+        },
+        {
+          "text": "bandido",
+          "start_seconds": 15.12,
+          "end_seconds": 15.64,
+          "score": 0.928
+        },
+        {
+          "text": "de",
+          "start_seconds": 15.66,
+          "end_seconds": 15.72,
+          "score": 1
+        },
+        {
+          "text": "verdade",
+          "start_seconds": 15.76,
+          "end_seconds": 16.241,
+          "score": 0.986
+        },
+        {
+          "text": "a",
+          "start_seconds": 16.261,
+          "end_seconds": 16.281,
+          "score": 0
+        },
+        {
+          "text": "arma",
+          "start_seconds": 16.581,
+          "end_seconds": 16.861,
+          "score": 0.948
+        },
+        {
+          "text": "escondida",
+          "start_seconds": 16.881,
+          "end_seconds": 17.261,
+          "score": 0.599
+        },
+        {
+          "text": "até",
+          "start_seconds": 17.281,
+          "end_seconds": 17.541,
+          "score": 0.888
+        },
+        {
+          "text": "o",
+          "start_seconds": 17.582,
+          "end_seconds": 17.622,
+          "score": 0.498
+        },
+        {
+          "text": "momento",
+          "start_seconds": 17.642,
+          "end_seconds": 18.022,
+          "score": 0.939
+        },
+        {
+          "text": "certo",
+          "start_seconds": 18.082,
+          "end_seconds": 18.442,
+          "score": 0.933
+        },
+        {
+          "text": "agora",
+          "start_seconds": 19.142,
+          "end_seconds": 19.563,
+          "score": 0.865
+        },
+        {
+          "text": "um",
+          "start_seconds": 19.683,
+          "end_seconds": 19.783,
+          "score": 0.75
+        },
+        {
+          "text": "hábito",
+          "start_seconds": 19.883,
+          "end_seconds": 20.303,
+          "score": 0.83
+        },
+        {
+          "text": "que",
+          "start_seconds": 20.343,
+          "end_seconds": 20.443,
+          "score": 0.93
+        },
+        {
+          "text": "todo",
+          "start_seconds": 20.563,
+          "end_seconds": 20.763,
+          "score": 0.875
+        },
+        {
+          "text": "mundo",
+          "start_seconds": 20.803,
+          "end_seconds": 20.984,
+          "score": 0.957
+        },
+        {
+          "text": "tem",
+          "start_seconds": 21.084,
+          "end_seconds": 21.324,
+          "score": 0.781
+        },
+        {
+          "text": "os",
+          "start_seconds": 21.684,
+          "end_seconds": 21.804,
+          "score": 0.75
+        },
+        {
+          "text": "próximos",
+          "start_seconds": 21.884,
+          "end_seconds": 22.304,
+          "score": 0.934
+        },
+        {
+          "text": "cinco",
+          "start_seconds": 22.404,
+          "end_seconds": 22.705,
+          "score": 0.859
+        },
+        {
+          "text": "hábitos",
+          "start_seconds": 22.765,
+          "end_seconds": 23.105,
+          "score": 0.729
+        },
+        {
+          "text": "são",
+          "start_seconds": 23.165,
+          "end_seconds": 23.285,
+          "score": 0.618
+        },
+        {
+          "text": "os",
+          "start_seconds": 23.325,
+          "end_seconds": 23.405,
+          "score": 0.979
+        },
+        {
+          "text": "que",
+          "start_seconds": 23.445,
+          "end_seconds": 23.545,
+          "score": 0.78
+        },
+        {
+          "text": "mais",
+          "start_seconds": 23.645,
+          "end_seconds": 23.905,
+          "score": 0.949
+        },
+        {
+          "text": "vão",
+          "start_seconds": 23.945,
+          "end_seconds": 24.025,
+          "score": 0.518
+        },
+        {
+          "text": "te",
+          "start_seconds": 24.065,
+          "end_seconds": 24.125,
+          "score": 0.982
+        },
+        {
+          "text": "pegar",
+          "start_seconds": 24.185,
+          "end_seconds": 24.446,
+          "score": 0.833
+        },
+        {
+          "text": "no",
+          "start_seconds": 24.486,
+          "end_seconds": 24.546,
+          "score": 0.944
+        },
+        {
+          "text": "começo",
+          "start_seconds": 24.586,
+          "end_seconds": 25.066,
+          "score": 0.986
+        },
+        {
+          "text": "e",
+          "start_seconds": 25.466,
+          "end_seconds": 25.606,
+          "score": 0.857
+        },
+        {
+          "text": "o",
+          "start_seconds": 25.746,
+          "end_seconds": 25.806,
+          "score": 0.666
+        },
+        {
+          "text": "último",
+          "start_seconds": 25.947,
+          "end_seconds": 26.247,
+          "score": 0.926
+        },
+        {
+          "text": "hábito",
+          "start_seconds": 26.327,
+          "end_seconds": 26.667,
+          "score": 0.94
+        }
+      ]
+    },
+    {
+      "text": "O que pode marcar o seu jogo para sempre, sair matando todo mundo.",
+      "start_seconds": 27.189,
+      "end_seconds": 30.476,
+      "words": [
+        {
+          "text": "O",
+          "start_seconds": 27.189,
+          "end_seconds": 27.229,
+          "score": 0.505
+        },
+        {
+          "text": "que",
+          "start_seconds": 27.269,
+          "end_seconds": 27.369,
+          "score": 0.812
+        },
+        {
+          "text": "pode",
+          "start_seconds": 27.43,
+          "end_seconds": 27.65,
+          "score": 0.882
+        },
+        {
+          "text": "marcar",
+          "start_seconds": 27.69,
+          "end_seconds": 28.051,
+          "score": 0.864
+        },
+        {
+          "text": "o",
+          "start_seconds": 28.071,
+          "end_seconds": 28.131,
+          "score": 0.358
+        },
+        {
+          "text": "seu",
+          "start_seconds": 28.171,
+          "end_seconds": 28.292,
+          "score": 0.703
+        },
+        {
+          "text": "jogo",
+          "start_seconds": 28.332,
+          "end_seconds": 28.552,
+          "score": 1
+        },
+        {
+          "text": "para",
+          "start_seconds": 28.592,
+          "end_seconds": 28.713,
+          "score": 0.751
+        },
+        {
+          "text": "sempre,",
+          "start_seconds": 28.793,
+          "end_seconds": 29.133,
+          "score": 0.865
+        },
+        {
+          "text": "sair",
+          "start_seconds": 29.354,
+          "end_seconds": 29.554,
+          "score": 0.834
+        },
+        {
+          "text": "matando",
+          "start_seconds": 29.594,
+          "end_seconds": 29.935,
+          "score": 0.923
+        },
+        {
+          "text": "todo",
+          "start_seconds": 29.995,
+          "end_seconds": 30.156,
+          "score": 0.915
+        },
+        {
+          "text": "mundo.",
+          "start_seconds": 30.216,
+          "end_seconds": 30.476,
+          "score": 0.999
+        }
+      ]
+    },
+    {
+      "text": "Então é isso, 15 hábitos do GT.",
+      "start_seconds": 30.917,
+      "end_seconds": 32.722,
+      "words": [
+        {
+          "text": "Então",
+          "start_seconds": 30.917,
+          "end_seconds": 31.178,
+          "score": 0.856
+        },
+        {
+          "text": "é",
+          "start_seconds": 31.218,
+          "end_seconds": 31.258,
+          "score": 1
+        },
+        {
+          "text": "isso,",
+          "start_seconds": 31.338,
+          "end_seconds": 31.539,
+          "score": 0.96
+        },
+        {
+          "text": "15",
+          "start_seconds": 31.599,
+          "end_seconds": 31.88,
+          "score": 0.564
+        },
+        {
+          "text": "hábitos",
+          "start_seconds": 31.96,
+          "end_seconds": 32.281,
+          "score": 0.861
+        },
+        {
+          "text": "do",
+          "start_seconds": 32.321,
+          "end_seconds": 32.381,
+          "score": 0.995
+        },
+        {
+          "text": "GT.",
+          "start_seconds": 32.421,
+          "end_seconds": 32.722,
+          "score": 0.795
+        }
+      ]
+    },
+    {
+      "text": "Há 5 que o GT A6 vai cobrar caro.",
+      "start_seconds": 32.742,
+      "end_seconds": 35.808,
+      "words": [
+        {
+          "text": "Há",
+          "start_seconds": 32.742,
+          "end_seconds": 33.283,
+          "score": 0.722
+        },
+        {
+          "text": "5",
+          "start_seconds": 33.724,
+          "end_seconds": 33.764,
+          "score": 0.501
+        },
+        {
+          "text": "que",
+          "start_seconds": 33.824,
+          "end_seconds": 33.924,
+          "score": 0.794
+        },
+        {
+          "text": "o",
+          "start_seconds": 33.964,
+          "end_seconds": 34.024,
+          "score": 0.619
+        },
+        {
+          "text": "GT",
+          "start_seconds": 34.044,
+          "end_seconds": 34.265,
+          "score": 0.693
+        },
+        {
+          "text": "A6",
+          "start_seconds": 34.305,
+          "end_seconds": 34.806,
+          "score": 0.653
+        },
+        {
+          "text": "vai",
+          "start_seconds": 34.886,
+          "end_seconds": 35.007,
+          "score": 0.834
+        },
+        {
+          "text": "cobrar",
+          "start_seconds": 35.047,
+          "end_seconds": 35.367,
+          "score": 0.911
+        },
+        {
+          "text": "caro.",
+          "start_seconds": 35.448,
+          "end_seconds": 35.808,
+          "score": 0.997
+        }
+      ]
+    },
+    {
+      "text": "Agora me fala nos comentários, qual desses hábitos vai ser o mais difícil de largar?",
+      "start_seconds": 36.39,
+      "end_seconds": 40.319,
+      "words": [
+        {
+          "text": "Agora",
+          "start_seconds": 36.39,
+          "end_seconds": 36.63,
+          "score": 0.901
+        },
+        {
+          "text": "me",
+          "start_seconds": 36.65,
+          "end_seconds": 36.731,
+          "score": 0.802
+        },
+        {
+          "text": "fala",
+          "start_seconds": 36.771,
+          "end_seconds": 36.971,
+          "score": 0.96
+        },
+        {
+          "text": "nos",
+          "start_seconds": 36.991,
+          "end_seconds": 37.111,
+          "score": 0.885
+        },
+        {
+          "text": "comentários,",
+          "start_seconds": 37.151,
+          "end_seconds": 37.793,
+          "score": 0.932
+        },
+        {
+          "text": "qual",
+          "start_seconds": 37.853,
+          "end_seconds": 38.033,
+          "score": 0.663
+        },
+        {
+          "text": "desses",
+          "start_seconds": 38.053,
+          "end_seconds": 38.334,
+          "score": 0.904
+        },
+        {
+          "text": "hábitos",
+          "start_seconds": 38.394,
+          "end_seconds": 38.755,
+          "score": 0.888
+        },
+        {
+          "text": "vai",
+          "start_seconds": 38.775,
+          "end_seconds": 38.875,
+          "score": 1
+        },
+        {
+          "text": "ser",
+          "start_seconds": 38.935,
+          "end_seconds": 39.056,
+          "score": 0.852
+        },
+        {
+          "text": "o",
+          "start_seconds": 39.096,
+          "end_seconds": 39.116,
+          "score": 1
+        },
+        {
+          "text": "mais",
+          "start_seconds": 39.176,
+          "end_seconds": 39.376,
+          "score": 0.833
+        },
+        {
+          "text": "difícil",
+          "start_seconds": 39.396,
+          "end_seconds": 39.817,
+          "score": 0.928
+        },
+        {
+          "text": "de",
+          "start_seconds": 39.858,
+          "end_seconds": 39.918,
+          "score": 1
+        },
+        {
+          "text": "largar?",
+          "start_seconds": 39.958,
+          "end_seconds": 40.319,
+          "score": 0.974
+        }
+      ]
+    },
+    {
+      "text": "Se inscreve no Nils Coringa, porque até o lançamento tem vídeo novo todo dia.",
+      "words": [
+        {
+          "text": "Se",
+          "start_seconds": 40.8,
+          "end_seconds": 40.96,
+          "score": 0.8
+        },
+        {
+          "text": "inscreve",
+          "start_seconds": 40.98,
+          "end_seconds": 41.461,
+          "score": 0.73
+        },
+        {
+          "text": "no",
+          "start_seconds": 41.501,
+          "end_seconds": 41.581,
+          "score": 0.752
+        },
+        {
+          "text": "Nils",
+          "start_seconds": 41.642,
+          "end_seconds": 41.862,
+          "score": 0.96
+        },
+        {
+          "text": "Coringa,",
+          "start_seconds": 41.902,
+          "end_seconds": 42.303,
+          "score": 0.893
+        },
+        {
+          "text": "porque",
+          "start_seconds": 42.363,
+          "end_seconds": 42.604,
+          "score": 0.844
+        },
+        {
+          "text": "até",
+          "start_seconds": 42.644,
+          "end_seconds": 42.844,
+          "score": 0.918
+        },
+        {
+          "text": "o",
+          "start_seconds": 42.884,
+          "end_seconds": 42.924,
+          "score": 0.508
+        },
+        {
+          "text": "lançamento",
+          "start_seconds": 42.944,
+          "end_seconds": 43.486,
+          "score": 0.97
+        },
+        {
+          "text": "tem",
+          "start_seconds": 43.526,
+          "end_seconds": 43.666,
+          "score": 0.79
+        },
+        {
+          "text": "vídeo",
+          "start_seconds": 43.706,
+          "end_seconds": 43.907,
+          "score": 0.935
+        },
+        {
+          "text": "novo",
+          "start_seconds": 43.967,
+          "end_seconds": 44.207,
+          "score": 0.875
+        },
+        {
+          "text": "todo",
+          "start_seconds": 44.267,
+          "end_seconds": 44.448,
+          "score": 0.834
+        },
+        {
+          "text": "dia.",
+          "score": 0.985
+        }
+      ]
+    }
+  ]
+}
