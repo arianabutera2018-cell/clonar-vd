@@ -157,7 +157,7 @@ def main():
     graph = ";".join(chain) + f";{last}" + ",".join(over) + "[v]"
     run(["ffmpeg", "-hide_banner", "-loglevel", "error", "-y", *inputs, "-i", o.audio,
          "-filter_complex", graph + f";[{len(clips)}:a]afade=t=out:st={audio_len - 1.5}:d=1.5[a]",
-         "-map", "[v]", "-map", "[a]", "-c:v", "libx264", "-preset", "medium", "-crf", "20",
+         "-map", "[v]", "-map", "[a]", "-c:v", "libx264", "-pix_fmt", "yuv420p", "-profile:v", "high", "-preset", "medium", "-crf", "20",
          "-c:a", "aac", "-b:a", "192k", "-movflags", "+faststart", o.out])
     print("ok ->", o.out, f"({dur(o.out):.1f}s)")
 
