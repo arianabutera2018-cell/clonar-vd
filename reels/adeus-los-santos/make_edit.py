@@ -100,7 +100,10 @@ def main():
     clips = []
     for i, (a, b) in enumerate(SHOTS):
         p = os.path.join(o.work, f"shot_{i:02d}.mp4")
-        render_shot(o.trailer, a, b, seg + XF, p)
+        if not os.path.exists(p):              # reaproveita cenas já renderizadas
+            tmp = p + ".part.mp4"
+            render_shot(o.trailer, a, b, seg + XF, tmp)
+            os.replace(tmp, p)
         clips.append(p)
         print(f"cena {i + 1}/{n} ok")
 
