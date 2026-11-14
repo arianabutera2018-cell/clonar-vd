@@ -129,11 +129,15 @@ def main():
     inputs, chain, last, offset = [], [], "[0:v]", 0.0
     for i, c in enumerate(clips):
         inputs += ["-i", c]
-    lengths = [dur(c) for c in clips]
+    # cada cena dura exatamente `seg`, para o vídeo acompanhar o áudio
+    for i in range(len(clips) - 1):
+        chain.append(f"[{i}:v]trim=duration={seg:.3f},setpts=PTS-STARTPTS[s{i}]")
+    chain.append(f"[{len(clips) - 1}:v]setpts=PTS-STARTPTS[s{len(clips) - 1}]")
+    last = "[s0]"
     for i in range(1, len(clips)):
-        offset += lengths[i - 1] - XF
+        offset += seg - XF
         lbl = f"[x{i}]"
-        chain.append(f"{last}[{i}:v]xfade=transition=fade:duration={XF}:offset={offset:.3f}{lbl}")
+        chain.append(f"{last}[s{i}]xfade=transition=fade:duration={XF}:offset={offset:.3f}{lbl}")
         last = lbl
 
     # título fixo + legendas
@@ -147,7 +151,7 @@ def main():
         tf = os.path.join(o.work, f"sub_{i:02d}.txt")
         open(tf, "w", encoding="utf-8").write(wrap(text))
         over.append(
-            f"drawtext=fontfile={FONT}:textfile={tf}:fontsize=54:fontcolor=white:line_spacing=12:"
+            f"drawtext=fontfile={FONT}:textfile={tf}:fontsize=54:fontcolor=white:line_spacing=12:text_align=C:"
             f"borderw=5:bordercolor=black@0.85:x=(w-tw)/2:y=1300:enable='between(t,{a},{z})'"
         )
     graph = ";".join(chain) + f";{last}" + ",".join(over) + "[v]"
