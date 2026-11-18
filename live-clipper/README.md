@@ -7,7 +7,8 @@ Grava uma live, detecta momentos com potencial viral e gera clipes verticais (9:
 1. **Gravação**: `streamlink` (Twitch/Kick, pulando anúncios) ou `yt-dlp` (outros sites) grava em blocos de 10 s.
 2. **Detecção** (a cada bloco):
    - salto de volume em relação aos últimos 10 min (grito, explosão, música alta);
-   - fala transcrita com Whisper: reações em PT-BR ("meu deus", "não acredito", "caralho", "clipa"...), repetição ("não não não") e fala acelerada.
+   - fala transcrita com Whisper: reações em PT-BR ("meu deus", "não acredito", "caralho", "clipa"...), repetição ("não não não") e fala acelerada;
+   - chat (Twitch e Kick, lido por HTTP): pico de mensagens em relação ao normal e reações (KKKK, CLIPA, ????, KEKW, POG, MDS...).
 3. **Clipe**: quando a nota passa do limite, junta 30 s antes + 20 s depois e gera:
    - `original.mp4` (horizontal);
    - `vertical_legendado.mp4` (1080x1920, fundo desfocado, legenda palavra por palavra);
@@ -30,5 +31,5 @@ python3 revisar.py live_out 3 ALTA "comentário"
 
 - Testado com sucesso em **Twitch** e **Kick** (18/11/2026).
 - O **YouTube** bloqueia downloads vindos de servidores (pede login). Funciona com Twitch e Kick.
-- O **chat** não é lido: o ambiente na nuvem não permite WebSocket.
+- Chat da Kick: a API devolve só as últimas ~25 mensagens; em chats muito rápidos o pico aparece, mas o número exato fica abaixo do real.
 - Em lives com muitos momentos seguidos, a análise pode atrasar alguns minutos.

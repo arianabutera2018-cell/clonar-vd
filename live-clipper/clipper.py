@@ -13,6 +13,9 @@ from datetime import datetime
 
 import numpy as np
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from chat import ChatMonitor
+
 SEG = 10            # segundos por segmento gravado
 PRE = 30            # segundos antes do pico incluídos no clipe
 POST = 20           # segundos depois do pico
@@ -68,6 +71,8 @@ class Clipper:
         self.n_clips = len([d for d in os.listdir(self.clipdir) if d[:3].isdigit()])
         self.render = ThreadPoolExecutor(1)
         self.rec = None
+        self.chat = ChatMonitor(url, log).start()
+        self.chat_hist = deque(maxlen=60)       # msgs/seg do chat por segmento
 
     # ---------- gravação ----------
     def start_recorder(self):
@@ -113,6 +118,18 @@ class Clipper:
         rep = re.findall(r"\b(\w+)( \1){2,}\b", nt)
         if rep: score += 2; reasons.append("repetição (" + rep[0][0] + "...)")
         if text.count("!") >= 2: score += 1
+        # chat: reage com atraso (latência da live), então olha de 12s antes a 6s depois do fim do bloco
+        if self.chat.ok:
+            end = os.path.getmtime(self.seg_path(i)); t1 = min(time.time(), end + 6)
+            n, pts, kinds = self.chat.window(end - 12, t1); rate = n / max(t1 - (end - 12), 1)
+            if len(self.chat_hist) >= 6:
+                base = max(np.median(self.chat_hist), 0.2); ratio = rate / base
+                if ratio > 1.8: score += min((ratio - 1.8) * 2 + 1, 5); reasons.append(f"chat {ratio:.1f}x mais rápido")
+            frac = pts / n if n else 0
+            if n >= 5 and frac > 0.3:
+                score += min(frac * 5, 4)
+                reasons.append("chat: " + ", ".join(f"{k} x{v}" for k, v in sorted(kinds.items(), key=lambda x: -x[1])[:3]))
+            self.chat_hist.append(rate)
         self.loud_hist.append(peak); self.wps_hist.append(wps)
         self.seginfo[i] = dict(score=score, reasons=reasons, text=text, peak=peak)
         log(f"seg {i} {fmt_t(i*SEG)} nota={score:.1f} {'; '.join(reasons)} | {text[:70]}")
