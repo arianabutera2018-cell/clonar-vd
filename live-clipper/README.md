@@ -28,6 +28,7 @@ python3 revisar.py live_out 3 ALTA "comentário"
 
 ## Limitações
 
+- Testado com sucesso em **Twitch** e **Kick** (18/11/2026).
 - O **YouTube** bloqueia downloads vindos de servidores (pede login). Funciona com Twitch e Kick.
 - O **chat** não é lido: o ambiente na nuvem não permite WebSocket.
 - Em lives com muitos momentos seguidos, a análise pode atrasar alguns minutos.

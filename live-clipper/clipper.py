@@ -144,8 +144,8 @@ class Clipper:
         ass = os.path.join(d, "legenda.ass"); self.write_ass(words, ass)
         with open(os.path.join(d, "fala.txt"), "w") as f: f.write(full + "\n")
         vert = os.path.join(d, "vertical_legendado.mp4")
-        vf = ("[0:v]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,boxblur=25:2,eq=brightness=-0.08[bg];"
-              "[0:v]scale=1080:-2[fg];[bg][fg]overlay=(W-w)/2:(H-h)/2-120,"
+        vf = ("[0:v]fps=30,split[a][b];[a]scale=270:480:force_original_aspect_ratio=increase,crop=270:480,boxblur=10:1,eq=brightness=-0.08,scale=1080:1920[bg];"
+              "[b]scale=1080:-2[fg];[bg][fg]overlay=(W-w)/2:(H-h)/2-120,"
               f"subtitles='{ass}'")
         subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-i", orig, "-filter_complex", vf,
                         "-threads", "2", "-c:v", "libx264", "-preset", "veryfast", "-crf", "22", "-c:a", "copy",
