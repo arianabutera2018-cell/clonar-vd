@@ -31,7 +31,7 @@ python3 revisar.py live_out 3 vertical           # (re)gera o 9:16 câmera em ci
 ## Preferências do usuário (seguir sempre)
 
 - **Só clipes de gameplay do jogo** (ex.: GTA 6). Momentos fora do jogo (convidados, entrevistas, cozinha, conversa IRL) = DESCARTAR, mesmo com o chat rindo.
-- **Entregar só 9:16** câmera em cima / jogo embaixo (`vertical_9x16.mp4`), sem legenda; nunca 16:9.
+- **Entregar só 9:16** câmera em cima / jogo embaixo (`vertical_9x16.mp4`), 1080x1920, H.264, **60 fps** (gameplay), sem legenda; nunca 16:9.
 - Clipe nunca cortado no meio do assunto (pode passar de 1 min); juntar cenas divididas em vários clipes.
 - Avisar quando houver nudez (borrar) ou muita cutscene (risco de Content ID).
 
