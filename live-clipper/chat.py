@@ -74,7 +74,7 @@ class ChatMonitor:
             self._add(m["id"], ts, m.get("content", ""))
 
     def _loop(self):
-        poll, every = (self._poll_twitch, 4) if self.platform == "twitch" else (self._poll_kick, 2)
+        poll, every = (self._poll_twitch, 4) if self.platform == "twitch" else (self._poll_kick, 5)
         errs = 0
         while True:
             try:
