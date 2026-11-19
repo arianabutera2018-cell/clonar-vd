@@ -24,15 +24,21 @@ python3 clipper.py https://www.twitch.tv/CANAL --out live_out --threshold 5
 python3 revisar.py live_out              # lista clipes não revisados e gera folhas
 python3 revisar.py live_out 3 ALTA "comentário"
 python3 revisar.py live_out 3 vertical           # (re)gera o 9:16 câmera em cima
-python3 revisar.py live_out 3 vertical cheia     # 9:16 de cena sem gameplay
 ```
 
 `--threshold`: menor = mais clipes. 5 é o padrão; use 3–4 para lives calmas e 6–7 se vier clipe demais.
 
+## Preferências do usuário (seguir sempre)
+
+- **Só clipes de gameplay do jogo** (ex.: GTA 6). Momentos fora do jogo (convidados, entrevistas, cozinha, conversa IRL) = DESCARTAR, mesmo com o chat rindo.
+- **Entregar só 9:16** câmera em cima / jogo embaixo (`vertical_9x16.mp4`), sem legenda; nunca 16:9.
+- Clipe nunca cortado no meio do assunto (pode passar de 1 min); juntar cenas divididas em vários clipes.
+- Avisar quando houver nudez (borrar) ou muita cutscene (risco de Content ID).
+
 ## Limitações
 
 - Testado com sucesso em **Twitch** e **Kick** (18/11/2026).
-- **Entrega: só 9:16** (`vertical_9x16.mp4`), nunca 16:9. Facecam padrão do Coringa: `--cam 480:270:0:405`; ajuste se o streamer usar outra posição. Em cenas fora do jogo (câmera em tela cheia) use `python3 revisar.py live_out N vertical cheia` (recorte central).
+- **Entrega: só 9:16** (`vertical_9x16.mp4`), nunca 16:9. Facecam padrão do Coringa: `--cam 480:270:0:405`; ajuste se o streamer usar outra posição.
 - Depois de estender/refazer um clipe, rode `python3 revisar.py live_out N vertical` de novo.
 - O **YouTube** bloqueia downloads vindos de servidores (pede login). Funciona com Twitch e Kick.
 - Chat da Kick: a API devolve só as últimas ~25 mensagens; em chats muito rápidos o pico aparece, mas o número exato fica abaixo do real.
