@@ -51,8 +51,8 @@ def fmt_t(sec):
 
 
 class Clipper:
-    def __init__(self, url, out, model_name, quality):
-        self.url, self.out, self.quality = url, out, quality
+    def __init__(self, url, out, model_name, quality, vertical=False):
+        self.url, self.out, self.quality, self.vertical = url, out, quality, vertical
         self.segdir = os.path.join(out, "_segments"); self.clipdir = os.path.join(out, "clips")
         os.makedirs(self.segdir, exist_ok=True); os.makedirs(self.clipdir, exist_ok=True)
         self.report = os.path.join(out, "RELATORIO.md")
@@ -81,7 +81,7 @@ class Clipper:
         self.rec_start = start
         if re.search(r"twitch\.tv|kick\.com", self.url):
             src = (f"streamlink --twitch-disable-ads --stdout --retry-streams 10 --retry-open 5 "
-                   f"'{self.url}' 720p60,720p,best 2>>'{self.out}/gravador.log'")
+                   f"'{self.url}' 1080p60,1080p,720p60,best 2>>'{self.out}/gravador.log'")
         else:
             src = f"yt-dlp --no-warnings -q --no-part -f '{self.quality}' -o - '{self.url}'"
         cmd = (f"{src} | ffmpeg -loglevel error -fflags +genpts+discardcorrupt -i - -c copy -f segment "
@@ -149,11 +149,21 @@ class Clipper:
             for k in range(first, last + 1):
                 if os.path.exists(self.seg_path(k)): f.write(f"file '{os.path.abspath(self.seg_path(k))}'\n")
         orig = os.path.join(d, "original.mp4")
-        subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-f", "concat", "-safe", "0", "-i", lst,
-                        "-threads", "2", "-c:v", "libx264", "-preset", "veryfast", "-crf", "21", "-c:a", "aac", "-b:a", "160k",
+        if self.vertical:
+            enc = ["-threads", "2", "-c:v", "libx264", "-preset", "veryfast", "-crf", "21", "-c:a", "aac", "-b:a", "160k"]
+        else:   # 16:9 na qualidade original da live, sem recodificar
+            enc = ["-c", "copy", "-bsf:a", "aac_adtstoasc"]
+        subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-f", "concat", "-safe", "0", "-i", lst, *enc,
                         "-movflags", "+faststart", orig])
         os.remove(lst)
-        # legendas com tempo por palavra
+        if not self.vertical:
+            full = " ".join(self.seginfo.get(k, {}).get("text", "") for k in range(first, last + 1)).strip()
+            with open(os.path.join(d, "fala.txt"), "w", encoding="utf-8") as f: f.write(full + "\n")
+        else:
+            full = self.subtitle(d, orig)
+        self.finish_clip(n, d, orig, tlive, total, info, full)
+
+    def subtitle(self, d, orig):
         a = self.audio(orig)
         with self.wlock:
             segs, _ = self.whisper.transcribe(a, language="pt", word_timestamps=True, vad_filter=True,
@@ -161,6 +171,9 @@ class Clipper:
             words = [dict(w=w.word.strip(), s=w.start, e=w.end) for s in segs for w in (s.words or [])]
         full = legendas.build_subs(d, legendas.fix_words(words))
         legendas.render_vertical(d)
+        return full
+
+    def finish_clip(self, n, d, orig, tlive, total, info, full):
         subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-ss", str(PRE), "-i", orig, "-frames:v", "1",
                         "-vf", "scale=640:-2", os.path.join(d, "capa.jpg")])
         chance = "ALTA" if total >= 12 or info["score"] >= 9 else ("MÉDIA" if total >= 7 else "INCERTA")
@@ -223,5 +236,6 @@ if __name__ == "__main__":
     p.add_argument("url"); p.add_argument("--out", default="live_out")
     p.add_argument("--model", default="small"); p.add_argument("--threshold", type=float, default=5.0)
     p.add_argument("--quality", default="best[height<=720]/best")
+    p.add_argument("--vertical", action="store_true", help="gera também versão 9:16 legendada")
     a = p.parse_args()
-    Clipper(a.url, a.out, a.model, a.quality).run(a.threshold)
+    Clipper(a.url, a.out, a.model, a.quality, a.vertical).run(a.threshold)
