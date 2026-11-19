@@ -15,6 +15,7 @@ import numpy as np
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from chat import ChatMonitor
+import legendas
 
 SEG = 10            # segundos por segmento gravado
 PRE = 30            # segundos antes do pico incluídos no clipe
@@ -102,7 +103,7 @@ class Clipper:
         win = a[: a.size // 8000 * 8000].reshape(-1, 8000)      # janelas de 0.5s
         db = 20 * np.log10(np.sqrt((win ** 2).mean(1)) + 1e-9)
         peak = float(np.percentile(db, 95))
-        segs, _ = self.fast.transcribe(a, language="pt", vad_filter=True, beam_size=1)
+        segs, _ = self.fast.transcribe(a, language="pt", vad_filter=True, beam_size=1, initial_prompt=legendas.PROMPT)
         text = " ".join(s.text.strip() for s in segs)
         nt =norm(text); words = len(nt.split()); wps = words / SEG
         score, reasons = 0.0, []
@@ -155,18 +156,11 @@ class Clipper:
         # legendas com tempo por palavra
         a = self.audio(orig)
         with self.wlock:
-            segs, _ = self.whisper.transcribe(a, language="pt", word_timestamps=True, vad_filter=True)
-            words = [w for s in segs for w in (s.words or [])]
-        full = " ".join(w.word.strip() for w in words)
-        ass = os.path.join(d, "legenda.ass"); self.write_ass(words, ass)
-        with open(os.path.join(d, "fala.txt"), "w") as f: f.write(full + "\n")
-        vert = os.path.join(d, "vertical_legendado.mp4")
-        vf = ("[0:v]fps=30,split[a][b];[a]scale=270:480:force_original_aspect_ratio=increase,crop=270:480,boxblur=10:1,eq=brightness=-0.08,scale=1080:1920[bg];"
-              "[b]scale=1080:-2[fg];[bg][fg]overlay=(W-w)/2:(H-h)/2-120,"
-              f"subtitles='{ass}'")
-        subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-i", orig, "-filter_complex", vf,
-                        "-threads", "2", "-c:v", "libx264", "-preset", "veryfast", "-crf", "22", "-c:a", "copy",
-                        "-movflags", "+faststart", vert])
+            segs, _ = self.whisper.transcribe(a, language="pt", word_timestamps=True, vad_filter=True,
+                                              initial_prompt=legendas.PROMPT)
+            words = [dict(w=w.word.strip(), s=w.start, e=w.end) for s in segs for w in (s.words or [])]
+        full = legendas.build_subs(d, legendas.fix_words(words))
+        legendas.render_vertical(d)
         subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-ss", str(PRE), "-i", orig, "-frames:v", "1",
                         "-vf", "scale=640:-2", os.path.join(d, "capa.jpg")])
         chance = "ALTA" if total >= 12 or info["score"] >= 9 else ("MÉDIA" if total >= 7 else "INCERTA")
@@ -177,30 +171,6 @@ class Clipper:
             f.write(f"| {n} | {tlive} | **{chance}** | {total:.1f} | {'; '.join(info['reasons'])} | "
                     f"{full[:120].replace('|', '/')} |\n")
         log(f"CLIPE {n} pronto ({chance}) -> {d}")
-
-    @staticmethod
-    def write_ass(words, path):
-        def ts(t):
-            t = max(t, 0); return f"{int(t//3600)}:{int(t%3600//60):02d}:{t%60:05.2f}"
-        hdr = ("[Script Info]\nScriptType: v4.00+\nPlayResX: 1080\nPlayResY: 1920\n\n[V4+ Styles]\n"
-               "Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, "
-               "Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding\n"
-               "Style: Default,DejaVu Sans,78,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,6,2,2,60,60,430,1\n\n"
-               "[Events]\nFormat: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text\n")
-        lines, chunk = [], []
-        for w in words:
-            chunk.append(w)
-            if len(chunk) == 3 or w.word.strip()[-1:] in ".!?,":
-                lines.append(chunk); chunk = []
-        if chunk: lines.append(chunk)
-        with open(path, "w") as f:
-            f.write(hdr)
-            for c in lines:
-                for j, w in enumerate(c):   # palavra atual em amarelo
-                    end = c[j + 1].start if j + 1 < len(c) else w.end
-                    txt = " ".join(("{\\c&H00FFFF&}" + x.word.strip().upper() + "{\\c&HFFFFFF&}") if x is w
-                                   else x.word.strip().upper() for x in c)
-                    f.write(f"Dialogue: 0,{ts(w.start)},{ts(end)},Default,,0,0,0,,{txt}\n")
 
     # ---------- loop ----------
     def run(self, threshold):
