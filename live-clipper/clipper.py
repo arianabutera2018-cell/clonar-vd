@@ -21,7 +21,9 @@ SEG = 10            # segundos por segmento gravado
 PRE = 30            # segundos antes do pico incluídos no clipe
 POST = 20           # segundos depois do pico
 COOLDOWN = 45       # mínimo entre clipes
-KEEP_SEGS = 90      # segmentos mantidos no disco (15 min)
+KEEP_SEGS = 360     # segmentos mantidos no disco (1 h)
+MAX_AFTER = 180     # o clipe pode se estender até 3 min depois do pico
+MIN_WORDS = 10      # bloco de 10s com >= isso de palavras = ainda falando
 
 # palavras/expressões de reação em PT-BR (peso)
 HYPE = {
@@ -132,14 +134,15 @@ class Clipper:
                 reasons.append("chat: " + ", ".join(f"{k} x{v}" for k, v in sorted(kinds.items(), key=lambda x: -x[1])[:3]))
             self.chat_hist.append(rate)
         self.loud_hist.append(peak); self.wps_hist.append(wps)
-        self.seginfo[i] = dict(score=score, reasons=reasons, text=text, peak=peak)
+        self.seginfo[i] = dict(score=score, reasons=reasons, text=text, peak=peak, words=words)
         log(f"seg {i} {fmt_t(i*SEG)} nota={score:.1f} {'; '.join(reasons)} | {text[:70]}")
         return score
 
     # ---------- clipe ----------
-    def make_clip(self, center_i):
+    def make_clip(self, center_i, last=None):
         self.n_clips += 1; n = self.n_clips
-        first = max(0, center_i - PRE // SEG); last = center_i + POST // SEG
+        first = max(0, center_i - PRE // SEG)
+        last = center_i + POST // SEG if last is None else last
         info = max((self.seginfo.get(k, {"score": 0}) for k in range(first, last + 1)), key=lambda d: d["score"])
         total = sum(self.seginfo.get(k, {}).get("score", 0) for k in range(first, last + 1))
         tlive = fmt_t(first * SEG)
@@ -161,7 +164,7 @@ class Clipper:
             with open(os.path.join(d, "fala.txt"), "w", encoding="utf-8") as f: f.write(full + "\n")
         else:
             full = self.subtitle(d, orig)
-        self.finish_clip(n, d, orig, tlive, total, info, full)
+        self.finish_clip(n, d, orig, tlive, total, info, full, first, last)
 
     def subtitle(self, d, orig):
         a = self.audio(orig)
@@ -173,12 +176,13 @@ class Clipper:
         legendas.render_vertical(d)
         return full
 
-    def finish_clip(self, n, d, orig, tlive, total, info, full):
+    def finish_clip(self, n, d, orig, tlive, total, info, full, first=None, last=None):
         subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-ss", str(PRE), "-i", orig, "-frames:v", "1",
                         "-vf", "scale=640:-2", os.path.join(d, "capa.jpg")])
         chance = "ALTA" if total >= 12 or info["score"] >= 9 else ("MÉDIA" if total >= 7 else "INCERTA")
         meta = dict(n=n, tempo_live=tlive, chance=chance, nota=round(total, 1), motivos=info["reasons"],
-                    fala=full, pasta=d, revisado_pelo_claude=False)
+                    fala=full, pasta=d, revisado_pelo_claude=False,
+                    seg_inicio=first, seg_fim=last, segdir=os.path.abspath(self.segdir))
         json.dump(meta, open(os.path.join(d, "meta.json"), "w"), ensure_ascii=False, indent=1)
         with open(self.report, "a") as f:
             f.write(f"| {n} | {tlive} | **{chance}** | {total:.1f} | {'; '.join(info['reasons'])} | "
@@ -204,14 +208,18 @@ class Clipper:
             try: s = self.analyze(i) or 0
             except Exception as e: log("erro análise", i, e); s = 0
             if pending is not None and i >= pending + POST // SEG:
-                self.render.submit(self.safe_clip, pending); pending = None
+                # só fecha o clipe quando o streamer fizer uma pausa (assunto terminou)
+                if self.seginfo.get(i, {}).get("words", 0) >= MIN_WORDS and (i - pending) * SEG < MAX_AFTER:
+                    log(f"    ainda falando em {fmt_t(i*SEG)}; estendendo o clipe")
+                else:
+                    self.render.submit(self.safe_clip, pending, i); self.last_clip_t = i * SEG; pending = None
             if s >= threshold and pending is None and i * SEG - self.last_clip_t >= COOLDOWN:
                 pending = i; self.last_clip_t = i * SEG
                 log(f">>> momento detectado em {fmt_t(i*SEG)} (nota {s:.1f}), aguardando {POST}s")
             old = self.seg_path(i - KEEP_SEGS)
             if os.path.exists(old) and (pending is None or i - KEEP_SEGS < pending - PRE // SEG): os.remove(old)
             i += 1
-        if pending is not None: self.render.submit(self.safe_clip, pending)
+        if pending is not None: self.render.submit(self.safe_clip, pending, i - 1)
         self.render.shutdown(wait=True); log("FIM. Relatório:", self.report)
 
     def has_segs(self):
@@ -226,8 +234,8 @@ class Clipper:
         if self.tries > 6: return False
         self.start_recorder(); return True
 
-    def safe_clip(self, i):
-        try: self.make_clip(i)
+    def safe_clip(self, i, last=None):
+        try: self.make_clip(i, last)
         except Exception as e: log("erro ao gerar clipe", i, e)
 
 

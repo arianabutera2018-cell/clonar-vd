@@ -9,6 +9,8 @@
   python3 revisar.py OUT N corrigir "errado" "certo"
                                     -> salva a correção (vale p/ clipes futuros) e
                                        refaz a legenda do clipe N
+  python3 revisar.py OUT N estender SEGUNDOS
+                                    -> refaz o original.mp4 do clipe N com mais SEGUNDOS no fim
   python3 revisar.py OUT N refazer  -> retranscreve o clipe N e refaz a legenda
 CHANCE: ALTA | MÉDIA | INCERTA | DESCARTAR
 """
@@ -57,6 +59,21 @@ if __name__ == "__main__":
                 print(f"[{m['n']}] {m['tempo_live']} auto={m['chance']} nota={m['nota']} motivos={m['motivos']}\n"
                       f"    fala: {m['fala'][:300]}\n    folha: {sheet(folder)}")
         rewrite_report(out)
+    elif sys.argv[3] == "estender":
+        n, extra = int(sys.argv[2]), int(sys.argv[4])
+        folder, m = next((f, m) for f, m in clips(out) if m["n"] == n)
+        if m.get("seg_fim") is None: sys.exit("clipe antigo, sem índice de segmentos")
+        last = m["seg_fim"] + -(-extra // 10)
+        segs = [os.path.join(m["segdir"], f"seg_{k:06d}.ts") for k in range(m["seg_inicio"], last + 1)]
+        faltam = [x for x in segs if not os.path.exists(x)]
+        if faltam: sys.exit(f"segmentos já apagados ou ainda não gravados: {len(faltam)}")
+        lst = os.path.join(folder, "list.txt")
+        open(lst, "w").write("".join(f"file '{x}'\n" for x in segs))
+        subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-f", "concat", "-safe", "0", "-i", lst, "-c", "copy",
+                        "-bsf:a", "aac_adtstoasc", "-movflags", "+faststart", os.path.join(folder, "original.mp4")], check=True)
+        os.remove(lst); m["seg_fim"] = last
+        json.dump(m, open(os.path.join(folder, "meta.json"), "w"), ensure_ascii=False, indent=1)
+        print(f"clipe {n} agora tem {(last - m['seg_inicio'] + 1) * 10}s")
     elif sys.argv[3] in ("corrigir", "refazer"):
         sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
         import legendas
