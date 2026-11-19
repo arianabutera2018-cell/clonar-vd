@@ -50,7 +50,7 @@ def rewrite_report(out):
             why = m.get("comentario_claude") or "; ".join(m["motivos"])
             f.write(f"| {m['n']} | {m['tempo_live']} | **{ch}** | {'sim' if m.get('revisado_pelo_claude') else 'não'} | "
                     f"{why.replace('|', '/')} | {m['fala'][:100].replace('|', '/')} | "
-                    f"`{os.path.relpath(os.path.join(folder, 'original.mp4'), out)}` |\n")
+                    f"`{os.path.relpath(os.path.join(folder, 'vertical_9x16.mp4'), out)}` |\n")
 
 
 if __name__ == "__main__":

@@ -95,12 +95,15 @@ def render_split(folder, cam="480:270:0:405", src="original.mp4", out="vertical_
     """Formato Reels/TikTok: câmera do streamer em cima, centro do jogo embaixo.
     1080x1920, H.264, yuv420p, 30 fps, MP4 (spec que o Instagram recomprime menos).
     cam = recorte da facecam no vídeo 1920x1080 (largura:altura:x:y)."""
-    w, h = (int(v) for v in cam.split(":")[:2])
-    top = int(1080 * h / w) // 2 * 2
-    bot = 1920 - top
-    gw = int(1080 * 1080 / bot) // 2 * 2
-    vf = (f"[0:v]fps=30,split[a][b];[a]crop={cam},scale=1080:{top}[cam];"
-          f"[b]crop={gw}:1080:(iw-{gw})/2:0,scale=1080:{bot}[game];[cam][game]vstack,format=yuv420p")
+    if cam == "cheia":   # cenas fora do jogo (câmera em tela cheia): recorte central 9:16
+        vf = "[0:v]fps=30,crop=608:1080:(iw-608)/2:0,scale=1080:1920,format=yuv420p"
+    else:
+        w, h = (int(v) for v in cam.split(":")[:2])
+        top = int(1080 * h / w) // 2 * 2
+        bot = 1920 - top
+        gw = int(1080 * 1080 / bot) // 2 * 2
+        vf = (f"[0:v]fps=30,split[a][b];[a]crop={cam},scale=1080:{top}[cam];"
+              f"[b]crop={gw}:1080:(iw-{gw})/2:0,scale=1080:{bot}[game];[cam][game]vstack,format=yuv420p")
     subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-i", os.path.join(folder, src), "-filter_complex", vf,
                     "-threads", "2", "-c:v", "libx264", "-preset", "veryfast", "-crf", "19", "-c:a", "aac",
                     "-b:a", "192k", "-movflags", "+faststart", os.path.join(folder, out)], check=True)
