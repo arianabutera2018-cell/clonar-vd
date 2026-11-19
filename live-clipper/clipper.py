@@ -53,8 +53,8 @@ def fmt_t(sec):
 
 
 class Clipper:
-    def __init__(self, url, out, model_name, quality, vertical=False):
-        self.url, self.out, self.quality, self.vertical = url, out, quality, vertical
+    def __init__(self, url, out, model_name, quality, vertical=False, cam=None):
+        self.url, self.out, self.quality, self.vertical, self.cam = url, out, quality, vertical, cam
         self.segdir = os.path.join(out, "_segments"); self.clipdir = os.path.join(out, "clips")
         os.makedirs(self.segdir, exist_ok=True); os.makedirs(self.clipdir, exist_ok=True)
         self.report = os.path.join(out, "RELATORIO.md")
@@ -162,6 +162,9 @@ class Clipper:
         if not self.vertical:
             full = " ".join(self.seginfo.get(k, {}).get("text", "") for k in range(first, last + 1)).strip()
             with open(os.path.join(d, "fala.txt"), "w", encoding="utf-8") as f: f.write(full + "\n")
+            if self.cam:   # versão 9:16 pronta pra Reels/TikTok
+                try: legendas.render_split(d, self.cam)
+                except Exception as e: log("erro no 9:16", e)
         else:
             full = self.subtitle(d, orig)
         self.finish_clip(n, d, orig, tlive, total, info, full, first, last)
@@ -245,5 +248,7 @@ if __name__ == "__main__":
     p.add_argument("--model", default="small"); p.add_argument("--threshold", type=float, default=5.0)
     p.add_argument("--quality", default="best[height<=720]/best")
     p.add_argument("--vertical", action="store_true", help="gera também versão 9:16 legendada")
+    p.add_argument("--cam", default="480:270:0:405",
+                   help="recorte da facecam (L:A:X:Y no 1080p) p/ o 9:16 câmera-em-cima; 'nao' desliga")
     a = p.parse_args()
-    Clipper(a.url, a.out, a.model, a.quality, a.vertical).run(a.threshold)
+    Clipper(a.url, a.out, a.model, a.quality, a.vertical, None if a.cam == "nao" else a.cam).run(a.threshold)

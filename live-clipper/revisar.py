@@ -11,6 +11,8 @@
                                        refaz a legenda do clipe N
   python3 revisar.py OUT N estender SEGUNDOS
                                     -> refaz o original.mp4 do clipe N com mais SEGUNDOS no fim
+  python3 revisar.py OUT N vertical [L:A:X:Y]
+                                    -> gera vertical_9x16.mp4 (câmera em cima, jogo embaixo)
   python3 revisar.py OUT N refazer  -> retranscreve o clipe N e refaz a legenda
 CHANCE: ALTA | MÉDIA | INCERTA | DESCARTAR
 """
@@ -59,6 +61,12 @@ if __name__ == "__main__":
                 print(f"[{m['n']}] {m['tempo_live']} auto={m['chance']} nota={m['nota']} motivos={m['motivos']}\n"
                       f"    fala: {m['fala'][:300]}\n    folha: {sheet(folder)}")
         rewrite_report(out)
+    elif sys.argv[3] == "vertical":
+        sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+        import legendas
+        folder = next(f for f, m in clips(out) if m["n"] == int(sys.argv[2]))
+        legendas.render_split(folder, *(sys.argv[4:5] or []))
+        print("ok", os.path.join(folder, "vertical_9x16.mp4"))
     elif sys.argv[3] == "estender":
         n, extra = int(sys.argv[2]), int(sys.argv[4])
         folder, m = next((f, m) for f, m in clips(out) if m["n"] == n)

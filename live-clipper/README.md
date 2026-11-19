@@ -30,6 +30,7 @@ python3 revisar.py live_out 3 ALTA "comentário"
 ## Limitações
 
 - Testado com sucesso em **Twitch** e **Kick** (18/11/2026).
+- Cada clipe sai em 16:9 (original.mp4, cópia da live) e em 9:16 câmera-em-cima (vertical_9x16.mp4: 1080x1920, H.264, 30 fps). Ajuste --cam se a facecam do streamer estiver em outro lugar.
 - O **YouTube** bloqueia downloads vindos de servidores (pede login). Funciona com Twitch e Kick.
 - Chat da Kick: a API devolve só as últimas ~25 mensagens; em chats muito rápidos o pico aparece, mas o número exato fica abaixo do real.
 - Em lives com muitos momentos seguidos, a análise pode atrasar alguns minutos.
