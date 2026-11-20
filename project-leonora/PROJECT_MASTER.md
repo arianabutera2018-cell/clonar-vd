@@ -32,19 +32,31 @@ O mundo terá **cinco regiões** planejadas:
 
 | Região | Situação |
 |---|---|
-| Leonora Downtown | planejada |
+| Leonora Downtown | planejada — ✅ **primeira região oficial de teste** |
 | Ocean Coast | planejada |
 | Westside | planejada |
 | Industrial Bay | planejada |
 | Green County | planejada |
 
 O desenvolvimento começa por **uma pequena região de teste**, e não pelo mapa inteiro.
+✅ A região de teste aprovada é **LEONORA DOWNTOWN**: o primeiro pedaço do jogo será uma **pequena área** dentro dela. O tamanho e o conteúdo dessa área ainda serão planejados.
 
 ## 4. Personagens principais (já decidido)
 
-- **Protagonista masculino obrigatório**, com **identidade e aparência fixas**. O jogador não cria outro personagem: ele joga com esse protagonista.
-  - Corpo humano **realista, atlético e atraente**, com **anatomia natural**.
+- **Protagonista masculino, adulto e obrigatório**: o jogador sempre joga com ele e não cria outro personagem.
+  - Possui **identidade e aparência fixas**.
+  - Corpo **humano, realista, atlético e atraente**, com **anatomia natural**.
 - **Uma personagem feminina adulta**, importante para a história.
+
+## 4.1 Casa, guarda-roupa e aparência (já decidido)
+
+- A **casa dos protagonistas** terá um **guarda-roupa interativo**.
+- No guarda-roupa, o jogador escolhe a aparência do protagonista entre **quatro opções iniciais**:
+  1. **Roupa de calor**
+  2. **Roupa de frio**
+  3. **Roupa formal**
+  4. **Sem camisa**
+- A **aparência escolhida é salva** no jogo: ao voltar, o protagonista continua com a última escolha.
 
 ## 5. Princípios do projeto
 
@@ -88,7 +100,8 @@ O desenvolvimento começa por **uma pequena região de teste**, e não pelo mapa
 - Em quais **idiomas** o jogo será lançado (português, inglês...)?
 
 ### Região de teste
-- Qual das cinco regiões (ou um pedaço dela) será a **região de teste**?
+- ~~Qual das cinco regiões será a região de teste?~~ ✅ **Respondido:** Leonora Downtown.
+- Qual o **tamanho** e o **conteúdo** da pequena área de teste dentro de Leonora Downtown? (é a próxima tarefa)
 
 ### Desempenho
 - Além do POCO X7 Pro, quais **outros aparelhos** (celulares mais fracos, PC, console) serão usados nos testes?

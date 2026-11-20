@@ -25,7 +25,7 @@
 
 | Região | Descrição | Situação |
 |---|---|---|
-| **Leonora Downtown** | ❓ ainda não descrita | planejada |
+| **Leonora Downtown** | ❓ ainda não descrita | planejada — ✅ **região de teste aprovada** |
 | **Ocean Coast** | ❓ ainda não descrita | planejada |
 | **Westside** | ❓ ainda não descrita | planejada |
 | **Industrial Bay** | ❓ ainda não descrita | planejada |
@@ -35,7 +35,8 @@
 
 ### 2.2 Região de teste
 - ✅ O desenvolvimento começa por **uma pequena região de teste**.
-- ❓ Qual região (ou pedaço dela) será usada.
+- ✅ **Região aprovada: LEONORA DOWNTOWN** (aprovada em 20/11/2026). O teste será uma **pequena área** dentro dela, e não a região inteira.
+- ❓ Tamanho exato e localização da pequena área dentro de Leonora Downtown.
 - ❓ O que precisa existir nela para o teste ser considerado pronto.
 
 ### 2.3 Tempo e clima
@@ -45,7 +46,8 @@
 ## 3. Personagens
 
 ### 3.1 Protagonista (✅ decidido)
-- **Masculino**, obrigatório: o jogador sempre joga com ele.
+- **Masculino** e **adulto**.
+- **Obrigatório**: o jogador sempre joga com ele.
 - **Identidade e aparência fixas.** Não existe "criar personagem".
 - Corpo humano **realista, atlético e atraente**, com **anatomia natural**.
 - O modelo será feito no **Blender** (modelo próprio).

@@ -5,6 +5,29 @@
 
 ---
 
+## 20/11/2026 — Região de teste aprovada e correções na documentação
+
+**Tipo:** Documentação (nada foi alterado no jogo)
+
+### Decisão aprovada pelo proprietário
+- ✅ **LEONORA DOWNTOWN** é a **primeira região oficial de teste** do jogo. O teste será feito numa **pequena área** dentro dela.
+
+### Correções (decisões que já existiam, mas faltavam ou estavam incompletas nos documentos)
+- O protagonista agora está registrado como **adulto** (`PROJECT_MASTER.md` e `GAME_DESIGN.md`).
+- `PROJECT_MASTER.md` passou a registrar como decisões tomadas:
+  - protagonista **obrigatório**, com **identidade e aparência fixas**;
+  - corpo **humano, realista, atlético e atraente**, com **anatomia natural**;
+  - **guarda-roupa interativo** na casa;
+  - as **quatro opções iniciais**: roupa de calor, roupa de frio, roupa formal e sem camisa;
+  - **aparência escolhida salva** no jogo.
+
+### Outras atualizações
+- `GAME_DESIGN.md`: Leonora Downtown marcada como região de teste aprovada.
+- `CURRENT_STATUS.md`: estado atualizado com a região de teste escolhida.
+- `NEXT_TASK.md`: nova próxima tarefa, planejar em detalhes a pequena área de teste de Leonora Downtown (sem construir).
+
+---
+
 ## 20/11/2026 — Documentação inicial criada
 
 **Tipo:** Documentação (nada foi alterado no jogo)

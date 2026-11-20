@@ -13,7 +13,8 @@
 - ⬜ Nada foi construído no Roblox Studio.
 - ⬜ Nenhum modelo 3D foi criado no Blender para o projeto.
 - ⬜ Nenhum script foi escrito para o projeto.
-- ⬜ A região de teste ainda não foi escolhida.
+- ✅ Região de teste escolhida: **Leonora Downtown** (uma pequena área dentro dela).
+- ⬜ A pequena área de teste ainda não foi planejada em detalhes (próxima tarefa).
 
 ## 2. A experiência no Roblox
 
